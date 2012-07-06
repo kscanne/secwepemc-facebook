@@ -32,86 +32,74 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
+
 msgid "life event"
-msgstr "Zochitika Pamoyo"
+msgstr "zochitika pamoyo"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "link"
-msgstr "Msachikonde"
+msgstr "ulalo"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "photo"
-msgstr "Chithunzi"
+msgstr "chithunzi"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
-msgstr ""
+msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status"
-msgstr "Ganizo"
+msgstr "mbalume"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "Ganizo"
+msgstr "mbalume"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
-#, fuzzy
 msgid "%a1, %a2 and %a3 like this."
-msgstr "%a akonda izi."
+msgstr "%a1, %a2 ndi %a3 akonda izi."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%a wawonjezera chithunzi chatsopano."
+msgstr[1] "%a wawonjezera zithunzi %d zatsopano."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%a1 wawonjezera chithunzi chimodzi chatsopano m'buku la zithunzi %a2."
+msgstr[1] "%a1 wawonjezera zithunzi %d zatsopano m'buku la zithunzi %a2."
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "%a akonda izi."
+msgstr "%a1 ndi %a2 ndi ambwana tsopano."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "Agawa ndi %d"
+msgstr "%a1 ndi %a2 tsopano ndi anzake a %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "Agawa ndi %d"
+msgstr "%a1 ndi %a2 achita ndemanga pa %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a akonda izi."
+msgstr "%a ndi %a2 akonda %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
-#, fuzzy
 msgid "%a1 and %a2 like this."
-msgstr "%a akonda izi."
+msgstr "%a ndi %a2 akonda ichi."
 
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
-#, fuzzy
 msgid "%a1 and %a2 shared %a3."
-msgstr "Agawa ndi %d"
+msgstr "%a1 ndi %a2 agawa %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "Agawa ndi %d"
+msgstr "%a1 and %a2 agawa %a4 %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -128,27 +116,27 @@ msgstr "Zokhudza Dambwe lanu"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "%a wasintha chithunzi chake."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "%a wasintha chithunzi chake"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr ""
+msgstr "%a1 wachita ndemanga pa %a2"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr ""
+msgstr "%a1 wachita ndemanga pa %a2 zake zomwe."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr ""
+msgstr "%a1 wachita ndemanga pa %a2 zake zomwe."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr ""
+msgstr "%a1 wachita ndemanga pa %a2 zanu."
 
 msgid "Activity Log"
 msgstr "Zochitikachitika"
@@ -158,7 +146,7 @@ msgstr "Onjezani Mzanu"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr ""
+msgstr "Onjezerani Zokonda..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -173,39 +161,35 @@ msgid "a few seconds ago"
 msgstr "mphindikati zingapo zapitazo"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a wakonda iczi."
+msgstr "%a1 ali pa %a2."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "%a1 tsopano ndi mnzake wa %a2 ndi %a3."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-#, fuzzy
 msgid "%a1 likes %a2."
-msgstr "%a wakonda iczi."
+msgstr "%a1 wakonda %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes a %a2."
-msgstr "%a wakonda iczi."
+msgstr "%a1 wakonda %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a wakonda iczi."
+msgstr "%a1 wakonda %a3 za %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
+
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a wakonda iczi."
+msgstr "%a1 wakonda %a2 ndi %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
-msgstr "%a wakonda iczi."
+msgstr "%a wakonda izi."
 
 #. %a stands for something like "3 people"
 msgid "%a like this."
@@ -213,7 +197,7 @@ msgstr "%a akonda izi."
 
 #. Always a link. Used in longer sentences like "John Doe shared a link"
 msgid "a link"
-msgstr ""
+msgstr "ulalo"
 
 #. Heading above the apps you use, in left-hand navigation on home page
 msgid "APPS"
@@ -228,14 +212,12 @@ msgid "%A at %s"
 msgstr "%A mma %s"
 
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
-#, fuzzy
 msgid "%a1 shared %a2."
-msgstr "Agawa ndi %d"
+msgstr "%a1 wagawa %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "Agawa ndi %d"
+msgstr "%a1 wagawa %a3 za %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -243,25 +225,23 @@ msgstr "Funsani Funso"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr ""
+msgstr "%a1 am'badika pa %a3 za %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "Agawa ndi %d"
+msgstr "%a1 am'badika pa %a2."
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "Agawa ndi %d"
+msgstr "%a1 am'badika pa zithunzi za %a2."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a wasintha chikutiro chake."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a wasintha chikutiro chake."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -308,7 +288,7 @@ msgstr "Tsekani"
 
 #. A link that takes you to a list of your closest friends on Facebook
 msgid "Close Friends"
-msgstr "Tsekani Anzanu"
+msgstr "Anzanu a Ponda-apa-npondenso"
 
 #. Verb. A link under a post that allows you to comment on the post.
 msgid "Comment"
@@ -316,11 +296,11 @@ msgstr "Chitani ndemanga"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Makuki"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Yankhani"
 
 msgid "Create an Ad"
 msgstr "Ikani Malonda"
@@ -359,7 +339,7 @@ msgstr[1] "mphindi %d zapitazo"
 msgid "1 mutual friend"
 msgid_plural "%d mutual friends"
 msgstr[0] "Womudziwa mmodzi"
-msgstr[1] "Anzanu %d"
+msgstr[1] "Owadziwa %d"
 
 #. %d stands for a number, no need to translate it
 msgid "1 NEW STORY"
@@ -376,53 +356,51 @@ msgstr[1] "NKHANI ZATSOPANO %d"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mmodzi wina"
+msgstr[1] "anthu ena %d"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "Womudziwa mmodzi"
-msgstr[1] "Anzanu %d"
+msgstr[0] "mnzanu wina"
+msgstr[1] "anzanu ena %d"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "Womudziwa mmodzi"
-msgstr[1] "Anzanu %d"
+msgstr[0] "tsamba lina limodzi"
+msgstr[1] "masamba ena %d"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 #, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "Womudziwa mmodzi"
-msgstr[1] "Anzanu %d"
+msgstr[0] "munthu wina mmodzi"
+msgstr[1] "anthu ena %d"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
+msgstr[0] "Munthu mmodzi"
 msgstr[1] "Anthu %d"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "mphindikati imodzi yapitayo"
+msgstr[1] "mphindikati %d zapitazo"
 
 #. %d stands for a number, no need to translate it
 #. This means a post has been shared %d times
 msgid "1 share"
 msgid_plural "%d shares"
-msgstr[0] "Wagawa mmodzi"
-msgstr[1] "Agawa ndi %d"
+msgstr[0] "Wagawa m'modzi"
+msgstr[1] "Agawa %d"
 
 #. Appears at the bottom of your home time line, opposite "More Stories"
 #. Allows you to hide certain stories from your home page
@@ -460,24 +438,23 @@ msgid "Find Friends"
 msgstr "Pezani Anzanu"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Pezani Masamba Ambiri"
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Anzanu"
+msgstr "Anzanu pa Mchezo"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr "Kupempha Chimnzake"
+msgstr "Ofuna Chipongo"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
-msgstr "Anzanu"
+msgstr "Abwenzi"
 
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
-msgstr "ANZANU"
+msgstr "ABWENZI"
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
@@ -493,7 +470,7 @@ msgstr "Bwalo"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "ZOKONDA"
 
 msgid "Life Event"
 msgstr "Zochitika Pamoyo"
@@ -508,16 +485,14 @@ msgid "Likes"
 msgstr "Makonda"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Kondani"
+msgstr "Kondani Tsamba"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Kondani Tsambali"
 
-#, fuzzy
 msgid "Links"
-msgstr "Makonda"
+msgstr "Maulalo"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -539,7 +514,7 @@ msgstr "Mauthenga"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Zithunzi za pa Lamya"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -547,7 +522,7 @@ msgstr "Zambiri"
 
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "AMBIRI"
+msgstr "ZAMBIRI"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
@@ -555,11 +530,11 @@ msgstr "Nkhani Zambiri"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
-msgstr ""
+msgstr "Zatsopano"
 
 #. Appears in left-hand navigation for some users
 msgid "Music"
-msgstr ""
+msgstr "Nyimbo"
 
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
@@ -573,15 +548,14 @@ msgid "News Feed"
 msgstr "Mpheketsera"
 
 msgid "Notes"
-msgstr ""
+msgstr "Timakalata"
 
 msgid "Notifications"
-msgstr ""
+msgstr "Zolengeza"
 
 #. Button label; postpone confirmation of a friend request
-#, fuzzy
 msgid "Not Now"
-msgstr "Pompano"
+msgstr "Osati Panopo"
 
 #. A link that takes you to the latest posts on your timeline
 msgid "Now"
@@ -603,7 +577,7 @@ msgstr "Chithunzi"
 
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
-msgstr "Zithinzi"
+msgstr "Zithunzi"
 
 #. Link that allows you to "check in" somewhere
 #. Appears on profile above "What's on your mind?", after "Status" and "Photo"
@@ -615,9 +589,8 @@ msgid "Places"
 msgstr "Malo"
 
 #. Appears in left-hand navigation for some users, under "APPS"
-#, fuzzy
 msgid "Pokes"
-msgstr "Makonda"
+msgstr "Okodola"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -631,9 +604,8 @@ msgid "Profile"
 msgstr "Bwalo"
 
 #. Appears under APPS for some users in left-hand navigation
-#, fuzzy
 msgid "Questions"
-msgstr "Funsani Funso"
+msgstr "Mafunso"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
@@ -642,7 +614,7 @@ msgstr "Zochitika Kumene"
 
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "MBALUME YATSOPANO"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
@@ -650,16 +622,15 @@ msgstr "Masamba Okuganizirani"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr "Chitsani Chizirezire"
+msgstr "Chotsani Chizirezire"
 
 #. Option on every post on your personal timeline (now "Highlight"?)
 msgid "Resize"
 msgstr "Kulitsani"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Lembani ndemanga"
+msgstr "A %s, lembani ndemanga..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -667,29 +638,26 @@ msgstr "Fufuzani"
 
 #. Text that appears in the search box at the top of the page
 msgid "Search for people, places and things"
-msgstr ""
+msgstr "Fufuzani anthu, malo ndi zinthu"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
 msgstr "Onani Zonse"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
-msgstr "Kupempha Chimnzake"
+msgstr "Onani Ofuna Chipongo Onse"
 
-#, fuzzy
 msgid "See All Messages"
-msgstr "Mauthenga"
+msgstr "Onani Mauthenga Onse"
 
 msgid "See All Notifications"
-msgstr ""
+msgstr "Onani Zolengeza Zonse"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Tsekani Anzanu"
+msgstr "Onani Ubwenzi"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -722,7 +690,7 @@ msgstr "Malonda"
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
-msgstr "Ganizo"
+msgstr "Mbalume"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -730,7 +698,7 @@ msgstr "Zobetcha"
 
 #. Right-hand navigation, similar to "People you may know", next to "See All"
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Magulu Zokuganizirani"
 
 msgid "Tag Friends"
 msgstr "Badikani Anzanu"
@@ -749,18 +717,16 @@ msgid "Timeline"
 msgstr "Malo"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "Agawa ndi %d"
+msgstr "%T pafupi ndi %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Kwa:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Nkhani Zambiri"
+msgstr "Nkhani Zam'dede"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -773,16 +739,16 @@ msgstr "Sinthani Zokhudza Inu"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Lembani Ganizo"
+msgstr "Lembani Mbalume"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Gwiritsani Ntchito Facebook Ngati: "
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] ""
+msgstr[0] "Onani ndemanga imodzi"
 msgstr[1] "Onani ndemanga %d zonse"
 
 msgid "Wall Photos"
@@ -790,7 +756,7 @@ msgstr "Zithunzi za pakhoma"
 
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
-msgstr ""
+msgstr "Takulandirani"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
@@ -798,7 +764,7 @@ msgstr "Mwalinganji?"
 
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
-msgstr "Lembani ndemanga"
+msgstr "Lembani ndemanga..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
@@ -809,14 +775,12 @@ msgid "Yesterday at %s"
 msgstr "Dzulo mma %s"
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "%a akonda izi."
+msgstr "Inu ndi %a mwakonda izi."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "%a akonda izi."
+msgstr "Inu, %a1 ndi %a2 mwakonda izi."
 
 msgid "You like this."
 msgstr "Mwakonda izi."
