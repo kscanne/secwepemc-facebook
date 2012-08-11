@@ -7,7 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-07-30 20:12:30-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
-"Last-Translator: Peter Rohloff\n"
+"Last-Translator: Robert Henderson\n"
 "Language-Team: Kaqchikel\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -32,38 +32,32 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Nima'q taq nimaq'ij"
+msgstr "Nima'q taq b'anob'äl pa k'aslem"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "link"
-msgstr "Man jeb'ël ta chik"
+msgstr "q'axal"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "photo"
-msgstr "Wachib'äl"
+msgstr "wachib'äl"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
 msgstr "chi rij"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status"
-msgstr "Rub'eyal"
+msgstr "rub'eyal"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "Rub'eyal"
+msgstr "k'ak'a rub'eyal"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
-#, fuzzy
 msgid "%a1, %a2 and %a3 like this."
-msgstr "%a jeb'ël nikitz'ët re re'"
+msgstr "%a1,%a2 chuqa' %a3 jeb'ël nikitz'ët re re'"
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
@@ -78,40 +72,33 @@ msgstr[0] ""
 msgstr[1] ""
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "%a jeb'ël nikitz'ët re re'"
+msgstr "Wakamin %a1 rachib'il %a2."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%d mul jacho'n"
+msgstr "Wakamin %a1, %a2 rachib'il %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%d mul jacho'n"
+msgstr "%a1, %a2 xetzijon pa ruwi' %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a jeb'ël nikitz'ët re re'"
+msgstr "%a1 chuqa' %a2 jeb'ël nikitz'ët %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
-#, fuzzy
 msgid "%a1 and %a2 like this."
-msgstr "%a jeb'ël nikitz'ët re re'"
+msgstr "%a1 chuqa' %a2 jeb'ël nikitz'ët re re'."
 
 #. %a1 and %a2 as above, and %a3 is something like (always?) "a link"
-#, fuzzy
 msgid "%a1 and %a2 shared %a3."
-msgstr "%d mul jacho'n"
+msgstr "%a1 chuqa' %a2 xkijäch %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%d mul jacho'n"
+msgstr "%a1 chuqa' %a2 xkijäch ru%a3 %a4."
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -174,35 +161,30 @@ msgid "a few seconds ago"
 msgstr "Ka'i' oxi' ch'utaq ramaj ik'owinäq"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a niqa chi ruwäch re re'"
+msgstr "%a1 k'o pa %a2."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "Wakamin %a1 kachib'il %a2 chuqa' %a3."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
-#, fuzzy
 msgid "%a1 likes %a2."
-msgstr "%a niqa chi ruwäch re re'"
+msgstr "%a1 niqa chi ruwäch %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes a %a2."
-msgstr "%a niqa chi ruwäch re re'"
+msgstr "%a1 niqa chi ruwäch %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status" 
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a niqa chi ruwäch re re'"
+msgstr "%a1 niqa chi ruwäch ru%a3 %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a niqa chi ruwäch re re'"
+msgstr "%a1 niqa chi ruwäch %a2, chuqa' %a3."
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -229,24 +211,20 @@ msgid "%A at %s"
 msgstr "Ri %A pa %s"
 
 #. %a1 is a person's name, %a2 is something like (always?) "a link"
-#, fuzzy
 msgid "%a1 shared %a2."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xujäch %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xujäch ru%a3, %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xujäch ru%a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xujäch ru%a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -254,25 +232,23 @@ msgstr "K'utunïk"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr ""
+msgstr "%a1 xok pa retal ru%a3 %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xok pa retal retal %a2."
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "%d mul jacho'n"
+msgstr "%a1 xok pa retal ruwachib'äl %a2." 
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a xujäl ruwachb'äl."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a xujäl ruwachb'äl."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -327,7 +303,7 @@ msgstr "Ka'i' oxi' tzij"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Ch'utin nuksamaj"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -387,32 +363,29 @@ msgstr[1] "k'ak'a' taq rutzijol"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "jun chïk"
+msgstr[1] "%d chïk"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "re 1 re' qachib'il"
-msgstr[1] "%d qachib'il"
+msgstr[0] "jun chïk rachib'il."
+msgstr[1] "%d chïk rachib'ila'"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "re 1 re' qachib'il"
-msgstr[1] "%d qachib'il"
+msgstr[0] "jun chïk ruxaq wuj"
+msgstr[1] "%d chïk ruxaq wuj"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "re 1 re' qachib'il"
-msgstr[1] "%d qachib'il"
+msgstr[0] "jun chïk winäq"
+msgstr[1] "%d chïk winäq"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -474,9 +447,8 @@ msgid "Find More Pages"
 msgstr ""
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Taq achib'il"
+msgstr "Taq achib'il pa ya'l tzijonem"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -519,16 +491,14 @@ msgid "Likes"
 msgstr "Jeb'ël"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Jeb'ël"
+msgstr "Ruxaq richin jeb'elïk"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Jeb'ël re ruxaq re'"
 
-#, fuzzy
 msgid "Links"
-msgstr "Jeb'ël"
+msgstr "Taq q'axal"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -626,9 +596,8 @@ msgid "Places"
 msgstr "Taq k'ojlib'äl"
 
 #. Appears in left-hand navigation for some users, under "APPS"
-#, fuzzy
 msgid "Pokes"
-msgstr "Jeb'ël"
+msgstr "Chapïk"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -642,7 +611,6 @@ msgid "Profile"
 msgstr "b'anikil"
 
 #. Appears under APPS for some users in left-hand navigation
-#, fuzzy
 msgid "Questions"
 msgstr "K'utunïk"
 
@@ -668,9 +636,8 @@ msgid "Resize"
 msgstr "Ruk'exik runimilem"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Tatz'ib'aj jun ka'i' oxi' taq tzij..."
+msgstr "%s, tatz'ib'aj jun ka'i' oxi' taq tzij..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -685,11 +652,9 @@ msgid "See All"
 msgstr "Rutz'etik ronojel"
 
 #. In the drop-down menu with recent Friend Requests
-#, fuzzy
 msgid "See All Friend Requests"
-msgstr " Taqoj richin ajowab'äl"
+msgstr "Taqoj richin ajowab'äl"
 
-#, fuzzy
 msgid "See All Messages"
 msgstr "Rutz'etik ronojel taq taqo'n"
 
@@ -698,9 +663,8 @@ msgstr "Rutz'etik ronojel ri taq tz'ib'anem"
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Utziläj taq achib'il"
+msgstr "Natz'ët iwachib'ilanïk"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -761,18 +725,16 @@ msgid "Timeline"
 msgstr "K'aslemal"
 
 #. %T is a timestamp ("11 hours ago"), %a is a location ("Dublin, Ireland")
-#, fuzzy
 msgid "%T near %a"
-msgstr "%d mul jacho'n"
+msgstr "%T naqaj %a"
 
 #. Specifies recipient when you send a private message
 msgid "To:"
 msgstr "Chi re:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
-#, fuzzy
 msgid "Top Stories"
-msgstr "Ch'aqa' chik b'anob'äl"
+msgstr "Yalan nik'atzin b'anob'äl"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -821,14 +783,12 @@ msgid "Yesterday at %s"
 msgstr "Iwir pa %s "
 
 #. %a stands for something like "4 others"
-#, fuzzy
 msgid "You and %a like this."
-msgstr "%a jeb'ël nikitz'ët re re'."
+msgstr "Rat chuqa' %a jeb'ël nikitz'ët re re'."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "%a jeb'ël nikitz'ët re re'."
+msgstr "Rat, %a1, chuqa' %a2 jeb'ël nikitz'ët re re'."
 
 msgid "You like this."
 msgstr "Jeb'ël natz'ët re re'."
