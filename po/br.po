@@ -57,7 +57,6 @@ msgid "status"
 msgstr "statud"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
 msgstr "hizivaat ar statud"
 
@@ -66,43 +65,33 @@ msgid "%a1, %a2 and %a3 like this."
 msgstr "Plijout a ra da %a1, %a2 ha da %a3."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[1] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[2] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[3] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[1] "%d skeudenn nevez ouzhpennet gant %a"
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[1] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[2] "Ur skeudenn nevez ouzhpennet gant %a"
-msgstr[3] "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr[0] "Ouzhpennet ez eus bet 1 skeudenn nevez d'an albom %a2 gant a1"
+msgstr[1] "Ouzhpennet ez eus bet %d skeudenn nevez d'an albom %a2 gant a1"
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "Plijout a ra da %a1 ha da %a2"
+msgstr "Mignoned eo %a1 ha %a2 bremañ"
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 hag %a2 o deus kenrannet %a3"
+msgstr "Mignoned eo %a1 ha %a2 gant %a3 bremañ"
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Pozioù zo bet lezet gant %a1 ha %a2 diwar-benn %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "Plijout a ra da %a1 ha da %a2"
+msgstr "Plijout a ra %a3 da %a1 ha da %a2"
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -113,9 +102,8 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 hag %a2 o deus kenrannet %a3"
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 hag %a2 o deus kenrannet %a3"
+msgstr "%a1 hag %a2 o deus kenrannet %a4 %a3"
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -143,19 +131,16 @@ msgid "%a1 commented on a %a2."
 msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Un tamm poz zo bet lezet gant %a1 diwar-benn e %a2 dezhi hec'h-unan."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Un tamm poz zo bet lezet gant %a1 diwar-benn e %a2 dezhañ e-unan."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Un tamm poz zo bet lezet gant %a1 diwar-benn ho %a2."
 
 msgid "Activity Log"
 msgstr "Marilh oberiantiz"
@@ -180,9 +165,8 @@ msgid "a few seconds ago"
 msgstr "E-tro un eilenn zo"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "Plijet eo %a1 gant ur %a2"
+msgstr "Emañ %a1 e %a2"
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -198,15 +182,13 @@ msgid "%a1 likes a %a2."
 msgstr "Plijet eo %a1 gant ur %a2"
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "Plijet eo %a1 gant ur %a2"
+msgstr "Plijet eo %a1 gant %a3 %a2"
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "Plijet eo %a1 gant ur %a2"
+msgstr "Plijet eo %a1 gant %a2" ha %a3
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -237,48 +219,40 @@ msgid "%a1 shared %a2."
 msgstr "%a1 en deus kenrannet %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 en deus kenrannet %a2."
+msgstr "%a1 en deus kenrannet %a3 %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 en deus kenrannet %a2."
+msgstr "%a1 he deus kenrannet he %a2 dezhi hec'h-unan."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 en deus kenrannet %a2."
+msgstr "%a1 en deus kenrannet e %a2 dezhañ e-unan."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Goulenn udb."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Tikedennet eo %a1 war %a3 %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Tikdennet eo bet %a1 war %a2."
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "Un tamm poz zo bet lezet gant %a1 e %a2."
+msgstr "Tikdennet eo bet %a1 war skeudennoù %a2."
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr "Cheñchet eo bet he skeudenn golo gant %a"
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "Ur skeudenn nevez ouzhpennet gant %a"
+msgstr "Cheñcet eo bet e skeudenn golo gant %a"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -408,17 +382,15 @@ msgstr[3] "%d all"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "%d mignon boutin"
-msgstr[1] "%d vignon boutin"
-msgstr[2] "%d mignon boutin"
-msgstr[3] "%d mignon boutin"
+msgstr[0] "%d mignon boutin all"
+msgstr[1] "%d vignon boutin all"
+msgstr[2] "%d mignon boutin all"
+msgstr[3] "%d mignon boutin all"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
 msgstr[0] "%d bajenn all"
@@ -428,7 +400,6 @@ msgstr[3] "%d fajenn all"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
 msgstr[0] "%d den all"
@@ -546,9 +517,8 @@ msgid "Likes"
 msgstr "Plijadurioù"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Karet ar bajenn-mañ"
+msgstr "Pajenn Plijadurioù"
 
 msgid "Like This Page"
 msgstr "Karet ar bajenn-mañ"
@@ -691,9 +661,8 @@ msgid "Resize"
 msgstr "Adventañ"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Skrivañ un tamm poz"
+msgstr "Skrivet un tamm poz gant %a"
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -845,9 +814,8 @@ msgid "You and %a like this."
 msgstr "Plijout a ra deoc'h ha da %a"
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "Plijout a ra deoc'h ha da %a"
+msgstr "Plijout a ra deoc'h, da %a1 ha da %a2"
 
 msgid "You like this."
 msgstr "Plijout a ra deoc'h"
