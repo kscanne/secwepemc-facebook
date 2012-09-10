@@ -44,15 +44,15 @@ msgstr "bilde"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
-msgstr ""
+msgstr "innlegg"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status"
-msgstr ""
+msgstr "status"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "status"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -85,7 +85,7 @@ msgstr "%a1 og %a2 er nå venner med %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 og %a2 kommenterte %a3."
+msgstr "%a1 og %a2 kommenterte e[nt] %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -102,7 +102,7 @@ msgstr "%a1 og %a2 delte %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 og %a2 delte %a3 %a4."
+msgstr "%a1 og %a2 delte %a3 si[nt]t? %a4."
 
 #. %a1, %a2, and %a3 are names of people
 msgid "%a1 and %a2 were tagged in %a3's photos."
@@ -131,19 +131,19 @@ msgstr "%a oppdaterte sitt profilbilde."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr "%a1 kommenterte %a2."
+msgstr "%a1 kommenterte e[nt] %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 kommenterte %a2."
+msgstr "%a1 kommenterte si[nt]t? ege[nt] %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 kommenterte %a2."
+msgstr "%a1 kommenterte si[nt]t? ege[nt] %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr "%a1 kommenterte %a2."
+msgstr "%a1 kommenterte di[nt]t? %a2."
 
 msgid "Activity Log"
 msgstr "Aktivitetslogg"
@@ -182,11 +182,11 @@ msgstr "%a1 liker %a2."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
-msgstr "%a1 liker %a2."
+msgstr "%a1 liker e[nt] %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 likes %a2's %a3."
-msgstr "%a1 liker %a2 %a3."
+msgstr "%a1 liker %a2 si[nt]t? %a3."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
@@ -223,15 +223,15 @@ msgstr "%a1 delte %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 delte %a2 %a3."
+msgstr "%a1 delte %a2 si[nt]t? %a3."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr "%a1 delte %a2."
+msgstr "%a1 delte si[nt]t? ege[nt] %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr "%a1 delte %a2."
+msgstr "%a1 delte si[nt]t? ege[nt] %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -248,11 +248,11 @@ msgstr "%a1 ble tagget på %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 ble tagget i %a2 %a3."
+msgstr "%a1 ble tagget i %a2 si[nt]t? %a3."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr "%a1 ble tagget i %a2."
+msgstr "%a1 ble tagget i e[nt] %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
