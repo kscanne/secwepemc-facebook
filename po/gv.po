@@ -78,9 +78,8 @@ msgstr[3] "Hug %a1 stiagh %d jalloonyn noa ayns yn albym %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "Rheynn %a1 %a2."
+msgstr ""
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -112,9 +111,8 @@ msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "Rheynn %a1 as %a2 yn %a4 ec %a3."
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "Va cowrag currit er %a1 ayns jalloonyn %a2."
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -234,14 +232,12 @@ msgid "%a1 shared %a2's %a3."
 msgstr "Rheynn %a1 yn %a3 ec %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "Rheynn %a1 %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "Rheynn %a1 %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -252,9 +248,8 @@ msgid "%a1 took a photo with %a2."
 msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "Va cowrag currit er %a1 sy %a3 ec %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -758,9 +753,8 @@ msgid "Status"
 msgstr "Staydys"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Fo-screeunyn"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
