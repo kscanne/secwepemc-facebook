@@ -72,9 +72,8 @@ msgstr[1] "%a1 added %d new photos to the album %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 shared %a2."
+msgstr "%a1 and %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -106,9 +105,8 @@ msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 and %a2 shared %a3's %a4."
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 was tagged in %a2's photos."
+msgstr "%a1 and %a2 were tagged in %a3's photos."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -120,16 +118,17 @@ msgstr "about an hour ago"
 msgid "about a minute ago"
 msgstr "about a minute ago"
 
+# capital correct
 msgid "Account Settings"
 msgstr "Account Settings"
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr "%a changed her profile picture."
+msgstr "%a changed her Profile picture."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr "%a changed his profile picture."
+msgstr "%a changed his Profile picture."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
@@ -148,11 +147,13 @@ msgid "%a1 commented on your %a2."
 msgstr "%a1 commented on your %a2."
 
 msgid "Activity Log"
-msgstr "Activity Log"
+msgstr "Activity log"
 
+# capital correct
 msgid "Add Friend"
 msgstr "Add Friend"
 
+# capital correct
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
 msgstr "Add Interests..."
@@ -228,28 +229,24 @@ msgid "%a1 shared %a2's %a3."
 msgstr "%a1 shared %a2's %a3."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 shared %a2."
+msgstr "%a1 shared her own %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 shared %a2."
+msgstr "%a1 shared his own %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Ask question"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 is at %a2."
+msgstr "%a1 took a photo with %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "%a1 was tagged in a %a2."
+msgstr "%a1 was tagged at %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -273,19 +270,19 @@ msgstr "%a updated his cover photo."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
-msgstr "%B %d"
+msgstr "%d %B"
 
 #. Format. %B and %d as above, %s = string representing the time ("3:15am")
 msgid "%B %d at %s"
-msgstr "%B %d at %s"
+msgstr "%d %B at %s"
 
 #. Format. %B and %d as above, %Y = four digit year ("2012")
 msgid "%B %d, %Y"
-msgstr "%B %d, %Y"
+msgstr "%d %B %Y"
 
 #. Format. %B, %d, and %Y as above, %s = string representing the time ("3:15am")
 msgid "%B %d, %Y at %s"
-msgstr "%B %d, %Y at %s"
+msgstr "%d %B %Y at %s"
 
 msgid "Born"
 msgstr "Born"
@@ -302,6 +299,7 @@ msgstr "Cancel"
 msgid "Careers"
 msgstr "Careers"
 
+# capital correct
 #. Link that allows you to change the big photo at the top of your timeline
 msgid "Change Cover"
 msgstr "Change Cover"
@@ -330,16 +328,19 @@ msgstr "Cookies"
 msgid "Confirm"
 msgstr "Confirm"
 
+# with cap in "Home" drop-down, lowercase in right-hand nav
 msgid "Create an Ad"
-msgstr "Create an Ad"
+msgstr "Create an [Aa]dvert"
 
+# capital correct
 #. Link at bottom of home page (under "More")
 msgid "Create a Page"
 msgstr "Create a Page"
 
+# sic, no ellipsis
 #. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
-msgstr "Create Group..."
+msgstr "Create group"
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
 msgid "Create Group"
@@ -459,6 +460,7 @@ msgstr "Family"
 msgid "FAVORITES"
 msgstr "FAVOURITES"
 
+# capital correct
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
 msgid "Find Friends"
@@ -469,7 +471,7 @@ msgstr "Find More Pages"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
-msgstr ""
+msgstr "Follow post"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -477,7 +479,7 @@ msgstr "Friends on Chat"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr "Friend Requests"
+msgstr "Friend requests"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
@@ -504,7 +506,7 @@ msgid "INTERESTS"
 msgstr "INTERESTS"
 
 msgid "Life Event"
-msgstr "Life Event"
+msgstr "Life event"
 
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
@@ -530,7 +532,7 @@ msgid "LISTS"
 msgstr "LISTS"
 
 msgid "Log Out"
-msgstr "Log Out"
+msgstr "Log out"
 
 #. Link to a map of the places someone has been
 msgid "Map"
@@ -559,6 +561,7 @@ msgstr "MORE"
 msgid "More Stories"
 msgstr "More Stories"
 
+# capital correct
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Most Recent"
 msgstr "Most Recent"
@@ -572,8 +575,9 @@ msgid "New Group..."
 msgstr "New Group..."
 
 msgid "New Message"
-msgstr "New Message"
+msgstr "New message"
 
+# capital is correct
 #. Appears in left-hand navigation of home page
 msgid "News Feed"
 msgstr "News Feed"
@@ -598,13 +602,13 @@ msgstr "PAGES"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES AND ADS"
-msgstr ""
+msgstr "PAGES AND ADS"
 
 msgid "People who like this"
 msgstr "People who like this"
 
 msgid "People You May Know"
-msgstr "People You May Know"
+msgstr "People you may know"
 
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
@@ -631,6 +635,7 @@ msgstr "Pokes"
 msgid "Privacy"
 msgstr "Privacy"
 
+# capital correct
 msgid "Privacy Settings"
 msgstr "Privacy Settings"
 
@@ -657,7 +662,7 @@ msgstr "Recommended Pages"
 
 #. When you share a link in a comment, use this to remove the preview image
 msgid "Remove Preview"
-msgstr "Remove Preview"
+msgstr "Remove preview"
 
 #. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
@@ -675,9 +680,10 @@ msgstr "Search"
 msgid "Search for people, places and things"
 msgstr "Search for people, places and things"
 
+# and under "Friend Requests" as "View all" :/
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
 msgid "See All"
-msgstr "See All"
+msgstr "See [Aa]ll"
 
 #. In the drop-down menu with recent Friend Requests
 msgid "See All Friend Requests"
@@ -692,15 +698,15 @@ msgstr "See All Notifications"
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
-msgstr "See Friendship"
+msgstr "See friendship"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
-msgstr "See More"
+msgstr "See more"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
-msgstr "See Translation"
+msgstr "See translation"
 
 #. Label on button in "New Message" dialog to send the message
 msgid "Send"
@@ -708,7 +714,7 @@ msgstr "Send"
 
 #. Link that opens the "New Message" dialog
 msgid "Send a New Message"
-msgstr "Send a New Message"
+msgstr "Send a new message"
 
 #. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
@@ -728,14 +734,14 @@ msgid "Status"
 msgstr "Status"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Subscriptions"
+msgstr "Subscribe to Page"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Subscriptions"
 
+# capital is correct
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
@@ -767,11 +773,11 @@ msgstr "To:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr "Top Stories"
+msgstr "Top stories"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
-msgstr ""
+msgstr "Unfollow post"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -779,7 +785,7 @@ msgstr "Unlike"
 
 #. Label on a button that allows you to edit your personal information
 msgid "Update Info"
-msgstr "Update Info"
+msgstr "Update info"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
