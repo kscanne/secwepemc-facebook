@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:56-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Robert Henderson\n"
 "Language-Team: Kaqchikel\n"
@@ -677,16 +677,19 @@ msgid "Search for people, places and things"
 msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Rutz'etik ronojel"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Taqoj richin ajowab'äl"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Rutz'etik ronojel taq taqo'n"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Rutz'etik ronojel ri taq tz'ib'anem"
 

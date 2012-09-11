@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:56-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -735,16 +735,19 @@ msgid "Search for people, places and things"
 msgstr "Déan cuardach ar dhaoine, áiteanna agus rudaí"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Gach Uile"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Gach Iarratas ar Chairdeas"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Gach Teachtaireacht"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Gach Fógra"
 

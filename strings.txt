@@ -324,10 +324,13 @@ Search
 #. Text that appears in the search box at the top of the page
 Search for people, places and things
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 See All
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 See All Friend Requests
+#. Now just "See All"?
 See All Messages
+#. Now just "See All"?
 See All Notifications
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile

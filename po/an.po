@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:55-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -721,16 +721,19 @@ msgid "Search for people, places and things"
 msgstr "Mirar chent, puestos y cosas"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Veyer-las todas"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Veyer todas as demandas d'amistanza"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Veyer totz os mensaches"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Veyer todas as notificaciones"
 

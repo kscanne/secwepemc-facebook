@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:57-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -703,16 +703,19 @@ msgid "Search for people, places and things"
 msgstr ""
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Ber Todos"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Ber to ls pedidos de amisade"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Ber to las mensaiges"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Ber to las chamadas de atento"
 

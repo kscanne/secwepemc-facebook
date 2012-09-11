@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:55-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -705,16 +705,19 @@ msgid "Search for people, places and things"
 msgstr "Klask tud, lec'hioù pe traoù"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Gwelet an holl"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Gwelet an holl c'houlennoù mignoned"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Gwelet an holl gemennadennoù"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Gwelet an holl embannoù"
 

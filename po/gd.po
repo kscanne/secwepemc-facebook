@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:56-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
 "PO-Revision-Date: 2012-06-19 00:32-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -763,16 +763,19 @@ msgid "Search for people, places and things"
 msgstr "Lorg daoine, àitichean is rudan"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Seall a h-uile"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Seall gach iarrtas càirdeis"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Seall gach teachdaireachd"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Seall gach brath"
 

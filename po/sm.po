@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-08-27 16:24:57-0500\n"
+"POT-Creation-Date: 2012-09-11 00:30:13-0500\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Chris Bickers\n"
 "Language-Team: Samoan\n"
@@ -674,16 +674,19 @@ msgid "Search for people, places and things"
 msgstr "Su'e mo tagata, nu'u ma mea"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Va'ai 'uma"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Va'ai 'Uma ia Fa'auō"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Va'ai tusi 'uma"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Va'ai 'uma i fa'asilasilaga"
 
