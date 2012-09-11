@@ -32,7 +32,7 @@ msgstr ""
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
 msgid "life event"
-msgstr ""
+msgstr "acontecimiento importante"
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -52,7 +52,7 @@ msgstr "estado"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "actualización de estado"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -72,9 +72,8 @@ msgstr[1] "%a1 agregó %d fotos nuevas al álbum %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 compartió %a2."
+msgstr "%a1 y %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -105,11 +104,9 @@ msgstr "%a1 y %a2 compartieron %a3."
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 y %a2 compartieron e?la? %a4 de %a3."
 
-# Comes up in English in official es FB translation 12-07-07
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 was tagged in %a2's photos."
+msgstr ""
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -230,35 +227,34 @@ msgid "%a1 shared %a2's %a3."
 msgstr "%a1 compartió e?la? %a3 de %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 compartió %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 compartió %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Pregunta"
 
+# still English as of 10 Sept 2012
 #. %a1 is a person, %a2 is always "Instagram" I think
 msgid "%a1 took a photo with %a2."
-msgstr ""
+msgstr "%a1 took a photo with %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "Se ha etiquetado a %a1 en e?la? %a3 de %a2."
+msgstr "Se etiquetó a %a1 en %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "Se ha etiquetado a %a1 en e?la? %a3 de %a2."
 
+# un acontecimiento importante
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "Se etiquetó a %a1 en una? %a2."
 
 # Comes up in English in official es FB translation 12-07-07
 #. %a1 and %a2 are names of people
@@ -468,11 +464,11 @@ msgid "Find Friends"
 msgstr "Buscar amigos"
 
 msgid "Find More Pages"
-msgstr ""
+msgstr "Encuentra más páginas"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
-msgstr ""
+msgstr "Seguir esta publicación"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -520,7 +516,7 @@ msgstr "Me gusta"
 
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
-msgstr "Me gusta"
+msgstr "Me gusta esta página"
 
 msgid "Like This Page"
 msgstr "Me gusta esta página"
@@ -733,9 +729,8 @@ msgid "Status"
 msgstr "Estado"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Suscripciones"
+msgstr "Suscribirme"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -744,7 +739,7 @@ msgstr "Suscripciones"
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
-msgstr ""
+msgstr "Grupos sugeridos"
 
 msgid "Tag Friends"
 msgstr "Etiquetar a amigos"
@@ -776,7 +771,7 @@ msgstr "Historias destacadas"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
-msgstr ""
+msgstr "Dejar de seguir esta publicación"
 
 #. Verb. See "Like"
 msgid "Unlike"

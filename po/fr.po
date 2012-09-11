@@ -52,7 +52,7 @@ msgstr "statut"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr ""
+msgstr "statut"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -107,9 +107,8 @@ msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 et %a2 ont partagé [ul][nae]e? %a4 de %a3."
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 a été identifié dans des photos de %a2."
+msgstr "%a1 et %a2 ont identifié dans des photos de %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -246,14 +245,12 @@ msgid "Ask Question"
 msgstr "Question"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 est à %a2."
+msgstr "%a1 a pris une photo avec %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "%a1 a été identifié dans [ul][nae]e? %a3 de %a2."
+msgstr "%a1 a été identifié à %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -261,7 +258,7 @@ msgstr "%a1 a été identifié dans [ul][nae]e? %a3 de %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "%a1 apparaît dans une? %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
@@ -474,7 +471,7 @@ msgstr "Trouver plus de Pages"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
-msgstr ""
+msgstr "S’abonner à la publication"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -780,7 +777,7 @@ msgstr "À la une"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
-msgstr ""
+msgstr "Annuler l’abonnement"
 
 #. Verb. See "Like"
 msgid "Unlike"

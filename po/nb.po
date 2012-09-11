@@ -52,7 +52,7 @@ msgstr "status"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr "status"
+msgstr "statusoppdatering"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -348,14 +348,14 @@ msgstr "Utviklere"
 #. The singular "1 hour ago" is never used as far as I can tell
 msgid "1 hour ago"
 msgid_plural "%d hours ago"
-msgstr[0] ""
+msgstr[0] "1 hour ago"
 msgstr[1] "for %d timer siden"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 minute ago" is never used as far as I can tell
 msgid "1 minute ago"
 msgid_plural "%d minutes ago"
-msgstr[0] ""
+msgstr[0] "1 minute ago"
 msgstr[1] "for %d minutter siden"
 
 #. %d stands for a number, no need to translate it
@@ -379,42 +379,42 @@ msgstr[1] "%d NY INNLEGG"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] ""
+msgstr[0] "1 other"
 msgstr[1] "%d andre"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] ""
+msgstr[0] "1 other friend"
 msgstr[1] "%d andre venner"
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] ""
+msgstr[0] "1 other page"
 msgstr[1] "%d sider til"
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] ""
+msgstr[0] "1 other person"
 msgstr[1] "%d andre personer"
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
 msgid "1 person"
 msgid_plural "%d people"
-msgstr[0] ""
+msgstr[0] "1 person"
 msgstr[1] "%d personer"
 
 #. %d stands for a number, no need to translate it
 #. The singular "1 second ago" is never used as far as I can tell
 msgid "1 second ago"
 msgid_plural "%d seconds ago"
-msgstr[0] ""
+msgstr[0] "1 second ago"
 msgstr[1] "for %d sekunder siden"
 
 #. %d stands for a number, no need to translate it
@@ -790,7 +790,7 @@ msgstr "Bruk Facebook som:"
 #. The singular "View 1 comment" is never used as far as I can tell
 msgid "View 1 comment"
 msgid_plural "View all %d comments"
-msgstr[0] ""
+msgstr[0] "View 1 comment"
 msgstr[1] "Vis alle %d kommentarene"
 
 msgid "Wall Photos"
