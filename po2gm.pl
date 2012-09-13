@@ -127,10 +127,17 @@ sub process_generic_translation {
 
 	$id = escape_regex($id);
 	my $orig = $id;
-	$id =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
-	$id =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
-	$id =~ s/%d/($regex)/g;
-	$id =~ s/%s/([^<"]+)/g; # permit spaces for first names
+	if ($englishid =~ /likes? this\.$/) {
+		$id =~ s/^([^%]+)/<span[^>]+>$1<\/span>/;
+		$id =~ s/(%a[1-9]?)([^%]+)/$1<span[^>]+>$2<\/span>/g;
+		$id =~ s/%a[1-9]?/(<a [^>]+>(?:<span[^>]+>)?[^<]+(?:<\/span>)?<\/a>)/g;
+	}
+	else {
+		$id =~ s/%T/(<a [^>]+><abbr [^>]+>[^<]+<\/abbr><\/a>)/g;
+		$id =~ s/%a[1-9]?/(<a [^>]+>[^<]+<\/a>)/g;
+		$id =~ s/%d/($regex)/g;
+		$id =~ s/%s/([^<"]+)/g; # permit spaces for first names
+	}
 	$str =~ s/"/\\"/g;
 	if ($id ne $str) {
 		$str = insert_all_backrefs($orig, $str);
