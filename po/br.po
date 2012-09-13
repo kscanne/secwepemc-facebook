@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:38-0500\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -58,6 +58,14 @@ msgstr "statud"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "hizivaat ar statud"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Plijout a ra deoc'h ha da %a"
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "Plijout a ra deoc'h, da %a1 ha da %a2"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -852,14 +860,6 @@ msgstr "Dec'h"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Dec'h da %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Plijout a ra deoc'h ha da %a"
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "Plijout a ra deoc'h, da %a1 ha da %a2"
 
 msgid "You like this."
 msgstr "Plijout a ra deoc'h"

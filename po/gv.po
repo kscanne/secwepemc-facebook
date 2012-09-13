@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,6 +55,14 @@ msgstr "staydys"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "staydys noa"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr ""
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -844,14 +852,6 @@ msgstr "Jea"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Jea ec %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr ""
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr ""
 
 msgid "You like this."
 msgstr "S’mie lhiat shoh."

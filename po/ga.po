@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -79,6 +79,14 @@ msgstr "stádas"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "stádas"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Is maith leatsa agus le %a é seo."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "Is maith leat, le %a1 agus le %a2 é seo."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -882,14 +890,6 @@ msgstr "Inné"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Inné ag %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Is maith leatsa agus le %a é seo."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "Is maith leat, le %a1 agus le %a2 é seo."
 
 msgid "You like this."
 msgstr "Is maith leat é seo."

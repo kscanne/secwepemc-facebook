@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -74,6 +74,14 @@ msgstr "статусна"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "статус карлаяккхар"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Хьуна, %a а хазахета хlара."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "Хьуна, %a1 %a2 а хазахета хlара."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -845,14 +853,6 @@ msgstr "Cелхана"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Селхана %s сахьт даьлча"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Хьуна, %a а хазахета хlара."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "Хьуна, %a1 %a2 а хазахета хlара."
 
 msgid "You like this."
 msgstr "Хьуна хазахета хlара."

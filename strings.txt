@@ -26,6 +26,10 @@ post
 status
 #. Always a link. Used in longer sentences as above.
 status update
+#. %a stands for something like "4 others"
+You and %a like this.
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+You, %a1 and %a2 like this.
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 %a1, %a2 and %a3 like this.
 #. %a is a person's name; %d stands for a number, no need to translate it
@@ -397,10 +401,6 @@ Write a comment...
 Yesterday
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 Yesterday at %s
-#. %a stands for something like "4 others"
-You and %a like this.
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-You, %a1 and %a2 like this.
 You like this.
 #. Month Name
 January

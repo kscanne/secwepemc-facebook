@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:38-0500\n"
 "PO-Revision-Date: 2012-08-07 14:31+0300\n"
 "Last-Translator: Administrator <chanchumgpa@gmail.com>\n"
 "Language-Team: Acholi\n"
@@ -58,6 +58,14 @@ msgstr "Kit matye kwede"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "Ki me keto"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "In ki %a maro man."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "In, %a1 ki %a2 maro man."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -826,14 +834,6 @@ msgstr "Lawoo"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Laworo i %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "In ki %a maro man."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "In, %a1 ki %a2 maro man."
 
 msgid "You like this."
 msgstr "Imaro eni."

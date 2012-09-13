@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-03-16 07:45-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Italian\n"
@@ -53,6 +53,14 @@ msgstr "stato"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "aggiornamento di stato"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "A te e %a piace questo elemento."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "A te, %a1 e %a2 piace questo elemento."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -826,14 +834,6 @@ msgstr "Ieri"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Ieri alle %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "A te e %a piace questo elemento."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "A te, %a1 e %a2 piace questo elemento."
 
 msgid "You like this."
 msgstr "Ti piace."

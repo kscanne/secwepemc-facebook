@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
 "PO-Revision-Date: 2012-03-27 11:28:13-05:00\n"
 "Last-Translator: Alessio Gastaldi\n"
 "Language-Team: Ligurian\n"
@@ -56,6 +56,15 @@ msgstr "'n stæto"
 #, fuzzy
 msgid "status update"
 msgstr "'n stæto"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "A ti e %a ghe piâxe quésto"
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+#, fuzzy
+msgid "You, %a1 and %a2 like this."
+msgstr "A ti e %a ghe piâxe quésto"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -848,15 +857,6 @@ msgstr "Vêi"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Vêi a-e %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "A ti e %a ghe piâxe quésto"
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
-msgid "You, %a1 and %a2 like this."
-msgstr "A ti e %a ghe piâxe quésto"
 
 msgid "You like this."
 msgstr "Te piâxe quésto."

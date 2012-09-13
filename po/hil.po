@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -56,6 +56,14 @@ msgstr ""
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr ""
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Ikaw kag %a nanamian sini."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "Ikaw, si %a1 kag %a2 nanamian sini."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -831,14 +839,6 @@ msgstr "Kagapon"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Kagapon alas %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Ikaw kag %a nanamian sini."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "Ikaw, si %a1 kag %a2 nanamian sini."
 
 msgid "You like this."
 msgstr "Nanamian mo ini."

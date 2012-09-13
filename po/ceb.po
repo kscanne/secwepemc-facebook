@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:38-0500\n"
 "PO-Revision-Date: 2012-05-12 10:52:31-06:00\n"
 "Last-Translator: JOSHUA VERANO\n"
 "Language-Team: BISAYA\n"
@@ -58,6 +58,16 @@ msgstr "Kahimtang"
 #, fuzzy
 msgid "status update"
 msgstr "Kahimtang"
+
+#. %a stands for something like "4 others"
+#, fuzzy
+msgid "You and %a like this."
+msgstr "Ganahan ka ani"
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+#, fuzzy
+msgid "You, %a1 and %a2 like this."
+msgstr "Ganahan ka ani"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 #, fuzzy
@@ -851,16 +861,6 @@ msgstr "Gahapon"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Gahapon sa %s"
-
-#. %a stands for something like "4 others"
-#, fuzzy
-msgid "You and %a like this."
-msgstr "Ganahan ka ani"
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
-msgid "You, %a1 and %a2 like this."
-msgstr "Ganahan ka ani"
 
 msgid "You like this."
 msgstr "Ganahan ka ani"

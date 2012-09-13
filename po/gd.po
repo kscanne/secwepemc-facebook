@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-06-19 00:32-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -108,6 +108,14 @@ msgstr "an naidheachd"
 msgctxt "commented on (her|his|your)"
 msgid "status update"
 msgstr "an naidheachd"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "'S toil leatsa 's le %a seo."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "'S toil leatsa, le %a1 agus le %a2 seo."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -910,14 +918,6 @@ msgstr "An-dè"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "An-dè aig %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "'S toil leatsa 's le %a seo."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "'S toil leatsa, le %a1 agus le %a2 seo."
 
 msgid "You like this."
 msgstr "'S toil leat seo."

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:38-0500\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -96,6 +96,14 @@ msgstr "un estau"
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
 msgstr "actualización d'estau"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "A tu y a %a tos fa goyo isto."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "A tu, a %a1 y a %a2 tos fa goyo isto."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -866,14 +874,6 @@ msgstr "Ahiere"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Ahiere a la(s) %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "A tu y a %a tos fa goyo isto."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "A tu, a %a1 y a %a2 tos fa goyo isto."
 
 msgid "You like this."
 msgstr "Te fa goyo isto."

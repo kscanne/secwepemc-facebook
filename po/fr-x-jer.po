@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-03-25 10:34:52-05:00\n"
 "Last-Translator: Tony Scott Warren\n"
 "Language-Team: Jèrriais\n"
@@ -57,6 +57,15 @@ msgstr "êtat"
 #, fuzzy
 msgid "status update"
 msgstr "êtat"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Té et %a en avez en affit"
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+#, fuzzy
+msgid "You, %a1 and %a2 like this."
+msgstr "Té et %a en avez en affit"
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -862,15 +871,6 @@ msgstr "Hièr"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Hièr à %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Té et %a en avez en affit"
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
-msgid "You, %a1 and %a2 like this."
-msgstr "Té et %a en avez en affit"
 
 msgid "You like this."
 msgstr "Tu'en es en affit"

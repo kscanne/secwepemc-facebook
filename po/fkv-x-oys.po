@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:11-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
 "PO-Revision-Date: 2012-02-20 16:58:13-06:00\n"
 "Last-Translator: Mervi Haavisto\n"
 "Language-Team: Kven Finnish\n"
@@ -143,6 +143,14 @@ msgstr "staattuksen uuistamista"
 msgctxt "likes (%a.'s|a) %a"
 msgid "status update"
 msgstr "staattuksen uuistamisesta"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Sie ja %a tykkäättä tästä."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "Sie, %a1 ja %a2 tykkäättä tästä."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -914,14 +922,6 @@ msgstr "Eilen"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Eilen klo %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Sie ja %a tykkäättä tästä."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "Sie, %a1 ja %a2 tykkäättä tästä."
 
 msgid "You like this."
 msgstr "Sie tykkäät tästä."

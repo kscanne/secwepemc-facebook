@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-11 00:30:12-0500\n"
+"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -56,6 +56,15 @@ msgstr "ken ijtuk"
 #, fuzzy
 msgid "status update"
 msgstr "ken ijtuk"
+
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Taja wan uk %a anmugustoj ini."
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+#, fuzzy
+msgid "You, %a1 and %a2 like this."
+msgstr "Taja wan uk %a anmugustoj ini."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -848,15 +857,6 @@ msgstr "Yalua"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "Yalua ka %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Taja wan uk %a anmugustoj ini."
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
-msgid "You, %a1 and %a2 like this."
-msgstr "Taja wan uk %a anmugustoj ini."
 
 msgid "You like this."
 msgstr "Mugustoj ini."
