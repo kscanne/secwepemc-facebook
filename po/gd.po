@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
-"PO-Revision-Date: 2012-06-19 00:32-0000\n"
+"PO-Revision-Date: 2012-09-13 18:10-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
 "Language: gd\n"
@@ -15,9 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Virtaal 0.7.1-beta1\n"
-"X-Poedit-Language: Gaelic\n"
-"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Generator: Poedit 1.5.3\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. The first six words to translate are used in a number of different messages,
@@ -139,9 +137,8 @@ msgstr[3] "Chuir %a1 %d dealbh ùr ris an albam %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "Cho-roinn %a1 %a2."
+msgstr "%a1 agus %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -152,9 +149,8 @@ msgid "%a1 and %a2 are now friends with %a3."
 msgstr "Tha càirdeas eadar %a1 is %a2 agus %a3 a-nis."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "Thug %a1 seachad beachd air %a2."
+msgstr "Thug %a1 agus %a2 seachad beachd air %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -174,9 +170,8 @@ msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "Cho-roinn %a1 is %a2 %a4 aig %a3."
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "Thug %a1 seachad beachd air %a3 aig %a2."
+msgstr "Chaidh %a1 agus %a2 a thagadh sna dealbhan aig %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -296,52 +291,44 @@ msgid "%a1 shared %a2's %a3."
 msgstr "Cho-roinn %a1 %a3 aig %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "Cho-roinn %a1 %a2."
+msgstr "Cho-roinn %a1 %a2 aice fhèin."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "Cho-roinn %a1 %a2."
+msgstr "Cho-roinn %a1 %a2 aige fhèin."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Cum cunntas-bheachd"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "Tha %a1 ann an %a2."
+msgstr "Thog %a1 dealbh le %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "Thug %a1 seachad beachd air %a3 aig %a2."
+msgstr "Chaidh %a1 a thagadh aig %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
 msgstr "Thug %a1 seachad beachd air %a3 aig %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "Thug %a1 seachad beachd air %a3 aig %a2."
+msgstr "Chaidh %a1 a thagadh ann an %a2."
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "Thug %a1 seachad beachd air %a3 aig %a2."
+msgstr "Chaidh %a1 a thagadh sna dealbhan aig %a2."
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "Chuir %a dealbh ùr ris."
+msgstr "Dh'ùraich %a an dealbh mòr aice."
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "Chuir %a dealbh ùr ris."
+msgstr "Dh'ùraich %a an dealbh mòr aige."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -396,7 +383,7 @@ msgstr "Beachd"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Briosgaidean"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
@@ -563,7 +550,7 @@ msgstr "Lorg barrachd dhuilleagan"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
-msgstr ""
+msgstr "Lean ris a' phost"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -692,7 +679,7 @@ msgstr "DUILLEAGAN"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES AND ADS"
-msgstr ""
+msgstr "DUILLEAGAN IS SANASACHD"
 
 msgid "People who like this"
 msgstr "Daoine as toil leotha seo"
@@ -758,9 +745,8 @@ msgid "Resize"
 msgstr "Atharraich am meud"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Sgrìobh beachd..."
+msgstr "%s, nach sgrìobh thu beachd?"
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -826,9 +812,8 @@ msgid "Status"
 msgstr "Do naidheachd"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Fo-sgrìobhaidhean"
+msgstr "Fo-sgrìobh ris an duilleag"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -869,7 +854,7 @@ msgstr "Prìomh naidheachdan"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
-msgstr ""
+msgstr "Na lean ris a' phost tuilleadh"
 
 #. Verb. See "Like"
 msgid "Unlike"
