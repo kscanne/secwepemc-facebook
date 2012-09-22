@@ -38,7 +38,7 @@ to English, etc.
 | fkv-x-ves | nb | Kven Finnish (vesta) | Kvääni/Kainu (vesta) | 1.0.1 | Not yet released | Mervi Haavisto, Pirjo Paavalniemi, Terje Aronsen |
 | fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |
 | ga | en-GB | Irish | Gaeilge | 1.0.0 | For testing only | Kevin Scannell |
-| gd | en | Scottish Gaelic | Gàidhlig | 1.0.5 | "Chrome":https://chrome.google.com/webstore/detail/hlpihaangbgofjgkgellngbjnfeacdpo, "Firefox":http://userscripts.org/scripts/show/126511 | Michael Bauer |
+| gd | en | Scottish Gaelic | Gàidhlig | 1.0.6 | "Chrome":https://chrome.google.com/webstore/detail/hlpihaangbgofjgkgellngbjnfeacdpo, "Firefox":http://userscripts.org/scripts/show/126511 | Michael Bauer |
 | gup | en | Kunwinjku | Kunwinjku | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/oahnkebhdjhfcnipndkeddicjlecfjka, "Firefox":http://userscripts.org/scripts/show/129295 | Dean Yibarbuk, Andrew Manakgu |
 | gup-x-gud | en | Gundjeihmi | Gundjeihmi | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/mdloehadmkkehlnpogfnhfiommlingnp, "Firefox":http://userscripts.org/scripts/show/129296 | Violet Lawson |
 | gv | en-GB | Manx Gaelic | Gaelg | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/deblagdmoaibgilppbegnfcpdmdlejkb, "Firefox":http://userscripts.org/scripts/show/127270 | Chris Sheard |
@@ -57,7 +57,7 @@ to English, etc.
 | ny | en | Chichewa | Chicheŵa | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/kodmgiidkcddbenebgjhmgbfakdoflbb, "Firefox":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
 | ppl | es | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126587 | Alan King |
 | ppl-x-en | en | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126588 | Alan King |
-| quc | es | K'iche' | K'iche' | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/aakmiihmhfpodkdadollmmhgfjgjolgf, "Firefox":http://userscripts.org/scripts/show/142340 | Diego Alburez, David Elías Ixmatá, Elena Tambriz Tahay, Biviana Tum Macario, Luis Francisco Jamínez, Ricardo Guarchaj, Elizabeth Tambriz, Catarina Cajtunaj |
+| quc | es | K'iche' | K'iche' | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/aakmiihmhfpodkdadollmmhgfjgjolgf, "Firefox":http://userscripts.org/scripts/show/142340 | Diego Alburez, David Elías Ixmatá, Elena Tambriz Tahay, Biviana Tum Macario, Luis Francisco Jamínez, Ricardo Guarchaj, Elizabeth Tambriz, Catarina Cajtunaj |
 | rop | en | Kriol | Kriol | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/fcddphnepicfeheldnbeccnhiohjefhp, "Firefox":http://userscripts.org/scripts/show/126589 | Greg Dickson |
 | shs | en | Secwepemctsín | Secwepemctsín | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
 | sm | en | Samoan | Gagana Sāmoa | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/moolaomdjoelmpjlijekjammeijelmae, "Firefox":http://userscripts.org/scripts/show/140636 | Chris Bickers |
