@@ -60,54 +60,46 @@ msgid "You and %a like this."
 msgstr "ke ell %a lestés ye7éne"
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "ke ell %a lestés ye7éne"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "%a1, %a2 ell %a3 lestéses"
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] "%a q̓entéses te spiqw"
-msgstr[1] "%a q̓entéses te spiqw"
+msgstr[0] ""
+msgstr[1] ""
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "%a q̓entéses te spiqw"
-msgstr[1] "%a q̓entéses te spiqw"
+msgstr[0] ""
+msgstr[1] ""
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 m-milct.s %a2"
+msgstr ""
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "%a1 ell %a2 lestéses"
+msgstr ""
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 ell %a2 milct.s %a3"
+msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a1 ell %a2 lestéses"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -118,14 +110,12 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 ell %a2 milct.s %a3"
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 ell %a2 milct.s %a3"
+msgstr ""
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -153,19 +143,16 @@ msgid "%a1 commented on a %a2."
 msgstr "%a1 tsunses re %a2"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 msgid "Activity Log"
 msgstr "tsúwet te stsq̓ey̓"
@@ -190,9 +177,8 @@ msgid "a few seconds ago"
 msgstr "tsw7ay"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a1 lestéses %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -208,15 +194,13 @@ msgid "%a1 likes a %a2."
 msgstr "%a1 lestéses %a2"
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a1 lestéses %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a1 lestéses %a2"
+msgstr ""
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -247,58 +231,48 @@ msgid "%a1 shared %a2."
 msgstr "%a1 m-milct.s %a2"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 m-milct.s %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 m-milct.s %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 m-milct.s %a2"
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Séwem"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 lestéses %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "%a1 tsunses re %a2"
+msgstr ""
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "%a q̓entéses te spiqw"
+msgstr ""
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "%a q̓entéses te spiqw"
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -501,9 +475,8 @@ msgid "Follow Post"
 msgstr ""
 
 #. In search box that lets you search for friends that are available to chat
-#, fuzzy
 msgid "Friends on Chat"
-msgstr "Kweselkten"
+msgstr ""
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
@@ -546,16 +519,14 @@ msgid "Likes"
 msgstr "Xwexwistens"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "xwexwísten re stsq’eý"
+msgstr ""
 
 msgid "Like This Page"
 msgstr "xwexwísten re stsq’eý"
 
-#, fuzzy
 msgid "Links"
-msgstr "Xwexwisten"
+msgstr ""
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -717,9 +688,8 @@ msgid "See All Friend Requests"
 msgstr ""
 
 #. Now just "See All"?
-#, fuzzy
 msgid "See All Messages"
-msgstr "Wikts r Xwexweyt"
+msgstr ""
 
 #. Now just "See All"?
 msgid "See All Notifications"
@@ -727,9 +697,8 @@ msgstr ""
 
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
-#, fuzzy
 msgid "See Friendship"
-msgstr "Kweselkten"
+msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
