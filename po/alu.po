@@ -234,7 +234,7 @@ msgstr "%a1 watea %a3 %a2 na"
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr ""
+msgstr "%a1 'e hata'ania %a2 naiena."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
