@@ -25,6 +25,7 @@ to English, etc.
 
 |_. Code |_. Default |_. Name (English) |_. Name (Native) |_. Version |_. Home Page |_. Translators |
 | ach | en | Acholi | Acholi | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/pccpmhelkmflchngjmpadkempifkfbbe, "Firefox":http://userscripts.org/scripts/show/140639 | David Ojara Prince, Achuma George Patrick, San Emmanuel James |
+| alu | en | 'Are'are | 'Are'are | 1.0.0 | Not yet released | Erik Naitoro |
 | an | es | Aragonese | Aragonés | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/dfkdbmklhjdchbnjlbeolnkoalomefng, "Firefox":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
 | bal | en | Balochi | Balochi | 1.0.0 | Not yet released | Mostafa Daneshvar |
 | br | fr | Breton | Brezhoneg | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/bdecejekiagnnbgdldeliknbnancjabj, "Firefox":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
