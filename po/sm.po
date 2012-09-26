@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Chris Bickers\n"
 "Language-Team: Samoan\n"
@@ -542,9 +542,13 @@ msgstr "Fa'atōfā"
 msgid "Map"
 msgstr "Fa'afanua"
 
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Fe'au"
+
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "Fe'au"
+msgstr "Fe'au:"
 
 msgid "Messages"
 msgstr "Fe'au"

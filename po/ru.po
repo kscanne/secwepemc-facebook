@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-05-26 21:43:25-05:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Russian\n"
@@ -561,6 +561,10 @@ msgstr "Выйти"
 #. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Карта"
+
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Сообщение"
 
 #. In the "New Message" dialog
 msgid "Message:"

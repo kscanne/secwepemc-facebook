@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -602,6 +602,10 @@ msgstr "Logáil Amach"
 #. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Léarscáil"
+
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Teachtaireacht"
 
 #. In the "New Message" dialog
 msgid "Message:"

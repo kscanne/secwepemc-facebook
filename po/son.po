@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -572,6 +572,10 @@ msgstr "Fatta"
 #. Link to a map of the places someone has been
 msgid "Map"
 msgstr "Katta"
+
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Alhabar"
 
 #. In the "New Message" dialog
 msgid "Message:"

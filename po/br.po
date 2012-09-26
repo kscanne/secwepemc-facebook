@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:38-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:54-0500\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -573,9 +573,13 @@ msgstr "Digevreañ"
 msgid "Map"
 msgstr "Kartenn"
 
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Kemennadenn"
+
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "Kemennadenn"
+msgstr "Kemennadenn:"
 
 msgid "Messages"
 msgstr "Kemennadennoù"

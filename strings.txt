@@ -260,6 +260,8 @@ LISTS
 Log Out
 #. Link to a map of the places someone has been
 Map
+#. Button near top of a user's profile page (but not your own!)
+Message
 #. In the "New Message" dialog
 Message:
 Messages

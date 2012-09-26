@@ -4,10 +4,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:54-0500\n"
 "PO-Revision-Date: 2012-09-23 05:37:40-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: 'Are'are\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -536,6 +537,10 @@ msgstr "Ha'a sikoa"
 #. Link to a map of the places someone has been
 msgid "Map"
 msgstr ""
+
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Wara"
 
 #. In the "New Message" dialog
 msgid "Message:"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-03-25 10:34:52-05:00\n"
 "Last-Translator: Tony Scott Warren\n"
 "Language-Team: Jèrriais\n"
@@ -584,9 +584,13 @@ msgstr "Tchitter"
 msgid "Map"
 msgstr "Carte"
 
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "M'sage"
+
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "M'sage"
+msgstr "M'sage:"
 
 msgid "Messages"
 msgstr "M'sages"

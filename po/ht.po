@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:39-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Jean Came Poulard\n"
 "Language-Team: Haitian Creole\n"
@@ -547,9 +547,13 @@ msgstr "Dekonekte"
 msgid "Map"
 msgstr "Kat"
 
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Mesaj"
+
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "Mesaj"
+msgstr "Mesaj:"
 
 msgid "Messages"
 msgstr "Mesaj"

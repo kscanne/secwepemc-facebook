@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-13 05:37:40-0500\n"
+"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
 "PO-Revision-Date: 2012-07-28 12:28:12-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Norwegian (bokmaal)\n"
@@ -539,9 +539,13 @@ msgstr "Logg ut"
 msgid "Map"
 msgstr "Kart"
 
+#. Button near top of a user's profile page (but not your own!)
+msgid "Message"
+msgstr "Send melding"
+
 #. In the "New Message" dialog
 msgid "Message:"
-msgstr "Send melding"
+msgstr "Send melding:"
 
 msgid "Messages"
 msgstr "Meldinger"
