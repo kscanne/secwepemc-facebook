@@ -58,11 +58,11 @@ msgstr "staydys noa"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
-msgstr ""
+msgstr "S'mie lhiat as %a shoh."
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
 msgid "You, %a1 and %a2 like this."
-msgstr ""
+msgstr "S'mie lhiat, %a1 as %a2 shoh."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
@@ -87,7 +87,7 @@ msgstr[3] "Hug %a1 stiagh %d jalloonyn noa ayns yn albym %a2."
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
 msgid "%a1 and %a2"
-msgstr ""
+msgstr "%a1 as %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -120,7 +120,7 @@ msgstr "Rheynn %a1 as %a2 yn %a4 ec %a3."
 
 #. %a1, %a2, and %a3 are names of people
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr ""
+msgstr "Va cowragyn currit er %a1 as %a2 ayns jalloonyn %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -183,7 +183,7 @@ msgstr "grig ny ghaa er dy henney"
 
 #. %a1 is a person's name, %a2 is a place
 msgid "%a1 is at %a2."
-msgstr ""
+msgstr "Ta %a1 ec %a2."
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -200,7 +200,7 @@ msgstr "S’mie lesh %a1 %a2."
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 likes %a2's %a3."
-msgstr ""
+msgstr "S'mie lesh %a1 yn %a3 ec %a2."
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
@@ -241,11 +241,11 @@ msgstr "Rheynn %a1 yn %a3 ec %a2."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr ""
+msgstr "Rheynn %a1 yn %a2 eck hene."
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr ""
+msgstr "Rheynn %a1 yn %a2 echey hene."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -253,11 +253,11 @@ msgstr "Cur Feysht"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
 msgid "%a1 took a photo with %a2."
-msgstr ""
+msgstr "Ghow %a1 jalloo lesh %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
 msgid "%a1 was tagged at %a2."
-msgstr ""
+msgstr "Va cowrag currit er %a1 ec %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -265,7 +265,7 @@ msgstr "Va cowrag currit er %a1 sy %a3 ec %a2."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "Va cowrag currit er %a1 ayns %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
@@ -332,11 +332,11 @@ msgstr "Cur baght er"
 
 #. Link at the bottom of home page to a help page explaining what cookies are
 msgid "Cookies"
-msgstr ""
+msgstr "Brishtagyn"
 
 #. Button label; confirm a friend request
 msgid "Confirm"
-msgstr ""
+msgstr "Feeree"
 
 msgid "Create an Ad"
 msgstr "Croo Soilsheen"
@@ -499,7 +499,7 @@ msgstr "Fow tooilley duillagyn"
 
 #. Appears next to "Like" and "Comment" on each post in a group
 msgid "Follow Post"
-msgstr ""
+msgstr "Eiyr Er Post"
 
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
@@ -531,7 +531,7 @@ msgstr "Thie"
 
 #. In left-hand column on home page
 msgid "INTERESTS"
-msgstr ""
+msgstr "SYMYN"
 
 msgid "Life Event"
 msgstr "Taghyrt Bea"
@@ -547,13 +547,13 @@ msgstr "Reih-reddyn"
 
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
-msgstr ""
+msgstr "Ta'n Duillag Mie"
 
 msgid "Like This Page"
-msgstr ""
+msgstr "Ta'n Duillag Shoh Mie"
 
 msgid "Links"
-msgstr ""
+msgstr "Kianglaghyn"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
@@ -575,7 +575,7 @@ msgstr "Chaghteraghtyn"
 
 #. Photographs uploaded from someone's mobile device
 msgid "Mobile Uploads"
-msgstr ""
+msgstr "Veih Greie Shooylagh"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
@@ -628,7 +628,7 @@ msgstr "DUILLAGYN"
 
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES AND ADS"
-msgstr ""
+msgstr "DUILLAGYN AS SOILSHEENYN"
 
 msgid "People who like this"
 msgstr "Sleih s’mie lhieu shoh"
@@ -655,7 +655,7 @@ msgstr "Buill"
 
 #. Appears in left-hand navigation for some users, under "APPS"
 msgid "Pokes"
-msgstr ""
+msgstr "Broddyn"
 
 #. Link at the bottom of home page to Facebook's privacy policy
 msgid "Privacy"
@@ -670,7 +670,7 @@ msgstr "Coontys-Bea"
 
 #. Appears under APPS for some users in left-hand navigation
 msgid "Questions"
-msgstr ""
+msgstr "Feyshtyn"
 
 #. Box near the top of your personal timeline showing your recent actions on FB
 #. Now defunct, I think - replaced by "Activity" and "Recent" on a line below
@@ -712,7 +712,7 @@ msgstr "Jeeagh orroo OOILLEY"
 
 #. Now just "See All"?
 msgid "See All Friend Requests"
-msgstr ""
+msgstr "Jeeagh Orroo Ooilley"
 
 #. Now just "See All"?
 msgid "See All Messages"
@@ -725,7 +725,7 @@ msgstr "Jeeagh er OOILLEY ny Fograghyn"
 #. A link that shows interactions and photos involving two Facebook friends
 #. One place it appears is in the "gear" menu on a friend's profile
 msgid "See Friendship"
-msgstr ""
+msgstr "Jeeagh er Caarjys"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
@@ -762,7 +762,7 @@ msgstr "Staydys"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
 msgid "Subscribe to Page"
-msgstr ""
+msgstr "Fo-screeu rish Duillag"
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -799,11 +799,11 @@ msgstr "Gys:"
 
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
-msgstr ""
+msgstr "Skeealyn Share"
 
 #. See "Follow Post"
 msgid "Unfollow Post"
-msgstr ""
+msgstr "Nagh Eiyr er Post Arragh"
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -819,7 +819,7 @@ msgid "Update Status"
 msgstr "Staydys Noa"
 
 msgid "Use Facebook as:"
-msgstr ""
+msgstr "Jean ymmyd jeh Facebook myr:"
 
 #. %d stands for a number, no need to translate it
 #. The singular "View 1 comment" is never used as far as I can tell
