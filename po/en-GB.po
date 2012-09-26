@@ -166,9 +166,10 @@ msgstr "Add Friend"
 msgid "Add Interests..."
 msgstr "Add Interests..."
 
+# was "Add photo/video" thru ~Sept 2012
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr "Add photo/video"
+msgstr "Add Photo / Video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -244,9 +245,10 @@ msgstr "%a1 shared her own %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 shared his own %a2."
 
+# was "Ask question" until ~Sept. 2012
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr "Ask question"
+msgstr "Ask Question"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
 msgid "%a1 took a photo with %a2."
