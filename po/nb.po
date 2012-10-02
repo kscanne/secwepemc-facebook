@@ -129,13 +129,15 @@ msgstr "for ca. ett minutt siden"
 msgid "Account Settings"
 msgstr "Kontoinnstillinger"
 
+# was "%a oppdaterte sitt profilbilde."
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr "%a oppdaterte sitt profilbilde."
+msgstr "%a har byttet profilbilde."
 
+# was "%a oppdaterte sitt profilbilde."
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr "%a oppdaterte sitt profilbilde."
+msgstr "%a har byttet profilbilde."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
@@ -163,9 +165,10 @@ msgstr "Legg til som venn"
 msgid "Add Interests..."
 msgstr "Legg til interesser ..."
 
+# was "Last opp bilde/video"
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
-msgstr "Last opp bilde/video"
+msgstr "Legg til bilde/video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -243,7 +246,7 @@ msgstr "%a1 delte si[nt]t? ege[nt] %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
-msgstr "Spørsmål"
+msgstr "Still spørsmål"
 
 # English as of Sept. 2012
 #. %a1 is a person, %a2 is always "Instagram" I think
@@ -340,9 +343,10 @@ msgstr "Opprett en annonse"
 msgid "Create a Page"
 msgstr "Opprett en side"
 
+# space before ellipsis sic
 #. Appears as last item under "GROUPS" in left-hand navigation
 msgid "Create Group..."
-msgstr "Opprett en gruppe..."
+msgstr "Opprett en gruppe ..."
 
 #. Button label at top of Groups page (click "MORE" next to "GROUPS")
 msgid "Create Group"
@@ -670,10 +674,10 @@ msgstr "Fjern forhåndsvisning"
 msgid "Resize"
 msgstr "Fremhevet"
 
-# sic, Sept. 2012
+# sic, Sept. 2012, with space before ellipsis
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
 msgid "%s, add a comment..."
-msgstr "Skriv en kommentar..."
+msgstr "Skriv en kommentar ..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -744,9 +748,10 @@ msgstr "Status"
 msgid "Subscribe to Page"
 msgstr "Abonner"
 
+# was "Abonnementer"
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Abonnementer"
+msgstr "Abonnementit"
 
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
