@@ -170,9 +170,8 @@ msgstr[1] "%a1 lisäsi %d uutta kuvvaa albumhiin %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 jakoi %a2."
+msgstr "%a1 ja %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -766,9 +765,10 @@ msgstr "Poista"
 msgid "Resize"
 msgstr "Vaiheta kovon"
 
+# since nb doesn't use %s, we shouldn't either
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
 msgid "%s, add a comment..."
-msgstr "%s, kirjoita kommentaarin..."
+msgstr "Kirjoita kommentaarin..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
