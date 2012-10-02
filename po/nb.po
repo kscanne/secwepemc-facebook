@@ -748,10 +748,9 @@ msgstr "Status"
 msgid "Subscribe to Page"
 msgstr "Abonner"
 
-# was "Abonnementer"
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
-msgstr "Abonnementit"
+msgstr "Abonnementer"
 
 #. Right-hand navigation, similar to "People you may know"
 #. Get it by clicking "GROUPS" in left-hand navigation on Home Page
