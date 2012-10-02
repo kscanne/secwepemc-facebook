@@ -87,9 +87,10 @@ msgstr "%a1 y %a2"
 msgid "%a1 and %a2 are now friends."
 msgstr "%a1 y %a2 ahora son amigos."
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr ""
+msgstr "%a1 y %a2 ahora son amigos de %a3."
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
@@ -112,9 +113,10 @@ msgstr "%a1 y %a2 compartieron %a3."
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 y %a2 compartieron e?la? %a4 de %a3."
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1, %a2, and %a3 are names of people
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr ""
+msgstr "Se etiquetaron a %a1 y %a2 en %a3's fotos."
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -176,14 +178,16 @@ msgstr "Publicidad"
 msgid "a few seconds ago"
 msgstr "Hace unos segundos"
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1 is a person's name, %a2 is a place
 msgid "%a1 is at %a2."
-msgstr ""
+msgstr "%a1 está en %a2."
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
 msgid "%a1 is now friends with %a2 and %a3."
-msgstr ""
+msgstr "%a1 ahora es amigos con %a2 y %a3."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a1 likes %a2."
@@ -234,13 +238,15 @@ msgstr "%a1 compartió %a2."
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 compartió e?la? %a3 de %a2."
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
-msgstr ""
+msgstr "%a1 compartió su propia %a2."
 
+# from Peter R.; haven't confirmed this on FB
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr ""
+msgstr "%a1 compartió su propia %a2."
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -578,9 +584,10 @@ msgstr "Más recientes"
 msgid "Music"
 msgstr "Música"
 
+# from Peter R.; haven't confirmed this on FB
 #. Not sure now where this appears, a figment?
 msgid "New Group..."
-msgstr ""
+msgstr "Nuevo Grupo..."
 
 msgid "New Message"
 msgstr "Nuevo mensaje"
@@ -607,9 +614,10 @@ msgstr "Ahora"
 msgid "PAGES"
 msgstr "PÁGINAS"
 
+# from Peter R.; haven't confirmed this on FB
 #. Heading above the list of your FB pages; left-hand navigation on home page
 msgid "PAGES AND ADS"
-msgstr ""
+msgstr "PÁGINAS Y ANUNCIOS"
 
 msgid "People who like this"
 msgstr "Personas a las que les gusta"
@@ -659,9 +667,10 @@ msgstr "Preguntas"
 msgid "Recent Activity"
 msgstr "Actividad reciente"
 
+# from Peter R.; haven't confirmed this on FB
 #. Appears next to some posts on home page
 msgid "RECENT POST"
-msgstr ""
+msgstr "PUBLICACIÓN RECIENTE"
 
 #. Appears in right-hand navigation (sometimes); pages that Facebook things you'll like
 msgid "Recommended Pages"
