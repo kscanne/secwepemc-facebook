@@ -33,6 +33,7 @@
 
 
 var tags = new Array();
+tags.push('h3');     // Friend Requests, Notifications, ...
 tags.push('h4');     // Sponsored, Ticker, ...
 tags.push('h5');     // new in Sept 2012 for "was tagged in...", "added %d new photos", etc.
 tags.push('h6');     // %a commented on %a.
