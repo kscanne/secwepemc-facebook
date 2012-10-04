@@ -32,9 +32,8 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Evénti"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -53,63 +52,54 @@ msgid "status"
 msgstr "'n stæto"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "'n stæto"
+msgstr ""
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
 msgstr "A ti e %a ghe piâxe quésto"
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "A ti e %a ghe piâxe quésto"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "A %a1, %a2 e-a %a3 ghe piâxe. "
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
 msgstr[0] "O %a o l'à azónto 'na nêuva föto"
-msgstr[1] "O %a o l'à azónto 'na nêuva föto"
+msgstr[1] ""
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "O %a o l'à azónto 'na nêuva föto"
-msgstr[1] "O %a o l'à azónto 'na nêuva föto"
+msgstr[0] ""
+msgstr[1] ""
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 o l'à condivîzo %a2"
+msgstr ""
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "a %a1 e-a %a2 ghe piâxe."
+msgstr ""
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 e %a2 àn condivîzo %a3."
+msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "a %a1 e-a %a2 ghe piâxe."
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -120,14 +110,12 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 e %a2 àn condivîzo %a3."
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 e %a2 àn condivîzo %a3."
+msgstr ""
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -155,19 +143,16 @@ msgid "%a1 commented on a %a2."
 msgstr "o %a1 o l'à comentòu %a2"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 msgid "Activity Log"
 msgstr "Regìstro de ativitæ"
@@ -192,9 +177,8 @@ msgid "a few seconds ago"
 msgstr "quàrche segóndo fa"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "a %a1 o ghe piâxe un %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -210,15 +194,13 @@ msgid "%a1 likes a %a2."
 msgstr "a %a1 o ghe piâxe un %a2"
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "a %a1 o ghe piâxe un %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "a %a1 o ghe piâxe un %a2"
+msgstr ""
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -249,58 +231,48 @@ msgid "%a1 shared %a2."
 msgstr "%a1 o l'à condivîzo %a2"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 o l'à condivîzo %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 o l'à condivîzo %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 o l'à condivîzo %a2"
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Fànni 'na domànda"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "a %a1 o ghe piâxe un %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "o %a1 o l'à comentòu %a2"
+msgstr ""
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "O %a o l'à azónto 'na nêuva föto"
+msgstr ""
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "O %a o l'à azónto 'na nêuva föto"
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -420,27 +392,24 @@ msgstr[1] "%d âtri"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "1 amîgo in comûne"
-msgstr[1] "%d amîxi in comûne"
+msgstr[0] ""
+msgstr[1] ""
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "1 amîgo in comûne"
-msgstr[1] "%d amîxi in comûne"
+msgstr[0] ""
+msgstr[1] ""
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
-#, fuzzy
 msgid "1 other person"
 msgid_plural "%d other people"
-msgstr[0] "1 amîgo in comûne"
-msgstr[1] "%d amîxi in comûne"
+msgstr[0] ""
+msgstr[1] ""
 
 #. %d stands for a number; used in sentences like "%d people like this."
 #. The singular "1 person" is never used as far as I can tell
@@ -550,9 +519,8 @@ msgid "Likes"
 msgstr "Ghe piâxe"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Ghe piâxe sta pàgina"
+msgstr ""
 
 msgid "Like This Page"
 msgstr "Ghe piâxe sta pàgina"
@@ -703,9 +671,8 @@ msgid "Resize"
 msgstr "Ridimensionn-a"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Scrîvi 'n  coménto..."
+msgstr "%s, scrîvi 'n coménto..."
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -771,9 +738,8 @@ msgid "Status"
 msgstr "Stæto"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Iscriçioìn"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
