@@ -49,7 +49,7 @@ to English, etc.
 | ilo | en | Ilocano | Ilocano | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/lgpfghenkmcdpflcgkdabfpclgpnjmaa, "Firefox":http://userscripts.org/scripts/show/140649 | Eugene Carmelo C. Pedro |
 | kw | en | Cornish | Kernewek | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/136828 | Steve Harris |
 | lag | en | Rangi | Kɨlaangi | 1.0.0 | Not yet released | Oliver Stegen |
-| lij | it | Ligurian | Lìgure | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
+| lij | it | Ligurian | Lìgure | 1.0.3 | "Firefox":http://userscripts.org/scripts/show/129397 | Alessio Gastaldi |
 | mi | en | Māori | Māori | 1.0.4 | "Chrome":https://chrome.google.com/webstore/detail/cgopigcnpdephndgbdkbiapnepgdbjfd, "Firefox":http://userscripts.org/scripts/show/145048 | Karaitiana Taiuru, Teanau Tuiono, Ian Cormack |
 | mlv | en | Motlav | Mwotlap | 1.0.0 | Not yet released | Alex François |
 | mus | en | Muskogee | Mvskoke | 1.0.0 | Not yet released | James Fife |
