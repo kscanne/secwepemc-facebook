@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-25 19:51:54-0500\n"
+"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -749,11 +749,11 @@ msgstr "Дlатаса"
 msgid "Send a New Message"
 msgstr "Керла хаам дlабахьийта"
 
-#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+#. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Декъа"
 
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "Къастаде"
 

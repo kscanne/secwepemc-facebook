@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
+"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -753,11 +753,11 @@ msgstr "Mandar"
 msgid "Send a New Message"
 msgstr "Mandar nuoba mensaige"
 
-#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+#. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Partilhar"
 
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "OURDENAR"
 

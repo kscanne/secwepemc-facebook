@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
+"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -784,11 +784,11 @@ msgstr "Seol"
 msgid "Send a New Message"
 msgstr "Seol Teachtaireacht Nua"
 
-#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+#. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Comhroinn"
 
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "SÓRTÁIL"
 

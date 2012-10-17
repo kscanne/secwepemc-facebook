@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-25 19:51:54-0500\n"
+"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
 "PO-Revision-Date: 2012-09-23 05:37:40-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: 'Are'are\n"
@@ -719,11 +719,11 @@ msgstr "Watea"
 msgid "Send a New Message"
 msgstr "Watea wara hauru"
 
-#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+#. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr ""
 
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "Si'o hirisia"
 
