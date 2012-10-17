@@ -349,9 +349,9 @@ See Translation
 Send
 #. Link that opens the "New Message" dialog
 Send a New Message
-#. Verb. A link that allows you to share (usually someone else's)  post with your friends
+#. Verb. A link that allows you to share (usually someone else's) post with your friends
 Share
-#. A link that allows your to sort posts by "most recent" or "top stories"
+#. A link that allows you to sort posts by "most recent" or "top stories"
 SORT
 #. Appears above paid advertisements
 Sponsored
