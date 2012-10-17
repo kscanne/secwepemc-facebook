@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-09-25 19:51:55-0500\n"
+"POT-Creation-Date: 2012-10-17 11:53:36-0500\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: \n"
 "Language-Team: Niuean\n"
@@ -18,19 +18,18 @@ msgstr ""
 #. always as the final word of the message in English; for example:
 #. John Doe likes Jane Doe's X.
 #. John Doe shared Jane Doe's X.
+#. John Doe shared her/his own X.
 #. John Doe and Jane Doe shared Kevin Scannell's X.
 #. John Doe was tagged in Jane Doe's X.
 #. John Doe was tagged in a X.
 #. John Doe commented on a X.
 #. John Doe and Jane Doe commented on a X.
-#. John Doe commented on her own X.
-#. John Doe commented on his own X.
+#. John Doe commented on her/his own X.
 #. John Doe commented on your X.
 #. John Doe likes a X.
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-
 msgid "life event"
 msgstr "tau gahua tukulagi"
 
@@ -54,6 +53,14 @@ msgstr "tūaga"
 msgid "status update"
 msgstr "tūaga ainei"
 
+#. %a stands for something like "4 others"
+msgid "You and %a like this."
+msgstr "Fiafia a koe mo e %a ke he mena nai"
+
+#. %a1 is a person's name, %a2 stands for something like "4 others"
+msgid "You, %a1 and %a2 like this."
+msgstr "%a1, %a2 mo koe ne fiafia ke he mena nai"
+
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "%a1, %a2 mo e %a3 tuga a e."
@@ -69,6 +76,12 @@ msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
 msgstr[0] "%a1 ne tuku 1 e ata foou he pepa ata %a2."
 msgstr[1] "%a1 ne tuku %d e tau ata foou he pepa ata %a2."
+
+#. %a1 is a person, %a2 is something like "4 other people"
+#. This is to let you know about birthdays in right-hand column on home page
+#, fuzzy
+msgid "%a1 and %a2"
+msgstr "Tufa e %a1 e %a2."
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -98,6 +111,11 @@ msgstr "%a1 mo %a2 ne tufa e %a3."
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 mo %a2 ne tufa e %a4 ha %a3."
+
+#. %a1, %a2, and %a3 are names of people
+#, fuzzy
+msgid "%a1 and %a2 were tagged in %a3's photos."
+msgstr "Ne taupoki a %a1 he tau ata ha %a2."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -147,7 +165,6 @@ msgid "Add Interests..."
 msgstr "Lafi e tau Mena Fiafia ki ai…"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-
 msgid "Add Photo / Video"
 msgstr "Lafi e Fakatino / Vitiō"
 
@@ -217,9 +234,29 @@ msgstr "Tufa e %a1 e %a2."
 msgid "%a1 shared %a2's %a3."
 msgstr "Tufa e %a1 e %a3 ha %a2."
 
+#. %a1 is a person, %a2 is "link", "photo", "post", or "status"
+#, fuzzy
+msgid "%a1 shared her own %a2."
+msgstr "Tufa e %a1 e %a2."
+
+#. %a1 is a person, %a2 is "link", "photo", "post", or "status"
+#, fuzzy
+msgid "%a1 shared his own %a2."
+msgstr "Tufa e %a1 e %a2."
+
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
 msgstr "Hūhū Atu"
+
+#. %a1 is a person, %a2 is always "Instagram" I think
+#, fuzzy
+msgid "%a1 took a photo with %a2."
+msgstr "%a1 i %a2."
+
+#. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
+#, fuzzy
+msgid "%a1 was tagged at %a2."
+msgstr "Ne taupoki a %a1 he %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -277,8 +314,9 @@ msgid "Change Cover"
 msgstr "Hiki e Fakatino"
 
 #. Label on tab for chatting with friends
-#. "Offline" means you're not currently logged into the chat system
-msgid "Chat (Offline)"
+#. "Off" means you're not currently logged into the chat system
+#, fuzzy
+msgid "Chat (Off)"
 msgstr "Tūtala (Ai Nofo)"
 
 msgid "Close"
@@ -437,6 +475,10 @@ msgstr "Kumi Kapitiga"
 msgid "Find More Pages"
 msgstr "Kumi Falu Lau Pepa"
 
+#. Appears next to "Like" and "Comment" on each post in a group
+msgid "Follow Post"
+msgstr ""
+
 #. In search box that lets you search for friends that are available to chat
 msgid "Friends on Chat"
 msgstr "Tau Kapitiga ne Tūtala"
@@ -502,6 +544,11 @@ msgstr "Hu Ki Fafo"
 msgid "Map"
 msgstr "Fakafonua"
 
+#. Button near top of a user's profile page (but not your own!)
+#, fuzzy
+msgid "Message"
+msgstr "Tohi"
+
 #. In the "New Message" dialog
 msgid "Message:"
 msgstr "Tohi"
@@ -558,9 +605,13 @@ msgstr "Aukialā"
 msgid "Now"
 msgstr "Mogo Nai"
 
-#. Heading above the list of your FB pages; left-hand navigation on home page
+#. Heading above the list of your FB pages (now "PAGES AND ADS"?)
 msgid "PAGES"
 msgstr "LAU PEPA"
+
+#. Heading above the list of your FB pages; left-hand navigation on home page
+msgid "PAGES AND ADS"
+msgstr ""
 
 msgid "People who like this"
 msgstr "Tau tagata ne fiafia ke he mena nai"
@@ -621,7 +672,7 @@ msgstr "Tau Lau Pepa Ne Omoi Ki Ai"
 msgid "Remove Preview"
 msgstr "Uta Ke He E Fakatai"
 
-#. Option on every post on your personal timeline (now "Highlight"?)
+#. Option on every post on your personal timeline (now defunct? see "Highlight")
 msgid "Resize"
 msgstr "Fakafaliu"
 
@@ -638,16 +689,19 @@ msgid "Search for people, places and things"
 msgstr "Kumi e tau tagata, matakavi mo e tau koloa"
 
 #. Link in right-hand column near "Recommended Pages" and "People You May Know"
+#. Also under Friend Requests, Messages, Notifications drop downs
 msgid "See All"
 msgstr "Kitia Oti"
 
-#. In the drop-down menu with recent Friend Requests
+#. Now just "See All"?
 msgid "See All Friend Requests"
 msgstr "Kitia Oti Ko Hai Ne Manako Kapitiga"
 
+#. Now just "See All"?
 msgid "See All Messages"
 msgstr "Fakakite Oti E Tau Tohi"
 
+#. Now just "See All"?
 msgid "See All Notifications"
 msgstr "Fakakite Oti E Tau Fakailoaaga"
 
@@ -672,11 +726,11 @@ msgstr "Fakafano"
 msgid "Send a New Message"
 msgstr "Fakafano e Tohi Foou"
 
-#. Verb. A link that allows you to share (usually someone else's) post with your friends
+#. Verb. A link that allows you to share (usually someone else's)  post with your friends
 msgid "Share"
 msgstr "Fetufaaki"
 
-#. A link that allows you to sort posts by "most recent" or "top stories"
+#. A link that allows your to sort posts by "most recent" or "top stories"
 msgid "SORT"
 msgstr "FAKAPAPAHI"
 
@@ -689,11 +743,17 @@ msgstr "Fakatupe"
 msgid "Status"
 msgstr "Tuaga"
 
+#. With "Like Page" and "Find More Pages" when someone likes a page
+#, fuzzy
+msgid "Subscribe to Page"
+msgstr "Matutakiaga"
+
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
 msgstr "Matutakiaga"
 
-#. Right-hand navigation, similar to "People you may know", next to "See All"
+#. Right-hand navigation, similar to "People you may know"
+#. Get it by clicking "GROUPS" in left-hand navigation on Home Page
 msgid "Suggested Groups"
 msgstr "Tau Matakau Kua Lata Ke Matutaki Ki Ai"
 
@@ -724,6 +784,10 @@ msgstr "Kia:"
 #. Under "Sort" on the home page, can sort by "Top Stories" or "Most Recent"
 msgid "Top Stories"
 msgstr "Tau Tala Mahuiga"
+
+#. See "Follow Post"
+msgid "Unfollow Post"
+msgstr ""
 
 #. Verb. See "Like"
 msgid "Unlike"
@@ -770,14 +834,6 @@ msgstr "I ne afi"
 #. Appears next to a post or comment as a timestamp; %s is the time of day
 msgid "Yesterday at %s"
 msgstr "I ne afi he %s"
-
-#. %a stands for something like "4 others"
-msgid "You and %a like this."
-msgstr "Fiafia a koe mo e %a ke he mena nai"
-
-#. %a1 is a person's name, %a2 stands for something like "4 others"
-msgid "You, %a1 and %a2 like this."
-msgstr "%a1, %a2 mo koe ne fiafia ke he mena nai"
 
 msgid "You like this."
 msgstr "Fiafia a koe ke he mena nai"
