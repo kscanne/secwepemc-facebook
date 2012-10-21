@@ -52,9 +52,11 @@ msgstr "pòs"
 msgid "status"
 msgstr "estati"
 
+# Should be: msgstr "modifye estati"
+# But French uses "statut" for both, so we'll use "estati" here
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr "modifye estati"
+msgstr "estati"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
@@ -133,10 +135,12 @@ msgstr "sa gen yon minit de sa"
 msgid "Account Settings"
 msgstr "Paramèt Kont"
 
+# French has same translation for his/her, so we must too
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr "%a chanje imaj pwofil li."
 
+# French has same translation for his/her, so we must too
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr "%a chanje imaj pwofil li."
@@ -274,13 +278,15 @@ msgstr "%a1 te mansyone nan pa %a2 ak %a3"
 msgid "%a1 was tagged in %a2's photos."
 msgstr "%a1 te mansyone nan foto %a2"
 
+# French has same translation for his/her, so we must too
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
 msgstr "%a modifye foto kouvèti li a."
 
+# French has same translation for his/her, so we must too
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr "%a modifye foto kouvèti li a.."
+msgstr "%a modifye foto kouvèti li a."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -386,6 +392,11 @@ msgid_plural "%d NEW STORIES"
 msgstr[0] "1 NOUVO ISTWA"
 msgstr[1] "%d NOUVO ISTWA"
 
+# Was:
+# msgstr[0] "1 Lòt"
+# msgstr[1] "%d Lòt"
+# But since French uses "%d autres personnes", we'll use same
+# translation as "%d other people"
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like the following:
@@ -395,8 +406,8 @@ msgstr[1] "%d NOUVO ISTWA"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "1 Lòt"
-msgstr[1] "%d Lòt"
+msgstr[0] "1 lòt moun"
+msgstr[1] "%d lòt moun"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
@@ -566,9 +577,11 @@ msgstr "Chajman Selilè"
 msgid "More"
 msgstr "Plis"
 
+# French uses "Plus" in lowercase, same translation as for "More" above
+# So we'll use lowercase here too
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "PLIS"
+msgstr "Plis"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
@@ -800,10 +813,12 @@ msgstr "Pa Renmen"
 msgid "Update Info"
 msgstr "Modifye Enfòmasyon"
 
+# Should be: msgstr "Modifye Estati"
+# But French uses "Statut" for this and "Status", so we'll use "Estati"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Modifye Estati"
+msgstr "Estati"
 
 msgid "Use Facebook as:"
 msgstr "Itilize Facebook an tan ke:"
