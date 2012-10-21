@@ -130,25 +130,29 @@ msgstr "Ciù ò mêno 'n menûto fa"
 msgid "Account Settings"
 msgstr "Inpostaçioìn de l'Account"
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr "A %a a l'à cangiòu a seu föto do profî"
+msgstr "A/O %a a/o l'à cangiòu a seu föto do profî"
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr "O %a o l'à cangiòu a seu föto do profî"
+msgstr "A/O %a a/o l'à cangiòu a seu föto do profî"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
 msgstr "O %a1 o l'à comentòu %a2"
 
+# Italian has same translation (regex) for his/her, so we must too
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr "A %a1 a l'à comentòu a seu %a2"
+msgstr "A/O %a1 a/o l'à comentòu a seu %a2"
 
+# Italian has same translation (regex) for his/her, so we must too
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr "O %a1 o l'à comentòu a seu %a2"
+msgstr "A/O %a1 a/o l'à comentòu a seu %a2"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
@@ -202,10 +206,12 @@ msgstr "%a1 ghe piâxe o/a %a2 de %a3."
 msgid "%a1 likes %a2 and %a3."
 msgstr "%a1 ghe piâxe %a2 e %a3."
 
+# Italian has same translation in singular/plural, so we must too
 #. %a stands for a person's name
 msgid "%a likes this."
 msgstr "a %a o ghe piâxe."
 
+# Italian has same translation in singular/plural, so we must too
 #. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "a %a o ghe piâxe."
@@ -234,13 +240,15 @@ msgstr "%a1 o l'à condivîzo %a2"
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 o l'à condivîzo o %a3 de %a2"
 
+# Italian has same translation for his/her, so we must too
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
 msgstr "%a1 a l'à condivîzo o/a seu %a2"
 
+# Italian has same translation for his/her, so we must too
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
-msgstr ""
+msgstr "%a1 a l'à condivîzo o/a seu %a2"
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -266,13 +274,15 @@ msgstr "%a1 o l'é stæto identificòu into %a2"
 msgid "%a1 was tagged in %a2's photos."
 msgstr "%a1 o l'é stæto identificòu inte föto de %a2"
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr "A %a a l'à agiornòu a seu föto da covertìnn-a."
+msgstr "A/O %a a/o l'à agiornòu a seu föto da covertìnn-a."
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr "O %a o l'à agiornòu a seu föto da covertìnn-a"
+msgstr "A/O %a a/o l'à agiornòu a seu föto da covertìnn-a"
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -558,9 +568,10 @@ msgstr "Caregæ dò-u telefonìn"
 msgid "More"
 msgstr "Ciù"
 
+# Italian uses lowercase "Altro" for "MORE" so we'll use lowercase too
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "CIÙ"
+msgstr "Ciù"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
@@ -613,10 +624,12 @@ msgstr "Persónn-e ch'o ghe piâxe"
 msgid "People You May Know"
 msgstr "Persónn-e che ti poriêsci conósce"
 
+# Italian has "Foto" for singular and plural; we must too
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Föto"
 
+# Italian has "Foto" for singular and plural; we must too
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Föto"
@@ -790,10 +803,13 @@ msgstr "No me piâxe ciù"
 msgid "Update Info"
 msgstr "Agiórna e informaçioìn"
 
+# Italian has "Stato" for this and "Status", so we should
+# give the same translation for both as well
+# Was: msgstr "Agiórna o Stæto"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Agiórna o Stæto"
+msgstr "Stæto"
 
 msgid "Use Facebook as:"
 msgstr "Adêuvia Facebook cómme:"

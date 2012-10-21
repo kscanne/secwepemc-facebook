@@ -140,10 +140,12 @@ msgstr "un minüd fa"
 msgid "Account Settings"
 msgstr "Impustasion dal Cont"
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr ""
 
+# Italian has same translation for his/her => we must also
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr ""
@@ -152,15 +154,15 @@ msgstr ""
 msgid "%a1 commented on a %a2."
 msgstr "%a1 l'à ditt cuèl insima a %a2."
 
+# Italian has same translation (regex) for his/her, so we must too
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 l'à ditt cuèl insima a %a2."
+msgstr ""
 
+# Italian has same translation (regex) for his/her, so we must too
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 l'à ditt cuèl insima a %a2."
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 #, fuzzy
@@ -251,15 +253,15 @@ msgstr "%a1 l'à miss in c'mon %a2."
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 l'à miss in c'mon %a2."
 
+# Italian is same for his/her so this should be too
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 l'à miss in c'mon %a2."
+msgstr ""
 
+# Italian is same for his/her so this should be too
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 l'à miss in c'mon %a2."
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
 msgid "Ask Question"
@@ -588,6 +590,7 @@ msgstr "Cargament dal telefunen"
 msgid "More"
 msgstr "Pussè"
 
+# Italian uses lowercase "Altro" for "MORE" so we'll use lowercase too
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "Pussè"
@@ -643,10 +646,12 @@ msgstr "A chi 'gh piäs"
 msgid "People You May Know"
 msgstr "Chi 't pudriss cugnusar"
 
+# Italian has "Foto" for singular and plural; we must too
 #. Appears on profile above the "What's on your mind?" prompt, after "Status"
 msgid "Photo"
 msgstr "Foto"
 
+# Italian has "Foto" for singular and plural; we must too
 #. Link to a user's photos, at top of profile, between "Friends" and "Map"
 msgid "Photos"
 msgstr "Foto"
@@ -821,6 +826,8 @@ msgstr "Am piäs mia po"
 msgid "Update Info"
 msgstr ""
 
+# Italian has "Stato" for this and "Status", so we should
+# give the same translation for both as well
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
