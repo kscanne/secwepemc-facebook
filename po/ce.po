@@ -547,10 +547,12 @@ msgstr "Хазахета"
 msgid "Likes"
 msgstr "Хазахетарш"
 
+# Translation should be same as "Like This Page" since Russian does this
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
-msgstr "Агlо хазахетта"
+msgstr "Хlара агlо хазахетта"
 
+# Translation should be same as "Like Page" since Russian does this
 msgid "Like This Page"
 msgstr "Хlара агlо хазахетта"
 
@@ -650,10 +652,12 @@ msgstr "Сурт"
 msgid "Photos"
 msgstr "Cyьрташ"
 
+# was  msgstr "Меттиг"
+# but Russian has same translation for "Place" and "Places" so we will too
 #. Link that allows you to "check in" somewhere
 #. Appears on profile above "What's on your mind?", after "Status" and "Photo"
 msgid "Place"
-msgstr "Меттиг"
+msgstr "Меттигаш"
 
 #. Appears, e.g., on your Timeline, showing places you visited during the year
 msgid "Places"
