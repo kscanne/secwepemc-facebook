@@ -553,7 +553,7 @@ msgstr "Ссылки"
 
 #. Was the heading above your lists of friends ("Work", "Family", etc.)
 msgid "LISTS"
-msgstr "ИНТЕРЕСЫ"
+msgstr ""
 
 msgid "Log Out"
 msgstr "Выйти"
@@ -844,7 +844,7 @@ msgstr "О чем вы думаете?"
 
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
-msgstr "Оставить комментарий..."
+msgstr "Написать комментарий ..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
