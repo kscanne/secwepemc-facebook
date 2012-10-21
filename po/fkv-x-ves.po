@@ -220,10 +220,12 @@ msgstr "kohta minutti aikkaa"
 msgid "Account Settings"
 msgstr "Konton asetukset"
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr "%a vaihetti oman profiilikuvan."
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr "%a vaihetti oman profiilikuvan."
@@ -232,10 +234,12 @@ msgstr "%a vaihetti oman profiilikuvan."
 msgid "%a1 commented on a %a2."
 msgstr "%a1 kommenteerasi %a2."
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
 msgstr "%a1 kommenteerasi ommaa %a2."
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
 msgstr "%a1 kommenteerasi ommaa %a2."
@@ -296,6 +300,8 @@ msgstr "%a1 tykkää laiđasta %a2 ja %a3."
 msgid "%a likes this."
 msgstr "%a tykkää tästä."
 
+# BUG! Norwegian uses "%a liker dette" for this and the singular above
+# so we're not able to make this distinction in Kven
 #. %a stands for something like "3 people"
 msgid "%a like this."
 msgstr "%a tykäthään tästä."
@@ -324,10 +330,12 @@ msgstr "%a1 jakoi %a2."
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 jakoi %a3 jonka %a2 oon julkaissu."
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
 msgstr "%a1 jakoi oman %a2."
 
+# Norwegian doesn't distinguish his/her so we can't either
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
 msgstr "%a1 jakoi oman %a2."
@@ -358,10 +366,12 @@ msgstr "%a1 oon merkitty %a2."
 msgid "%a1 was tagged in %a2's photos."
 msgstr "%a1 oon merkitty kuvhiin jokka %a2 julkaisi."
 
+# Norwegian has same translation for his/her, so we must too
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
 msgstr "%a uuđisti oman etulaiđan kuvan."
 
+# Norwegian has same translation for his/her, so we must too
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
 msgstr "%a uuđisti oman etulaiđan kuvan."
@@ -601,18 +611,18 @@ msgstr "INTRESSIT"
 msgid "Life Event"
 msgstr "Elämäntapattuma"
 
-# verb or noun? (This is a verb in kven language)Herewith translated as noun
 #. Verb. A link that allows you to "like" a post or a comment; "I like this"
 msgid "Like"
 msgstr "Tykkää"
 
-# verb or noun? (This is a noun in kven language)Herewith translated as noun
+# Was: msgstr "Tykkäämiset"
+# But Norwegian has "Liker" for this as well as for "Like"
+# So we should use the same translation both places too
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr "Tykkäämiset"
+msgstr "Tykkää"
 
-# verb or noun? (This is a verb in kven language)Herewith translated as noun
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
 msgstr "Tykkää laiđasta"
@@ -828,6 +838,8 @@ msgstr "SORTTEERAA"
 msgid "Sponsored"
 msgstr "Sponsoreerattu"
 
+# nb translates "Status" and "Update Status" the same way, so 
+# we should too...
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
 msgid "Status"
@@ -889,10 +901,13 @@ msgstr "En tykkääkhään"
 msgid "Update Info"
 msgstr "Uuđista tiettoi"
 
+# nb translates "Status" and "Update Status" the same way, so 
+# we should too...
+# This was: msgstr "Uuđista staattuksen"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
-msgstr "Uuđista staattuksen"
+msgstr "Staattus"
 
 msgid "Use Facebook as:"
 msgstr "Valitte mitä Facebook-laittaa käytät:"
