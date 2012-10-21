@@ -133,10 +133,12 @@ msgstr "jun ch'uti ramaj ik'owinäq"
 msgid "Account Settings"
 msgstr "Runuk'ulem jun okib'äl"
 
+# Same for his/her in Spanish, so same here
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr ""
 
+# Same for his/her in Spanish, so same here
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
 msgstr ""
@@ -145,10 +147,12 @@ msgstr ""
 msgid "%a1 commented on a %a2."
 msgstr ""
 
+# Spanish doesn't distinguish his/her, so we can't either
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
 msgstr ""
 
+# Spanish doesn't distinguish his/her, so we can't either
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
 msgstr ""
@@ -237,10 +241,12 @@ msgstr "%a1 xujäch %a2."
 msgid "%a1 shared %a2's %a3."
 msgstr "%a1 xujäch ru%a3, %a2."
 
+# Spanish doesn't distinguish his/her, so we can't either
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared her own %a2."
 msgstr "%a1 xujäch ru%a2."
 
+# Spanish doesn't distinguish his/her, so we can't either
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 shared his own %a2."
 msgstr "%a1 xujäch ru%a2."
@@ -271,10 +277,12 @@ msgstr "%a1 xok pa retal retal %a2."
 msgid "%a1 was tagged in %a2's photos."
 msgstr "%a1 xok pa retal ruwachib'äl %a2."
 
+# Same for his/her in Spanish, so same here
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
 msgstr "%a xujäl ruwachb'äl."
 
+# Same for his/her in Spanish, so same here
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
 msgstr "%a xujäl ruwachb'äl."
@@ -383,6 +391,10 @@ msgid_plural "%d NEW STORIES"
 msgstr[0] "1 k'ak'a' rutzijol"
 msgstr[1] "k'ak'a' taq rutzijol"
 
+# Spanish has same translation for this and "%d other people"
+# So we should too... it used to be:
+# msgstr[0] "jun chïk"
+# msgstr[1] "%d chïk"
 #. %d stands for a number, no need to translate it; "%d other people"
 #. The singular "1 other" is never used as far as I can tell
 #. Always a link. Used in sentences like the following:
@@ -392,8 +404,8 @@ msgstr[1] "k'ak'a' taq rutzijol"
 #. "You, John Doe and 7 others like this."
 msgid "1 other"
 msgid_plural "%d others"
-msgstr[0] "jun chïk"
-msgstr[1] "%d chïk"
+msgstr[0] "jun chïk winäq"
+msgstr[1] "%d chïk winäq"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
@@ -518,15 +530,19 @@ msgstr "Nima'q taq nimaq'ij"
 msgid "Like"
 msgstr "Jeb'ël"
 
+# Must be same as translation of "Like" because of Spanish default
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
 msgstr "Jeb'ël"
 
+# translation must be the same as for "Like This Page" b/c of Spanish
+# Was: msgstr "Ruxaq richin jeb'elïk"
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
-msgstr "Ruxaq richin jeb'elïk"
+msgstr "Jeb'ël re ruxaq re'"
 
+# translation must be the same as for "Like Page" b/c of Spanish
 msgid "Like This Page"
 msgstr "Jeb'ël re ruxaq re'"
 
@@ -797,6 +813,7 @@ msgstr "Man ütz ta"
 msgid "Update Info"
 msgstr "Rutz'aqatisaxik rutzijol"
 
+# Must be same as translation of "Update Status" because of Spanish
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"
