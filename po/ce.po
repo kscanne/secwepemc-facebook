@@ -192,9 +192,11 @@ msgstr "Интересаш тlетоха"
 msgid "Add Photo / Video"
 msgstr "Тlетоxа Сурт / Видео"
 
+# just using Russian
+# was "Материал яржор"
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
-msgstr "Материал яржор (Реклама)"
+msgstr "Реклама"
 
 #. Time stamp on a post. You might also translate as "Just now"
 msgid "a few seconds ago"
@@ -211,7 +213,7 @@ msgstr "%a1 хlинца доттагlа ву/ю цхъанца (%a2), %a3 a."
 
 #. For example, "John Doe likes Linux."; often under Sponsored Ads
 msgid "%a1 likes %a2."
-msgstr "%a1 хазахета %a2."
+msgstr "%a1 %a2 хазахета."
 
 #. %a1 is a person's name, %a2 is "link", "photo", "post", or "status"
 msgid "%a1 likes a %a2."
@@ -761,9 +763,11 @@ msgstr "Декъа"
 msgid "SORT"
 msgstr "Къастаде"
 
+# Using Russian
+# was "Спонсоралла хилла"
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr "Спонсоралла хилла"
+msgstr "Реклама"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
