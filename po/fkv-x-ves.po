@@ -615,7 +615,7 @@ msgstr "Elämäntapattuma"
 msgid "Like"
 msgstr "Tykkää"
 
-# Was: msgstr "Tykkäämiset"
+# Was: msgstr "Tykkäämiset"
 # But Norwegian has "Liker" for this as well as for "Like"
 # So we should use the same translation both places too
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB

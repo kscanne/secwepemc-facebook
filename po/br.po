@@ -142,7 +142,7 @@ msgstr "E-tro ur munut zo"
 msgid "Account Settings"
 msgstr "Arventennoù ar gont"
 
-# Properly: msgstr "Cheñchet eo bet skeudenn he frofil gant %a."
+# Properly: msgstr "Cheñchet eo bet skeudenn he frofil gant %a."
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
 msgstr "Cheñchet eo bet skeudenn he frofil/e brofil gant %a."
@@ -607,7 +607,7 @@ msgid "More"
 msgstr "Muioc'h"
 
 # French translates as "Plus" in lowercase like previous, so we should too
-# msgstr "MUIOC'H"
+# msgstr "MUIOC'H"
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
 msgstr "Muioc'h"
@@ -841,8 +841,8 @@ msgstr "Displijus"
 msgid "Update Info"
 msgstr "Nevesaat ar c'heleier"
 
-# French translates as "Statut", so we'll use "Statud" in place of:
-# msgstr "Nevesaat ar statud"
+# French translates as "Statut", so we'll use "Statud" in place of:
+# msgstr "Nevesaat ar statud"
 #. This is a Facebook "status update", not a relationship status
 #. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
 msgid "Update Status"

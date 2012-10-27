@@ -52,7 +52,7 @@ msgstr "pòs"
 msgid "status"
 msgstr "estati"
 
-# Should be: msgstr "modifye estati"
+# Should be: msgstr "modifye estati"
 # But French uses "statut" for both, so we'll use "estati" here
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
@@ -392,7 +392,7 @@ msgid_plural "%d NEW STORIES"
 msgstr[0] "1 NOUVO ISTWA"
 msgstr[1] "%d NOUVO ISTWA"
 
-# Was:
+# Was:
 # msgstr[0] "1 Lòt"
 # msgstr[1] "%d Lòt"
 # But since French uses "%d autres personnes", we'll use same
@@ -577,7 +577,7 @@ msgstr "Chajman Selilè"
 msgid "More"
 msgstr "Plis"
 
-# French uses "Plus" in lowercase, same translation as for "More" above
+# French uses "Plus" in lowercase, same translation as for "More" above
 # So we'll use lowercase here too
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
