@@ -22,6 +22,8 @@ en-GB	0	1
 en-GB	1	[0-9,]+
 es	0	1
 es	1	[0-9,]+
+ff	0	1
+ff	1	[0-9,]+
 fkv-x-oys	0	1
 fkv-x-oys	1	[0-9,]+
 fkv-x-ves	0	1
