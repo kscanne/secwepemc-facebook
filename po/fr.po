@@ -740,9 +740,10 @@ msgstr "Partager"
 msgid "SORT"
 msgstr "Ordre"
 
+# Was msgstr "Lien commercial"
 #. Appears above paid advertisements
 msgid "Sponsored"
-msgstr "Lien commercial"
+msgstr "Sponsorisé"
 
 #. This is a Facebook "status update", not a relationship status
 #. Appears on profile above the "What's on your mind?" prompt
@@ -828,9 +829,10 @@ msgstr "Bienvenue"
 msgid "What's on your mind?"
 msgstr "Exprimez-vous"
 
+# Was msgstr "Rédiger un commentaire..."
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."
-msgstr "Rédiger un commentaire..."
+msgstr "Écrire un commentaire..."
 
 #. Appears next to a post or comment as a timestamp
 msgid "Yesterday"
