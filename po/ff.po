@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
 "POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
-"PO-Revision-Date: 2012-11-08 14:56+0200\n"
+"PO-Revision-Date: 2012-11-12 21:19+0200\n"
 "Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULA LOCALIZATION\n"
 "Language: ff\n"
@@ -54,7 +54,7 @@ msgstr "ɓalal"
 
 #. Always a link. Used in longer sentences as above.
 msgid "status update"
-msgstr "hesɗitinde ɓalal"
+msgstr "kesɗitinal ɓalal"
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
@@ -71,7 +71,7 @@ msgstr "%a1, %a2 e %a3 ena mbelaa ɗum."
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] "%a ɓeydii nate kese 1."
+msgstr[0] "%a ɓeydii natal kesal %d."
 msgstr[1] "%a ɓeydii nate kese %d."
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
@@ -156,14 +156,14 @@ msgid "%a1 commented on your %a2."
 msgstr "%a1 won ko haali e %a2 maa."
 
 msgid "Activity Log"
-msgstr "Doggol Dille"
+msgstr "Aslol Dille Maa"
 
 msgid "Add Friend"
-msgstr "Ɓeeydu Sehil"
+msgstr "Ɓeydu Sehil"
 
 #. Under INTERESTS in left-hand navigation on home page
 msgid "Add Interests..."
-msgstr "E katojine..."
+msgstr "Ɓeydu Katojine..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photo / Video"
@@ -249,7 +249,7 @@ msgstr "Weddo Naamnal"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 tɓamii natal huutoraade %a2."
+msgstr "%a1 ɓamii natal huutoraade %a2."
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
 msgid "%a1 was tagged at %a2."
@@ -461,7 +461,7 @@ msgstr "Enɗam"
 
 #. In left-hand column on home page, above links to "News Feed", "Messages", etc
 msgid "FAVORITES"
-msgstr "LABAAƊI"
+msgstr "LABAAƊE"
 
 #. Link to a page that allows you to search your address books for FB friends
 #. Appears in the "Friend Requests" dialog and when you click the "Friends" link
@@ -517,7 +517,7 @@ msgstr "Miɗo welaa"
 #. Plural noun. Link that shows you a list of music, books, etc. you like on FB
 #. Appears at the top of your profile, after Friends, Photos, Map, ...
 msgid "Likes"
-msgstr "Welaaɓe"
+msgstr "Aɗa Welaa"
 
 #. Appears as link to right of "RECENT POST" on home page
 msgid "Like Page"
@@ -557,11 +557,11 @@ msgstr "Jollanɗe Cinndel"
 
 #. Link in bottom navigation. Click it to see additional links: Careers, etc.
 msgid "More"
-msgstr "Goɗɗi"
+msgstr "Goɗɗe"
 
 #. In left-hand navigation to the right of GROUPS, APPS when you mouse over
 msgid "MORE"
-msgstr "GOƊƊI"
+msgstr "GOƊƊE"
 
 #. Appears at the bottom of your home time line; click to load more posts
 msgid "More Stories"
