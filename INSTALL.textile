@@ -35,7 +35,7 @@ to English, etc.
 | ceb | en | Cebuano | Binisaya | 1.0.0 | Not yet released | Joshua Verano |
 | csb | en | Kashubian | Kaszëbsczi | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/139959 | Mateusz Meyer |
 | eml | it | Emiliano-Romagnolo | Emiliàn e Rumagnòl | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/129394 | Federico L. G. Faroldi |
-| ff | fr | Pulaar-Fulfulde | Pulaar-Fulfulde | 1.0.0 | Not yet released | Ibraahiima Saar |
+| ff | fr | Pulaar-Fulfulde | Pulaar-Fulfulde | 1.0.1 | Not yet released | Ibraahiima Saar |
 | fkv-x-oys | nb | Kven Finnish (öystä) | Kvääni/Kainu (öystä) | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/facebook-in-kven-finnish-/hddmmembfnknaaaihkdkdodcmemkbkke, "Firefox":http://userscripts.org/scripts/show/150047 | Mervi Haavisto, Pirjo Paavalniemi, Terje Aronsen |
 | fkv-x-ves | nb | Kven Finnish (vesta) | Kvääni/Kainu (vesta) | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/facebook-in-kven-finnish-/daeplmfihbgjdiilkheokdhifigepkcg, "Firefox":http://userscripts.org/scripts/show/150048 | Mervi Haavisto, Pirjo Paavalniemi, Terje Aronsen |
 | fr-x-jer | en | Jèrriais | Jèrriais | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/130838 | Tony Scott Warren, Geraint Jennings |
