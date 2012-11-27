@@ -13,8 +13,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : ((n%10==0 && n%100>20) || (n"
-"%10==1 && n > 1) || n%10==4 || n%10==7 || (n%100 > 10 && n%100 < 20)) ? 2 : "
-"3\n"
+"%10==1 && n > 1) || n%10==4 || n%10==7 || (n%100 > 10 && n%100 < 20)) ? 1 : "
+"2\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. The first six words to translate are used in a number of different messages,

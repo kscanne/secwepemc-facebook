@@ -1,6 +1,5 @@
 # Translation of Facebook into unsupported languages
 # Copyright (C) 2012 Kevin P. Scannell
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
@@ -13,7 +12,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. The first six words to translate are used in a number of different messages,
