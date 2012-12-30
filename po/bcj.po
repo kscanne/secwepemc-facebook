@@ -40,7 +40,7 @@ msgstr "jaarlany"
 
 #. Always a link. Used in longer sentences as above.
 msgid "photo"
-msgstr "Niinbil"
+msgstr "niinbil"
 
 #. Always a link. Used in longer sentences as above.
 msgid "post"
@@ -60,11 +60,11 @@ msgstr "Joo agal %a jarri irrngoong"
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
 msgid "You, %a1 and %a2 like this."
-msgstr "Joo agal %1 agal %2 jarri irrngoong"
+msgstr "Joo agal %a1 agal %a2 jarri irrngoong."
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
-msgstr "Joo agal %1 agal %2 agal %3 jarri irrngoong"
+msgstr "Joo agal %a1 agal %a2 agal %a3 jarri irrngoong."
 
 #. %a is a person's name; %d stands for a number, no need to translate it
 msgid "%a added a new photo."
@@ -294,7 +294,7 @@ msgstr "Nganyjalgoona"
 
 #. Appears below shared items, indicating the original author/creator
 msgid "By:"
-msgstr "Ngaynim milimil nganamboona: "
+msgstr "Ngaynim milimil nganamboona:"
 
 #. Button label
 msgid "Cancel"
