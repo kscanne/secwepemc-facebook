@@ -1,0 +1,513 @@
+# Translation of Facebook into unsupported languages
+# Copyright (C) 2012 Kevin P. Scannell
+msgid ""
+msgstr ""
+"Project-Id-Version: gm-facebook\n"
+"Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
+"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
+"Last-Translator: Claire Bowern\n"
+"Language-Team: Bardi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+
+msgid "1 mutual friend"
+msgstr "1 gandoorrman"
+
+msgid "1 NEW STORY"
+msgstr "1 gorna jawal"
+
+msgid "1 share"
+msgstr "1 Niimidiman inkalgal"
+
+msgid "%a, %a and %a like this."
+msgstr "%a, %a agal %a liyan irraman."
+
+msgid "%a added a new photo."
+msgstr "%a gorna niinbil inanggagal."
+
+msgid "%a and %a like this."
+msgstr "%a agal %a liyan irraman."
+
+msgid "%a and %a shared %a."
+msgstr "%a-nim agal %a niimidiman ingirrinyigal %a."
+
+msgid "About"
+msgstr ""
+
+msgid "about an hour ago"
+msgstr "milonjarra"
+
+msgid "about a minute ago"
+msgstr "jadara"
+
+msgid "Account Settings"
+msgstr ""
+
+msgid "%a commented on a %a."
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Add Friend"
+msgstr "Friend ankaya"
+
+msgid "Add Photo / Video"
+msgstr "Bodo/Bidyo/Niinbil ankaya!"
+
+msgid "Advertising"
+msgstr "Irr Ad"
+
+msgid "a few seconds ago"
+msgstr "barnanggarrgij"
+
+msgid "%a likes %a."
+msgstr "%a liyan inman %a."
+
+msgid "%a likes a %a."
+msgstr "%a liyan inman %a."
+
+msgid "%a likes this."
+msgstr "%a jarri liyan inman."
+
+msgid "%a like this."
+msgstr "%a jarri liyan irraman."
+
+msgid "a link"
+msgstr "morr milimilingan"
+
+msgid "APPS"
+msgstr "Irr Ab"
+
+msgid "Apps and Games"
+msgstr "Ab agal goora"
+
+msgid "%A at %s"
+msgstr "%A %s-goon"
+
+msgid "%a shared %a."
+msgstr "%a-nim niimidiman innyagal %a."
+
+msgid "Ask Question"
+msgstr "Ngankayba anggi"
+
+msgid "%B %d"
+msgstr "%B %d"
+
+msgid "%B %d at %s"
+msgstr "%B %d %s-goon"
+
+msgid "%B %d, %Y"
+msgstr "%B %d, %Y"
+
+msgid "%B %d, %Y at %s"
+msgstr "%B %d, %Y %s-goon"
+
+msgid "Born"
+msgstr "Nganyjalgoona"
+
+msgid "By:"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Onondorrma"
+
+msgid "Careers"
+msgstr "Warrgam"
+
+msgid "Change Cover"
+msgstr "Onodorma niinbil"
+
+msgid "Chat (Offline)"
+msgstr "Nganngan anama Chat (arra bijiib)"
+
+msgid "Close"
+msgstr "Boond anama"
+
+msgid "Close Friends"
+msgstr "Gorna gandoorrmanjin"
+
+msgid "Comment"
+msgstr "nganganka angginimal"
+
+msgid "Confirm"
+msgstr "nganboodoolnggan"
+
+msgid "Create an Ad"
+msgstr "Ad anamoogara"
+
+msgid "Create a Page"
+msgstr "Milimili anamoogara"
+
+msgid "Create Group..."
+msgstr "Group anamoogara..."
+
+msgid "Developers"
+msgstr ""
+
+msgid "%d hours ago"
+msgstr ""
+
+msgid "%d minutes ago"
+msgstr ""
+
+msgid "%d mutual friends"
+msgstr ""
+
+msgid "%d NEW STORIES"
+msgstr "%d GORNA JAWAL"
+
+msgid "%d others"
+msgstr "%d arar"
+
+msgid "%d people"
+msgstr "%d ambooriny"
+
+msgid "%d seconds ago"
+msgstr ""
+
+msgid "%d shares"
+msgstr "%d niimidiman"
+
+msgid "Edit Options"
+msgstr ""
+
+msgid "Edit or Remove"
+msgstr ""
+
+msgid "English (US)"
+msgstr "Bardi ngaanka"
+
+msgid "Enter a friend's name or email address"
+msgstr "ambooriny ninga gorror iimayl jina"
+
+msgid "Events"
+msgstr ""
+
+msgid "Family"
+msgstr "Gandoorrman Ngajana"
+
+msgid "FAVORITES"
+msgstr ""
+
+msgid "Find Friends"
+msgstr "Friends amiyajirr"
+
+msgid "Find More Pages"
+msgstr "Ara milimil amiyajirr"
+
+msgid "Friends on Chat"
+msgstr ""
+
+msgid "Friend Requests"
+msgstr ""
+
+msgid "Friends"
+msgstr "Ambooriny"
+
+msgid "FRIENDS"
+msgstr "IRR AMBOORINY"
+
+msgid "GROUPS"
+msgstr "ALBOORRANGARR"
+
+msgid "Help"
+msgstr ""
+
+msgid "Home"
+msgstr "Ngajana booroo"
+
+msgid "Life Event"
+msgstr "Angg inmanjan."
+
+msgid "Like"
+msgstr "Liyan Nganmanjin"
+
+msgid "Likes"
+msgstr ""
+
+msgid "Like This Page"
+msgstr "Lyan nganmanjin ginyinggi milimil"
+
+msgid "link"
+msgstr "jaarlany"
+
+msgid "Links"
+msgstr "irr jaarlany"
+
+msgid "LISTS"
+msgstr ""
+
+msgid "Log Out"
+msgstr "Barda jana"
+
+msgid "Map"
+msgstr ""
+
+msgid "Message:"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Mobile Uploads"
+msgstr ""
+
+msgid "More"
+msgstr "ara"
+
+msgid "MORE"
+msgstr "ARA"
+
+msgid "More Stories"
+msgstr "Ara Jawal"
+
+msgid "Most Recent"
+msgstr "Barnanggarrgij"
+
+msgid "Music"
+msgstr "Ilma"
+
+msgid "New Group..."
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "News Feed"
+msgstr "Irr jawal"
+
+msgid "Notes"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Not Now"
+msgstr "Garrma"
+
+msgid "Now"
+msgstr "Barnanggarr"
+
+msgid "PAGES"
+msgstr "IRR MILIMILI"
+
+msgid "People who like this"
+msgstr "Ambooriny Ngaj irralanba jarri."
+
+msgid "People You May Know"
+msgstr "irr ambooriny nyimoonggoon jarri."
+
+msgid "Photo"
+msgstr "Niinbil"
+
+msgid "photo"
+msgstr "Niinbil"
+
+msgid "Photos"
+msgstr "Irraganbil"
+
+msgid "Place"
+msgstr "Booroo"
+
+msgid "Places"
+msgstr "Irr booroo"
+
+msgid "Pokes"
+msgstr "Goorr manan."
+
+msgid "post"
+msgstr ""
+
+msgid "Privacy"
+msgstr "Milgin"
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Profile"
+msgstr "Ngajana jawal"
+
+msgid "Questions"
+msgstr ""
+
+msgid "Recent Activity"
+msgstr ""
+
+msgid "Recommended Pages"
+msgstr ""
+
+msgid "Remove Preview"
+msgstr ""
+
+msgid "Resize"
+msgstr ""
+
+msgid "Search"
+msgstr "Anjala"
+
+msgid "See All"
+msgstr "Boonyja ngankala"
+
+msgid "See All Friend Requests"
+msgstr "Ngankalirr boonyjanim ambooriny liyan irrmanjarran"
+
+msgid "See All Messages"
+msgstr "Ngankalirr boonyja milimili"
+
+msgid "See All Notifications"
+msgstr "Ngankalirr boonyja ngaanka"
+
+msgid "See Friendship"
+msgstr ""
+
+msgid "See More"
+msgstr "Ara ngankala"
+
+msgid "See Translation"
+msgstr "Ngankala jawal arangan ngaanka injoon"
+
+msgid "Send"
+msgstr "Ononba"
+
+msgid "Send a New Message"
+msgstr "Ngaanka ononba"
+
+msgid "Share"
+msgstr "Ngonkonjanja"
+
+msgid "SORT"
+msgstr ""
+
+msgid "Sponsored"
+msgstr "Bayim irrin jarri milimil."
+
+msgid "status"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "Tag Friends"
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Ticker"
+msgstr "Jawal Barnanggarr"
+
+msgid "Timeline"
+msgstr ""
+
+msgid "%T near %a"
+msgstr ""
+
+msgid "To:"
+msgstr "Anggaba?:"
+
+msgid "Top Stories"
+msgstr "Boordiji Jawal"
+
+msgid "Unlike"
+msgstr "Arra liyan ngalama"
+
+msgid "Update Info"
+msgstr ""
+
+msgid "Update Status"
+msgstr ""
+
+msgid "Use Facebook as:"
+msgstr ""
+
+msgid "View all %d comments"
+msgstr ""
+
+msgid "Wall Photos"
+msgstr ""
+
+msgid "Welcome"
+msgstr "Gorna mooyoon!"
+
+msgid "What's on your mind?"
+msgstr "Anggi jawal?"
+
+msgid "Write a comment..."
+msgstr "Anggi milimil ngankowa"
+
+msgid "Yesterday"
+msgstr "Bardi"
+
+msgid "Yesterday at %s"
+msgstr "Bardi %s"
+
+msgid "You and %a like this."
+msgstr "Joo agal %a jarri irrngoong"
+
+msgid "You like this."
+msgstr "Joonim jarri nyoongoongjirri"
+
+msgid "January"
+msgstr "Janri"
+
+msgid "February"
+msgstr "Babri"
+
+msgid "March"
+msgstr "Maaj"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "May"
+
+msgid "June"
+msgstr "Joon"
+
+msgid "July"
+msgstr "Joolay"
+
+msgid "August"
+msgstr "Ogooj"
+
+msgid "September"
+msgstr "Jibdimba"
+
+msgid "October"
+msgstr "Ogdoba"
+
+msgid "November"
+msgstr "Nobimba"
+
+msgid "December"
+msgstr "Dijimba"
+
+msgid "Monday"
+msgstr "Wajimarr booroo"
+
+msgid "Tuesday"
+msgstr "Tuesday"
+
+msgid "Wednesday"
+msgstr "Wednesday"
+
+msgid "Thursday"
+msgstr "Thursday"
+
+msgid "Friday"
+msgstr "Friday"
+
+msgid "Saturday"
+msgstr "Jarridi"
+
+msgid "Sunday"
+msgstr "Jandi"
+
