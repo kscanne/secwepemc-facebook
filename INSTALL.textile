@@ -28,6 +28,7 @@ to English, etc.
 | alu | en | 'Are'are | 'Are'are | 1.0.0 | Not yet released | Erik Naitoro |
 | an | es | Aragonese | Aragonés | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/dfkdbmklhjdchbnjlbeolnkoalomefng, "Firefox":http://userscripts.org/scripts/show/130197 | Juan Pablo Martínez |
 | bal | en | Balochi | Balochi | 1.0.0 | Not yet released | Mostafa Daneshvar |
+| bcj | en | Bardi | Bardi | 1.0.0 | Not yet released | Claire Bowern |
 | br | fr | Breton | Brezhoneg | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/bdecejekiagnnbgdldeliknbnancjabj, "Firefox":http://userscripts.org/scripts/show/127734 | Fulup Jakez |
 | cak | es | Cakchiquel | Kaqchikel | 1.0.0 | Not yet released | Peter Rohloff, Robert Henderson |
 | ce-x-en | en | Chechen | Нохчийн | 1.0.0 | Not yet released | Bulat Betalgiry, Islam Elsanov, Sarah Slye |
