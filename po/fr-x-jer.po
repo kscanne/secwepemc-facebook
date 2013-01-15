@@ -33,9 +33,8 @@ msgstr ""
 #. If the translations of link, photo, etc. take different forms depending
 #. on the above contexts, this can be arranged, just ask Kevin for help
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "life event"
-msgstr "Tours et dêtours"
+msgstr ""
 
 #. Always a link. Used in longer sentences as above.
 msgid "link"
@@ -54,65 +53,56 @@ msgid "status"
 msgstr "êtat"
 
 #. Always a link. Used in longer sentences as above.
-#, fuzzy
 msgid "status update"
-msgstr "êtat"
+msgstr ""
 
 #. %a stands for something like "4 others"
 msgid "You and %a like this."
 msgstr "Té et %a en avez en affit"
 
 #. %a1 is a person's name, %a2 stands for something like "4 others"
-#, fuzzy
 msgid "You, %a1 and %a2 like this."
-msgstr "Té et %a en avez en affit"
+msgstr ""
 
 #. %a1 and %a2 are names, while %a3 is something like "5 others"
 msgid "%a1, %a2 and %a3 like this."
 msgstr "%a1, %a2 et %a3 enfilent chennechîn"
 
 #. %a is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a added a new photo."
 msgid_plural "%a added %d new photos."
-msgstr[0] "%a cliutit un nouvieau portrait"
-msgstr[1] "%a cliutit un nouvieau portrait"
-msgstr[2] "%a cliutit un nouvieau portrait"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. %a1 is a person's name; %d stands for a number, no need to translate it
-#, fuzzy
 msgid "%a1 added 1 new photo to the album %a2."
 msgid_plural "%a1 added %d new photos to the album %a2."
-msgstr[0] "%a cliutit un nouvieau portrait"
-msgstr[1] "%a cliutit un nouvieau portrait"
-msgstr[2] "%a cliutit un nouvieau portrait"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 èrpèqu'tit %a2"
+msgstr ""
 
 #. Both %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 and %a2 are now friends."
-msgstr "%a1 et %a2 en sont en affit"
+msgstr ""
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
-#, fuzzy
 msgid "%a1 and %a2 are now friends with %a3."
-msgstr "%a1 et %a2 èrpèqu'tîtent %a3"
+msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 commented on a %a3."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
-#, fuzzy
 msgid "%a1 and %a2 like %a3."
-msgstr "%a1 et %a2 en sont en affit"
+msgstr ""
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 msgid "%a1 and %a2 like this."
@@ -123,14 +113,12 @@ msgid "%a1 and %a2 shared %a3."
 msgstr "%a1 et %a2 èrpèqu'tîtent %a3"
 
 #. %a1 and %a2 as above, %a3 is a name, %a4 is "link", "photo", "status", etc.
-#, fuzzy
 msgid "%a1 and %a2 shared %a3's %a4."
-msgstr "%a1 et %a2 èrpèqu'tîtent %a3"
+msgstr ""
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
@@ -158,19 +146,16 @@ msgid "%a1 commented on a %a2."
 msgstr "%a1 èrplyitchit à %a2"
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on her own %a2."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on his own %a2."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
-#, fuzzy
 msgid "%a1 commented on your %a2."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 msgid "Activity Log"
 msgstr "Livret d'bord"
@@ -195,9 +180,8 @@ msgid "a few seconds ago"
 msgstr "Justément"
 
 #. %a1 is a person's name, %a2 is a place
-#, fuzzy
 msgid "%a1 is at %a2."
-msgstr "%a1 est en affit d'%a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people; %a3 is either another person or
 #. else something like "8 other people"
@@ -213,15 +197,13 @@ msgid "%a1 likes a %a2."
 msgstr "%a1 est en affit d'%a2"
 
 #. %a1 and %a2 are people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 likes %a2's %a3."
-msgstr "%a1 est en affit d'%a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is the name of a page, and %a3 is either the
 #. name of another page or something like "4 other pages"
-#, fuzzy
 msgid "%a1 likes %a2 and %a3."
-msgstr "%a1 est en affit d'%a2"
+msgstr ""
 
 #. %a stands for a person's name
 msgid "%a likes this."
@@ -252,58 +234,48 @@ msgid "%a1 shared %a2."
 msgstr "%a1 èrpèqu'tit %a2"
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared %a2's %a3."
-msgstr "%a1 èrpèqu'tit %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared her own %a2."
-msgstr "%a1 èrpèqu'tit %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 shared his own %a2."
-msgstr "%a1 èrpèqu'tit %a2"
+msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "D'mande eune tchestchion"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 est en affit d'%a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
-#, fuzzy
 msgid "%a1 was tagged in %a2's %a3."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
-#, fuzzy
 msgid "%a1 was tagged in a %a2."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a1 and %a2 are names of people
-#, fuzzy
 msgid "%a1 was tagged in %a2's photos."
-msgstr "%a1 èrplyitchit à %a2"
+msgstr ""
 
 #. %a is someone's name (female)
-#, fuzzy
 msgid "%a updated her cover photo."
-msgstr "%a cliutit un nouvieau portrait"
+msgstr ""
 
 #. %a is someone's name (male)
-#, fuzzy
 msgid "%a updated his cover photo."
-msgstr "%a cliutit un nouvieau portrait"
+msgstr ""
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -428,21 +400,19 @@ msgstr[2] "acouo %d"
 
 #. Always a link. "John Doe and 7 other friends are now friends with Kevin."
 #. The singular "1 other friend" is never used as far as I can tell
-#, fuzzy
 msgid "1 other friend"
 msgid_plural "%d other friends"
-msgstr[0] "1 couôsîn en c'meun"
-msgstr[1] "%d couôsîns en c'meun"
-msgstr[2] "%d couôsîns en c'meun"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. Always a link. "John Doe likes GaelSpell and 3 other pages"
 #. The singular "1 other page" is never used as far as I can tell
-#, fuzzy
 msgid "1 other page"
 msgid_plural "%d other pages"
-msgstr[0] "acouo 1"
-msgstr[1] "acouo %d"
-msgstr[2] "acouo %d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
 
 #. Always a link. "John Doe is now friends with Jane Doe and 3 other people."
 #. The singular "1 other person" is never used as far as I can tell
@@ -555,9 +525,8 @@ msgid "How are you feeling, %s?"
 msgstr ""
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "How's it going, %s?"
-msgstr "Tch'est qu'tu en crai?"
+msgstr ""
 
 #. In left-hand column on home page
 msgid "INTERESTS"
@@ -576,9 +545,8 @@ msgid "Likes"
 msgstr "M's affits"
 
 #. Appears as link to right of "RECENT POST" on home page
-#, fuzzy
 msgid "Like Page"
-msgstr "Enfile chutte page"
+msgstr ""
 
 msgid "Like This Page"
 msgstr "Enfile chutte page"
@@ -644,9 +612,8 @@ msgid "News Feed"
 msgstr "Nouvelles"
 
 #. In "Friend Requests" drop down
-#, fuzzy
 msgid "No new requests"
-msgstr "D'mandes d'accouôsinn'nie"
+msgstr ""
 
 msgid "Notes"
 msgstr "Notes"
@@ -704,9 +671,8 @@ msgstr "Tan Partitchulyi"
 msgid "Privacy Settings"
 msgstr "Contrôle du Partitchulyi"
 
-#, fuzzy
 msgid "Privacy Shortcuts"
-msgstr "Contrôle du Partitchulyi"
+msgstr ""
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
@@ -738,9 +704,8 @@ msgid "Resize"
 msgstr "Èrgrandi"
 
 #. Prompt when you comment on a post (was "Write a comment..."); %s = your name
-#, fuzzy
 msgid "%s, add a comment..."
-msgstr "Èrplyique-y"
+msgstr ""
 
 #. Text that used to appear in the search box at the top of the page
 msgid "Search"
@@ -777,9 +742,8 @@ msgid "See More"
 msgstr "Vai acouo"
 
 #. Under "Privacy Shortcuts" menu
-#, fuzzy
 msgid "See More Settings"
-msgstr "Vai acouo"
+msgstr ""
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
@@ -794,9 +758,8 @@ msgid "Send a New Message"
 msgstr "Env'yie un neu M'sage"
 
 #. Appears in "Friend Requests" and "Notifications" drop down menu
-#, fuzzy
 msgid "Settings"
-msgstr "Mèrquéthie d'compte"
+msgstr ""
 
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
@@ -816,9 +779,8 @@ msgid "Status"
 msgstr "Êtat"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Souscriptions"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -893,14 +855,12 @@ msgid "Welcome"
 msgstr "Sai l'Beinv'nu"
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "What's going on, %s?"
-msgstr "Tch'est qu'tu en crai?"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "What's happening, %s?"
-msgstr "Tch'est qu'tu en crai?"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
