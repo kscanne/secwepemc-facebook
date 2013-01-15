@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-09-13 18:10-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -221,7 +221,7 @@ msgid "Add Interests..."
 msgstr "Cuir ris na tha ùidh agad ann..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Cuir dealbh / video ris"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -298,7 +298,7 @@ msgstr "Cho-roinn %a1 %a2 aice fhèin."
 msgid "%a1 shared his own %a2."
 msgstr "Cho-roinn %a1 %a2 aige fhèin."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Cum cunntas-bheachd"
 
@@ -798,6 +798,11 @@ msgstr "Cuir"
 msgid "Send a New Message"
 msgstr "Cuir teachdaireachd ùr"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Roghainnean a' chunntais"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Co-roinn"
@@ -869,7 +874,7 @@ msgid "Update Info"
 msgstr "Ùraich am fiosrachadh"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Dè do naidheachd?"
 
@@ -891,6 +896,11 @@ msgstr "Balla nan dealbhan"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Fàilte ort"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Dè tha dol?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

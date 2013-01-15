@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -196,7 +196,7 @@ msgid "Add Interests..."
 msgstr "Cuir Suimeanna Leis..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Cuir Grianghraf / Físeán Leis"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -273,7 +273,7 @@ msgstr "Chomhroinn %a1 %a2 dá cuid féin."
 msgid "%a1 shared his own %a2."
 msgstr "Chomhroinn %a1 %a2 dá chuid féin."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Cuir Ceist"
 
@@ -784,6 +784,10 @@ msgstr "Seol"
 msgid "Send a New Message"
 msgstr "Seol Teachtaireacht Nua"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+msgid "Settings"
+msgstr "Socruithe"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Comhroinn"
@@ -855,7 +859,7 @@ msgid "Update Info"
 msgstr "Faisnéis Nua"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Stádas Nua"
 
@@ -878,6 +882,10 @@ msgstr "Grianghraif Bhalla"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Fáilte"
+
+#. Main prompt when you enter in a new status update
+msgid "What's going on, %s?"
+msgstr "Aon scéal, a %s?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

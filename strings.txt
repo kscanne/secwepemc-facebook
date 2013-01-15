@@ -78,7 +78,7 @@ Add Friend
 #. Under INTERESTS in left-hand navigation on home page
 Add Interests...
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-Add Photo / Video
+Add Photos/Video
 #. Link at bottom of home page (under "More") to info about Facebook ads
 Advertising
 #. Time stamp on a post. You might also translate as "Just now"
@@ -117,7 +117,7 @@ Apps and Games
 %a1 shared her own %a2.
 #. %a1 is a person, %a2 is "link", "photo", "post", or "status"
 %a1 shared his own %a2.
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 Ask Question
 #. %a1 is a person, %a2 is always "Instagram" I think
 %a1 took a photo with %a2.
@@ -349,6 +349,8 @@ See Translation
 Send
 #. Link that opens the "New Message" dialog
 Send a New Message
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+Settings
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 Share
 #. A link that allows you to sort posts by "most recent" or "top stories"
@@ -386,7 +388,7 @@ Unlike
 #. Label on a button that allows you to edit your personal information
 Update Info
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 Update Status
 Use Facebook as:
 #. %d stands for a number, no need to translate it
@@ -395,6 +397,8 @@ View 1 comment;View all %d comments
 Wall Photos
 #. Appears in left-hand navigation for new users
 Welcome
+#. Main prompt when you enter in a new status update
+What's going on, %s?
 #. Main prompt when you enter in a new status update
 What's on your mind?
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)

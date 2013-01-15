@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
 "PO-Revision-Date: 2012-07-28 12:28:12-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Norwegian (bokmaal)\n"
@@ -167,8 +167,8 @@ msgstr "Legg til interesser ..."
 
 # was "Last opp bilde/video"
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
-msgstr "Legg til bilde/video"
+msgid "Add Photos/Video"
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -244,7 +244,7 @@ msgstr "%a1 delte si[nt]t? ege[nt] %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 delte si[nt]t? ege[nt] %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Still spørsmål"
 
@@ -726,6 +726,11 @@ msgstr "Send"
 msgid "Send a New Message"
 msgstr "Send en ny melding"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Kontoinnstillinger"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Del"
@@ -798,7 +803,7 @@ msgid "Update Info"
 msgstr "Oppdater informasjon"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Status"
 
@@ -818,6 +823,11 @@ msgstr "Veggbilder"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Velkommen"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Hva tenker du på?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

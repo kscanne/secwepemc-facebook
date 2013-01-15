@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Gundjeihmi\n"
@@ -182,7 +182,7 @@ msgid "Add Interests..."
 msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Yi-bimgurrme"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -268,7 +268,7 @@ msgstr "%d arri-wokgadjurrinj"
 msgid "%a1 shared his own %a2."
 msgstr "%d arri-wokgadjurrinj"
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Yiban-djawan"
 
@@ -774,6 +774,11 @@ msgstr "Yi-mun.gewe"
 msgid "Send a New Message"
 msgstr "Yi-mun.gewe gun-wokgerrnge"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Yi-marnbun nawu ngudda ge"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Gabarri-nan rouk gun-wok ge"
@@ -847,7 +852,7 @@ msgid "Update Info"
 msgstr "Yi-gurrme gun-wok wudda ge"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Bolkkime Ayed A-yime"
 
@@ -868,6 +873,11 @@ msgstr "Ga-bimdi"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Njanjuk yih-burrbun?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

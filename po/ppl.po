@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -184,7 +184,7 @@ msgid "Add Interests..."
 msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Shikpilu se Fotoj / Videoj"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -269,7 +269,7 @@ msgstr "%a1 kichijtuk compartir se %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 kichijtuk compartir se %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Shiktajtani Se"
 
@@ -763,6 +763,11 @@ msgstr "Shiktukti"
 msgid "Send a New Message"
 msgstr "Shiktukti se Yankwik Amat"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Ne mucuentaj"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Shikchiwa compartir"
@@ -837,7 +842,7 @@ msgstr "Shikpata Tay Tinatuk Mupanpa"
 # Must be same as translation of "Status" because of Spanish
 # Was: msgstr "Shikpata ken ijtuk"
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Ken Ijtuk"
 
@@ -857,6 +862,11 @@ msgstr "Fojfotoj ipal ne Tapepechul"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Yek shiajsi"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Tay tina?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -213,7 +213,7 @@ msgid "Add Interests..."
 msgstr "Adhibir Intereses..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Adhibe una foto u video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -294,7 +294,7 @@ msgstr "%a1 ha compartiu %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 ha compartiu %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Fe una pregunta"
 
@@ -785,6 +785,11 @@ msgstr "Ninviar"
 msgid "Send a New Message"
 msgstr "Ninviar un nuevo mensache"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Achustes de cuenta"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Compartir"
@@ -859,7 +864,7 @@ msgstr "Esviellar a información"
 # Must be same as translation of "Status" because of Spanish default...
 # Was: msgstr "Esviella lo estau"
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Estau"
 
@@ -879,6 +884,11 @@ msgstr "Fotos de paret"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Bienveniu"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "En qué yes pensando?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

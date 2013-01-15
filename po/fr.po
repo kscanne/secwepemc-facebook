@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: French\n"
@@ -167,8 +167,8 @@ msgid "Add Interests..."
 msgstr "Ajouter des intérêts..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
-msgstr "Photo/vidéo"
+msgid "Add Photos/Video"
+msgstr ""
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -248,7 +248,7 @@ msgstr "%a1 a partagé s[ao]n? propre %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 a partagé s[ao]n? propre %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Question"
 
@@ -732,6 +732,11 @@ msgstr "Envoyer"
 msgid "Send a New Message"
 msgstr "Envoyer un nouveau message"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Paramètres du compte"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Partager"
@@ -804,7 +809,7 @@ msgid "Update Info"
 msgstr "Actualiser mes infos"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Statut"
 
@@ -824,6 +829,11 @@ msgstr "Photos de couverture"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Bienvenue"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Exprimez-vous"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

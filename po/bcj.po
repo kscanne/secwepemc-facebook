@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-12-30 07:55:40-0600\n"
+"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Claire Bowern\n"
 "Language-Team: Bardi\n"
@@ -164,7 +164,7 @@ msgid "Add Interests..."
 msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Bodo/Bidyo/Niinbil ankaya!"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -241,7 +241,7 @@ msgstr "%a1-nim jin %a2 niimidiman innyagal."
 msgid "%a1 shared his own %a2."
 msgstr "%a1-nim jin %a2 niimidiman innyagal."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Ngankayba anggi"
 
@@ -719,6 +719,10 @@ msgstr "Ononba"
 msgid "Send a New Message"
 msgstr "Ngaanka ononba"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+msgid "Settings"
+msgstr ""
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Ngonkonjanja"
@@ -790,7 +794,7 @@ msgid "Update Info"
 msgstr ""
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Daydij ngakama"
 
@@ -810,6 +814,11 @@ msgstr ""
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Gorna mooyoon!"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Anggi jawal?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

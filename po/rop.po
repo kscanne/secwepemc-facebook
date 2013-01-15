@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
 "PO-Revision-Date: 2012-02-21 22:04:27-06:00\n"
 "Last-Translator: Greg Dickson\n"
 "Language-Team: Kriol\n"
@@ -167,7 +167,7 @@ msgid "Add Interests..."
 msgstr ""
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Pudum nyuwan foto o bidiyo"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -244,7 +244,7 @@ msgstr "%a1 bin shoim im oun %a2 la najalot."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 bin shoim im oun %a2 la najalot."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Askim kwesjin"
 
@@ -724,6 +724,11 @@ msgstr "Jendim"
 msgid "Send a New Message"
 msgstr "Jendim nyuwan mesij"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Hau yu wandim yu peij"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Shoim dijan la yu frenmob"
@@ -796,7 +801,7 @@ msgid "Update Info"
 msgstr "Pudum nyu infomeishin la yu peij"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Pudum nyuwan stori la yu peij"
 
@@ -816,6 +821,11 @@ msgstr "Fotomob langa wol"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Welkam"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Wanim yu jinggibat?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

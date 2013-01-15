@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-02-21 16:58:12-06:00\n"
 "Last-Translator: Francis Dimzon\n"
 "Language-Team: Hiligaynon\n"
@@ -172,7 +172,7 @@ msgid "Add Interests..."
 msgstr "Idugang ang mga Huyog..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Magdugang sang Litrato/Video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -251,7 +251,7 @@ msgstr "Si %a1 nagpaambit sang %a2."
 msgid "%a1 shared his own %a2."
 msgstr "Si %a1 nagpaambit sang %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Mamangkot"
 
@@ -736,6 +736,11 @@ msgstr "Ipadala"
 msgid "Send a New Message"
 msgstr "Ipadala ang Bag-o nga Mensahe"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Mga Settings sang Account"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Ipaambit"
@@ -807,7 +812,7 @@ msgid "Update Info"
 msgstr "I-update ang Impormasyon"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "I-update ang Status"
 
@@ -827,6 +832,11 @@ msgstr "Mga Litrato sa Wall"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Pag-abiabi"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Ano ang sa imo ginapaminsar?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

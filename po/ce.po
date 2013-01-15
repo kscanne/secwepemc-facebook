@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:28-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -189,7 +189,7 @@ msgid "Add Interests..."
 msgstr "Интересаш тlетоха"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Тlетоxа Сурт / Видео"
 
 # just using Russian
@@ -271,7 +271,7 @@ msgstr ""
 msgid "%a1 shared his own %a2."
 msgstr ""
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Хаттар де"
 
@@ -755,6 +755,11 @@ msgstr "Дlатаса"
 msgid "Send a New Message"
 msgstr "Керла хаам дlабахьийта"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Чот хlоттор"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Декъа"
@@ -829,7 +834,7 @@ msgid "Update Info"
 msgstr "Xаам карлабаккха"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Статус карлаяккха"
 
@@ -849,6 +854,11 @@ msgstr "Пена тlера суьрташ"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Марша догlийла"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Хlун ду хьан дагахь?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

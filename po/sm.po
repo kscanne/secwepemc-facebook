@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Chris Bickers\n"
 "Language-Team: Samoan\n"
@@ -166,7 +166,7 @@ msgid "Add Interests..."
 msgstr "Fa'aopoopo lau mea e fiafia i ai…"
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Fa'aopoopo lau Ata/Vitiō"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -243,7 +243,7 @@ msgstr "Ua 'avatu e %a1 lana ia %a2"
 msgid "%a1 shared his own %a2."
 msgstr "Ua 'avatu %a1 lana ia %a2"
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Fesili"
 
@@ -723,6 +723,11 @@ msgstr "Lafo"
 msgid "Send a New Message"
 msgstr "Lafo le Tusi Fou"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Fa'afou lou Filifiliga"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Tufa'aga"
@@ -794,7 +799,7 @@ msgid "Update Info"
 msgstr "Fa'amatalaga Fou"
 
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Uiga fou"
 
@@ -814,6 +819,11 @@ msgstr "Ata Puipui"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Tālofa lava"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "O le ā se mea o e māfaufauina"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2012-10-17 11:56:29-0500\n"
+"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Jean Came Poulard\n"
 "Language-Team: Haitian Creole\n"
@@ -172,7 +172,7 @@ msgid "Add Interests..."
 msgstr "Ajoute Enterè..."
 
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
-msgid "Add Photo / Video"
+msgid "Add Photos/Video"
 msgstr "Ajoute Foto / Videyo"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
@@ -251,7 +251,7 @@ msgstr "%a1 pataje %a2."
 msgid "%a1 shared his own %a2."
 msgstr "%a1 pataje %a2."
 
-#. Appears at top of home timeline, with "Update Status", "Add Photo / Video"
+#. Appears at top of home timeline, with "Update Status", "Add Photos/Video"
 msgid "Ask Question"
 msgstr "Poze Kesyon"
 
@@ -742,6 +742,11 @@ msgstr "Voye"
 msgid "Send a New Message"
 msgstr "Voye yon Nouvo Mesaj"
 
+#. Appears in "Friend Requests" and "Notifications" drop down menu
+#, fuzzy
+msgid "Settings"
+msgstr "Paramèt Kont"
+
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
 msgstr "Pataje"
@@ -816,7 +821,7 @@ msgstr "Modifye Enfòmasyon"
 # Should be: msgstr "Modifye Estati"
 # But French uses "Statut" for this and "Status", so we'll use "Estati"
 #. This is a Facebook "status update", not a relationship status
-#. Appears at top of home timeline, with "Ask Question", "Add Photo / Video"
+#. Appears at top of home timeline, with "Ask Question", "Add Photo/Video"
 msgid "Update Status"
 msgstr "Estati"
 
@@ -836,6 +841,11 @@ msgstr "Foto Mi an"
 #. Appears in left-hand navigation for new users
 msgid "Welcome"
 msgstr "Nou kontan wè w"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's going on, %s?"
+msgstr "Kisa ki nan tèt ou?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
