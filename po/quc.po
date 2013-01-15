@@ -80,9 +80,8 @@ msgstr[1] "%a1 agregó %d taq k'ak' wachib'al pa le k'olib'al %a2."
 
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
-#, fuzzy
 msgid "%a1 and %a2"
-msgstr "%a1 xukomonej %a2."
+msgstr ""
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
@@ -114,9 +113,8 @@ msgid "%a1 and %a2 shared %a3's %a4."
 msgstr "%a1 chi'l %a2 xkikomonej u%a4 %a3."
 
 #. %a1, %a2, and %a3 are names of people
-#, fuzzy
 msgid "%a1 and %a2 were tagged in %a3's photos."
-msgstr "%a1 xkoj retal pa uwachib'al %a2."
+msgstr ""
 
 # also user information: Información
 #. Link at bottom of home page (under "More") to info about Facebook
@@ -255,14 +253,12 @@ msgid "Ask Question"
 msgstr "Uta'ik k'otoj chi'aj"
 
 #. %a1 is a person, %a2 is always "Instagram" I think
-#, fuzzy
 msgid "%a1 took a photo with %a2."
-msgstr "%a1 k'o pa %a2."
+msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
-#, fuzzy
 msgid "%a1 was tagged at %a2."
-msgstr "Xkoj retal %a1 pa jun %a2."
+msgstr ""
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
@@ -527,9 +523,8 @@ msgid "How are you feeling, %s?"
 msgstr ""
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "How's it going, %s?"
-msgstr "¿Jas tajin kachomaj?"
+msgstr ""
 
 #. In left-hand column on home page
 msgid "INTERESTS"
@@ -619,9 +614,8 @@ msgid "News Feed"
 msgstr "B'anoj"
 
 #. In "Friend Requests" drop down
-#, fuzzy
 msgid "No new requests"
-msgstr "Tz'onoj rech achi'il"
+msgstr ""
 
 msgid "Notes"
 msgstr "Taq ub'ixkil"
@@ -679,9 +673,8 @@ msgstr "Uchajixik"
 msgid "Privacy Settings"
 msgstr "Suk'manem rech le uchajixik"
 
-#, fuzzy
 msgid "Privacy Shortcuts"
-msgstr "Suk'manem rech le uchajixik"
+msgstr ""
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
@@ -752,9 +745,8 @@ msgid "See More"
 msgstr "Rilik nik'aj chik"
 
 #. Under "Privacy Shortcuts" menu
-#, fuzzy
 msgid "See More Settings"
-msgstr "Rilik nik'aj chik"
+msgstr ""
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
@@ -769,9 +761,8 @@ msgid "Send a New Message"
 msgstr "Utaqik jun k'ak' taqoqxa'n"
 
 #. Appears in "Friend Requests" and "Notifications" drop down menu
-#, fuzzy
 msgid "Settings"
-msgstr "Suk'manem rech le kemb'i'aj"
+msgstr ""
 
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
@@ -791,9 +782,8 @@ msgid "Status"
 msgstr "Chomanik"
 
 #. With "Like Page" and "Find More Pages" when someone likes a page
-#, fuzzy
 msgid "Subscribe to Page"
-msgstr "Taq utz'ib'axik ib'"
+msgstr ""
 
 #. Top of profile, after Friends, Photos, Map, ...
 msgid "Subscriptions"
@@ -869,14 +859,12 @@ msgid "Welcome"
 msgstr "Utz awulib'al"
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "What's going on, %s?"
-msgstr "¿Jas tajin kachomaj?"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "What's happening, %s?"
-msgstr "¿Jas tajin kachomaj?"
+msgstr ""
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
