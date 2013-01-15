@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:23-0600\n"
 "PO-Revision-Date: 2012-02-22 22:03:27-06:00\n"
 "Last-Translator: Neskie Manuel\n"
 "Language-Team: Secwepemctsín\n"
@@ -502,6 +502,19 @@ msgstr "knúcwem"
 msgid "Home"
 msgstr "Tsitcw"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Stém̓i ke7 petínesme?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -585,6 +598,10 @@ msgstr ""
 msgid "News Feed"
 msgstr "Lexeyem"
 
+#. In "Friend Requests" drop down
+msgid "No new requests"
+msgstr ""
+
 msgid "Notes"
 msgstr ""
 
@@ -639,6 +656,9 @@ msgid "Privacy"
 msgstr ""
 
 msgid "Privacy Settings"
+msgstr ""
+
+msgid "Privacy Shortcuts"
 msgstr ""
 
 #. Appears when you mouse over your name in the top navigation
@@ -707,6 +727,11 @@ msgstr ""
 #. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr ""
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
+msgstr "n7ek̓"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
@@ -820,6 +845,11 @@ msgstr "Tsucwmíntlmen"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Stém̓i ke7 petínesme?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Stém̓i ke7 petínesme?"
 
 #. Main prompt when you enter in a new status update

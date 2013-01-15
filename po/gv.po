@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -529,6 +529,19 @@ msgstr "Cooney"
 msgid "Home"
 msgstr "Thie"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "C’red t’er dty inchyn?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "SYMYN"
@@ -612,6 +625,11 @@ msgstr "Chaghteraght Noa"
 msgid "News Feed"
 msgstr "Skeealyn Noa"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Cuirraghyn gys caarjys"
+
 msgid "Notes"
 msgstr "Baghtagyn"
 
@@ -666,6 +684,10 @@ msgid "Privacy"
 msgstr "Preevaadjys"
 
 msgid "Privacy Settings"
+msgstr "Reaghyssyn Preevaadjys"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Reaghyssyn Preevaadjys"
 
 #. Appears when you mouse over your name in the top navigation
@@ -733,6 +755,11 @@ msgstr "Jeeagh er Caarjys"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Jeeagh er Tooilley"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Jeeagh er Tooilley"
 
 #. Link that appears under a post in another language; click it to translate
@@ -849,6 +876,11 @@ msgstr "Failt"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "C’red t’er dty inchyn?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "C’red t’er dty inchyn?"
 
 #. Main prompt when you enter in a new status update

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-07-04 10:11:44-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: British English\n"
@@ -167,9 +167,10 @@ msgid "Add Interests..."
 msgstr "Add Interests..."
 
 # was "Add photo/video" thru ~Sept 2012
+# Now with "Photos" it agrees with en-US, Jan 2013
 #. Appears at top of home timeline, with "Update Status", "Ask Question"
 msgid "Add Photos/Video"
-msgstr ""
+msgstr "Add Photos/Video"
 
 #. Link at bottom of home page (under "More") to info about Facebook ads
 msgid "Advertising"
@@ -511,6 +512,18 @@ msgstr "Help"
 msgid "Home"
 msgstr "Home"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr "How are you doing, %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr "How are you feeling, %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "How's it going, %s?"
+msgstr "How's it going, %s?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "INTERESTS"
@@ -596,6 +609,10 @@ msgstr "New message"
 msgid "News Feed"
 msgstr "News Feed"
 
+#. In "Friend Requests" drop down
+msgid "No new requests"
+msgstr "No new requests"
+
 msgid "Notes"
 msgstr "Notes"
 
@@ -652,6 +669,10 @@ msgstr "Privacy"
 # capital correct
 msgid "Privacy Settings"
 msgstr "Privacy Settings"
+
+# capital correct
+msgid "Privacy Shortcuts"
+msgstr "Privacy Shortcuts"
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
@@ -721,6 +742,10 @@ msgstr "See friendship"
 msgid "See More"
 msgstr "See more"
 
+#. Under "Privacy Shortcuts" menu
+msgid "See More Settings"
+msgstr "See More Settings"
+
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
 msgstr "See translation"
@@ -733,11 +758,9 @@ msgstr "Send"
 msgid "Send a New Message"
 msgstr "Send a new message"
 
-# capital correct
 #. Appears in "Friend Requests" and "Notifications" drop down menu
-#, fuzzy
 msgid "Settings"
-msgstr "Account Settings"
+msgstr "Settings"
 
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
@@ -833,9 +856,12 @@ msgid "Welcome"
 msgstr "Welcome"
 
 #. Main prompt when you enter in a new status update
-#, fuzzy
 msgid "What's going on, %s?"
-msgstr "What's on your mind?"
+msgstr "What's going on, %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "What's happening, %s?"
+msgstr "What's happening, %s?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Claire Bowern\n"
 "Language-Team: Bardi\n"
@@ -501,6 +501,19 @@ msgstr ""
 msgid "Home"
 msgstr "Ngajana booroo"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Anggi jawal?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -584,6 +597,10 @@ msgstr ""
 msgid "News Feed"
 msgstr "Irr jawal"
 
+#. In "Friend Requests" drop down
+msgid "No new requests"
+msgstr ""
+
 msgid "Notes"
 msgstr "Anggi"
 
@@ -638,6 +655,9 @@ msgid "Privacy"
 msgstr "Milgin"
 
 msgid "Privacy Settings"
+msgstr ""
+
+msgid "Privacy Shortcuts"
 msgstr ""
 
 #. Appears when you mouse over your name in the top navigation
@@ -705,6 +725,11 @@ msgstr ""
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Ara ngankala"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Ara ngankala"
 
 #. Link that appears under a post in another language; click it to translate
@@ -818,6 +843,11 @@ msgstr "Gorna mooyoon!"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Anggi jawal?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Anggi jawal?"
 
 #. Main prompt when you enter in a new status update

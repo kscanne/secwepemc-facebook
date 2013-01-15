@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-03-27 11:28:13-05:00\n"
 "Last-Translator: Alessio Gastaldi\n"
 "Language-Team: Ligurian\n"
@@ -512,6 +512,19 @@ msgstr "Agiùtto"
 msgid "Home"
 msgstr "Câza"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "E cöse ti gh'æ in quélla tésta?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "INTERÉSSI"
@@ -596,6 +609,11 @@ msgstr "Nêuvo Mesàggio"
 msgid "News Feed"
 msgstr "Ùrtime notìçie"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Amicìçia Domandâ"
+
 msgid "Notes"
 msgstr "Nòtte"
 
@@ -652,6 +670,10 @@ msgid "Privacy"
 msgstr "Privacy"
 
 msgid "Privacy Settings"
+msgstr "Inpostaçioìn da Privacy"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Inpostaçioìn da Privacy"
 
 #. Appears when you mouse over your name in the top navigation
@@ -719,6 +741,11 @@ msgstr "Detàlli de l'amicìçia"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Véddi de ciù"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Véddi de ciù"
 
 #. Link that appears under a post in another language; click it to translate
@@ -836,6 +863,11 @@ msgstr "Benvegnûo"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "E cöse ti gh'æ in quélla tésta?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "E cöse ti gh'æ in quélla tésta?"
 
 #. Main prompt when you enter in a new status update

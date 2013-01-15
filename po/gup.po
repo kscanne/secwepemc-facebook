@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Murray Garde\n"
 "Language-Team: Kunwinjku\n"
@@ -546,6 +546,19 @@ msgstr "Ngun-bidyikarrme"
 msgid "Home"
 msgstr "Ngun-kan kured"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Njaleh yi-burrbun"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -631,6 +644,11 @@ msgstr "Kun-wokkerrnge"
 msgid "News Feed"
 msgstr "Kun-wokkerrnge kabirri-yolyolme"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Nawu ngundi-djawayhme yiben-ngeykurrme"
+
 msgid "Notes"
 msgstr ""
 
@@ -687,6 +705,10 @@ msgid "Privacy"
 msgstr "Bu minj kabirri-nan"
 
 msgid "Privacy Settings"
+msgstr "Yi-marnbun ba minj kabirri-nan"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Yi-marnbun ba minj kabirri-nan"
 
 #. Appears when you mouse over your name in the top navigation
@@ -758,6 +780,11 @@ msgstr "Nawu darnki ngarri-ni ngadman"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Yi-wernhwokna"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Yi-wernhwokna"
 
 #. Link that appears under a post in another language; click it to translate
@@ -875,6 +902,11 @@ msgstr ""
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Njaleh yi-burrbun"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Njaleh yi-burrbun"
 
 #. Main prompt when you enter in a new status update

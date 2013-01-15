@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Irish\n"
@@ -566,6 +566,18 @@ msgstr "Cabhair"
 msgid "Home"
 msgstr "Baile"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr "Conas atá tú, a %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr "Cén chaoi a n-airíonn tú, a %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "How's it going, %s?"
+msgstr "Aon scéal, a %s?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "SUIMEANNA"
@@ -649,6 +661,10 @@ msgstr "Teachtaireacht Nua"
 msgid "News Feed"
 msgstr "Fotha Nuachta"
 
+#. In "Friend Requests" drop down
+msgid "No new requests"
+msgstr "Gan iarratais nua"
+
 msgid "Notes"
 msgstr "Nótaí"
 
@@ -704,6 +720,9 @@ msgstr "Príobháideacht"
 
 msgid "Privacy Settings"
 msgstr "Socruithe Príobháideachta"
+
+msgid "Privacy Shortcuts"
+msgstr "Aicearraí Príobháideachta"
 
 #. Appears when you mouse over your name in the top navigation
 msgid "Profile"
@@ -771,6 +790,10 @@ msgstr "Féach ar Chairdeas"
 #. See more of a post that was truncated because it was very long
 msgid "See More"
 msgstr "Tuilleadh"
+
+#. Under "Privacy Shortcuts" menu
+msgid "See More Settings"
+msgstr "Tuilleadh Socruithe"
 
 #. Link that appears under a post in another language; click it to translate
 msgid "See Translation"
@@ -885,11 +908,15 @@ msgstr "Fáilte"
 
 #. Main prompt when you enter in a new status update
 msgid "What's going on, %s?"
+msgstr "Céard atá ar siúl, a %s?"
+
+#. Main prompt when you enter in a new status update
+msgid "What's happening, %s?"
 msgstr "Aon scéal, a %s?"
 
 #. Main prompt when you enter in a new status update
 msgid "What's on your mind?"
-msgstr "Aon scéal?"
+msgstr "Céard atá ar d'intinn?"
 
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)
 msgid "Write a comment..."

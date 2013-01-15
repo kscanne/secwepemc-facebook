@@ -243,6 +243,12 @@ GROUPS
 Help
 #. Link that takes you to your home timeline; always visible at top-right
 Home
+#. Main prompt when you enter in a new status update
+How are you doing, %s?
+#. Main prompt when you enter in a new status update
+How are you feeling, %s?
+#. Main prompt when you enter in a new status update
+How's it going, %s?
 #. In left-hand column on home page
 INTERESTS
 Life Event
@@ -282,6 +288,8 @@ New Group...
 New Message
 #. Appears in left-hand navigation of home page
 News Feed
+#. In "Friend Requests" drop down
+No new requests
 Notes
 Notifications
 #. Button label; postpone confirmation of a friend request
@@ -308,6 +316,7 @@ Pokes
 #. Link at the bottom of home page to Facebook's privacy policy
 Privacy
 Privacy Settings
+Privacy Shortcuts
 #. Appears when you mouse over your name in the top navigation
 Profile
 #. Appears under APPS for some users in left-hand navigation
@@ -343,6 +352,8 @@ See All Notifications
 See Friendship
 #. See more of a post that was truncated because it was very long
 See More
+#. Under "Privacy Shortcuts" menu
+See More Settings
 #. Link that appears under a post in another language; click it to translate
 See Translation
 #. Label on button in "New Message" dialog to send the message
@@ -399,6 +410,8 @@ Wall Photos
 Welcome
 #. Main prompt when you enter in a new status update
 What's going on, %s?
+#. Main prompt when you enter in a new status update
+What's happening, %s?
 #. Main prompt when you enter in a new status update
 What's on your mind?
 #. Prompt when you comment on a post (replaced by "X, add a comment..."?)

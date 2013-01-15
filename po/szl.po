@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:23-0600\n"
 "PO-Revision-Date: 2012-07-11 15:04:11-0500\n"
 "Last-Translator: Grzegorz Kulik\n"
 "Language-Team: Silesian\n"
@@ -520,6 +520,19 @@ msgstr "Pōmoc"
 msgid "Home"
 msgstr "Przodek"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Co Ci łazi po gowie?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "ZAINTERESOWANIA"
@@ -603,6 +616,11 @@ msgstr "Nowŏ wiadōmość"
 msgid "News Feed"
 msgstr "Nowiny"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Proszynia do kamratōw"
+
 msgid "Notes"
 msgstr "Notatki"
 
@@ -657,6 +675,10 @@ msgid "Privacy"
 msgstr "Prywatność"
 
 msgid "Privacy Settings"
+msgstr "Nŏstowiynia prywatności"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Nŏstowiynia prywatności"
 
 #. Appears when you mouse over your name in the top navigation
@@ -724,6 +746,11 @@ msgstr "Ôbezdrzij przŏcielstwo"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Czytej dalij"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Czytej dalij"
 
 #. Link that appears under a post in another language; click it to translate
@@ -840,6 +867,11 @@ msgstr "Witej"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Co Ci łazi po gowie?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Co Ci łazi po gowie?"
 
 #. Main prompt when you enter in a new status update

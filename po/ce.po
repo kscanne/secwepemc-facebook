@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Sarah Slye\n"
 "Language-Team: Chechen\n"
@@ -533,6 +533,19 @@ msgstr "Гlо"
 msgid "Home"
 msgstr "Коьрта агlо"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Хlун ду хьан дагахь?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "Интересаш"
@@ -618,6 +631,11 @@ msgstr "Керла хаам"
 msgid "News Feed"
 msgstr "Хаамийн билзиг"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Доттагlалла кховдор"
+
 msgid "Notes"
 msgstr "Билгалдахарш"
 
@@ -674,6 +692,10 @@ msgid "Privacy"
 msgstr "Къайладахьар"
 
 msgid "Privacy Settings"
+msgstr "Къайладахьаран нисдарш"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Къайладахьаран нисдарш"
 
 #. Appears when you mouse over your name in the top navigation
@@ -741,6 +763,11 @@ msgstr "Доттагlалле хьажа"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Кхин а хьажа"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Кхин а хьажа"
 
 #. Link that appears under a post in another language; click it to translate
@@ -858,6 +885,11 @@ msgstr "Марша догlийла"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Хlун ду хьан дагахь?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Хlун ду хьан дагахь?"
 
 #. Main prompt when you enter in a new status update

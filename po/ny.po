@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:23-0600\n"
 "PO-Revision-Date: 2012-02-20 16:59:12-06:00\n"
 "Last-Translator: Edmond Kachale\n"
 "Language-Team: Chichewa\n"
@@ -533,6 +533,19 @@ msgstr "Thandizo"
 msgid "Home"
 msgstr "Bwalo"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Mwalinganji?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "ZOKONDA"
@@ -616,6 +629,11 @@ msgstr "Uthenga Watsopano"
 msgid "News Feed"
 msgstr "Mpheketsera"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Ofuna Chipongo"
+
 msgid "Notes"
 msgstr "Timakalata"
 
@@ -670,6 +688,10 @@ msgid "Privacy"
 msgstr "Chinsinsi"
 
 msgid "Privacy Settings"
+msgstr "Makonzedwe a Zinsinsi"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Makonzedwe a Zinsinsi"
 
 #. Appears when you mouse over your name in the top navigation
@@ -737,6 +759,11 @@ msgstr "Onani Ubwenzi"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Onani Zambiri"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Onani Zambiri"
 
 #. Link that appears under a post in another language; click it to translate
@@ -851,6 +878,11 @@ msgstr "Takulandirani"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Mwalinganji?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Mwalinganji?"
 
 #. Main prompt when you enter in a new status update

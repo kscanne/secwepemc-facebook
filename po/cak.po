@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-02-21 17:25:20-06:00\n"
 "Last-Translator: Robert Henderson\n"
 "Language-Team: Kaqchikel\n"
@@ -519,6 +519,19 @@ msgstr "To'ïk"
 msgid "Home"
 msgstr "Rutikirib'al"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "¿Achike tajin nana'ojij?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -606,6 +619,11 @@ msgstr "Jun chik taqo'n"
 msgid "News Feed"
 msgstr "Taq rutzijol"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Taqoj richin ajowab'äl"
+
 msgid "Notes"
 msgstr ""
 
@@ -661,6 +679,10 @@ msgid "Privacy"
 msgstr "Rajawalil"
 
 msgid "Privacy Settings"
+msgstr "Runuk'ulem ri rajawalil"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Runuk'ulem ri rajawalil"
 
 #. Appears when you mouse over your name in the top navigation
@@ -728,6 +750,11 @@ msgstr "Natz'ët iwachib'ilanïk"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Rutz'etik ch'aqa' chik"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Rutz'etik ch'aqa' chik"
 
 #. Link that appears under a post in another language; click it to translate
@@ -844,6 +871,11 @@ msgstr ""
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "¿Achike tajin nana'ojij?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "¿Achike tajin nana'ojij?"
 
 #. Main prompt when you enter in a new status update

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-03-15 15:18-0600\n"
 "Last-Translator: José Pedro Ferreira\n"
 "Language-Team: Mirandese\n"
@@ -540,6 +540,19 @@ msgstr "Ajuda"
 msgid "Home"
 msgstr "Casa"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "An que pensas?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -627,6 +640,11 @@ msgstr "Mensaige nuoba"
 msgid "News Feed"
 msgstr "Lhista de amboras"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Pedidos de amizade"
+
 msgid "Notes"
 msgstr "Notas"
 
@@ -681,6 +699,10 @@ msgid "Privacy"
 msgstr "Pribacidade"
 
 msgid "Privacy Settings"
+msgstr "Oupçones de pribacidade"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Oupçones de pribacidade"
 
 #. Appears when you mouse over your name in the top navigation
@@ -749,6 +771,11 @@ msgstr "Ber Amisade"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Ber Mais"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Ber Mais"
 
 #. Link that appears under a post in another language; click it to translate
@@ -866,6 +893,11 @@ msgstr "Bien benido"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "An que pensas?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "An que pensas?"
 
 #. Main prompt when you enter in a new status update

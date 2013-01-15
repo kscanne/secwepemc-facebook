@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-11-12 21:19+0200\n"
 "Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULA LOCALIZATION\n"
@@ -503,6 +503,19 @@ msgstr "Ballal"
 msgid "Home"
 msgstr "Damal"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Hol ko woni e hakkille maa?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "KATOJINE"
@@ -586,6 +599,11 @@ msgstr "Ɓatakuure Hesere"
 msgid "News Feed"
 msgstr "Balol Kabaruuji"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Ɗaɓɓooɓe Cehilaagal"
+
 msgid "Notes"
 msgstr "Ciife"
 
@@ -640,6 +658,10 @@ msgid "Privacy"
 msgstr "Suturo"
 
 msgid "Privacy Settings"
+msgstr "Teelte Suturo"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Teelte Suturo"
 
 #. Appears when you mouse over your name in the top navigation
@@ -707,6 +729,11 @@ msgstr "Yiy Cehilaagal"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Yiy Goɗɗi"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Yiy Goɗɗi"
 
 #. Link that appears under a post in another language; click it to translate
@@ -821,6 +848,11 @@ msgstr "On Jaɓɓaama"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Hol ko woni e hakkille maa?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Hol ko woni e hakkille maa?"
 
 #. Main prompt when you enter in a new status update

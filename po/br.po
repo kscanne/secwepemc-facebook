@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-03-05 21:50:27-06:00\n"
 "Last-Translator: Fulup Jakez\n"
 "Language-Team: Brezhoneg\n"
@@ -550,6 +550,19 @@ msgstr "Skoazell"
 msgid "Home"
 msgstr "Degemer"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Petra a fell deoc'h ober ?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "DEDENN"
@@ -635,6 +648,11 @@ msgstr "Kemennadenn nevez"
 msgid "News Feed"
 msgstr "Red ar c'heleier"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Goulennoù ar vignoned"
+
 msgid "Notes"
 msgstr "Notennoù"
 
@@ -689,6 +707,10 @@ msgid "Privacy"
 msgstr "Prevezded"
 
 msgid "Privacy Settings"
+msgstr "Arventennoù prevezded"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Arventennoù prevezded"
 
 #. Appears when you mouse over your name in the top navigation
@@ -756,6 +778,11 @@ msgstr "Gwelet ar vignoniezh"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Gwelet traoñoc'h"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Gwelet traoñoc'h"
 
 #. Link that appears under a post in another language; click it to translate
@@ -875,6 +902,11 @@ msgstr "Degemer mat"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Petra a fell deoc'h ober ?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Petra a fell deoc'h ober ?"
 
 #. Main prompt when you enter in a new status update

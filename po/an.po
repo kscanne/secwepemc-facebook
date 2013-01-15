@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-07-05 02:10+0200\n"
 "Last-Translator: Juan Pablo Martínez Cortés <juanpabl@gmail.com>\n"
 "Language-Team: Softaragonés\n"
@@ -563,6 +563,19 @@ msgstr "Aduya"
 msgid "Home"
 msgstr "Inicio"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "En qué yes pensando?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "INTERESES"
@@ -649,6 +662,11 @@ msgstr "Nuevo mensache"
 msgid "News Feed"
 msgstr "Nueva canal (feed)"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Demandas d'amistanza"
+
 msgid "Notes"
 msgstr "Notas"
 
@@ -703,6 +721,10 @@ msgid "Privacy"
 msgstr "Privacidat"
 
 msgid "Privacy Settings"
+msgstr "Achustes de privacidat"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Achustes de privacidat"
 
 #. Appears when you mouse over your name in the top navigation
@@ -771,6 +793,11 @@ msgstr "Veyer os vinclos d'amistanza"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Veyer-ne mas"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Veyer-ne mas"
 
 #. Link that appears under a post in another language; click it to translate
@@ -888,6 +915,11 @@ msgstr "Bienveniu"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "En qué yes pensando?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "En qué yes pensando?"
 
 #. Main prompt when you enter in a new status update

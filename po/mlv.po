@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Alex François\n"
 "Language-Team: Mwotlap\n"
@@ -557,6 +557,19 @@ msgstr "Qeleave ōk?"
 msgid "Home"
 msgstr "M̄ōl lok me"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Makteg nēk ēnōk?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -640,6 +653,11 @@ msgstr "So yap te kaka gayaq"
 msgid "News Feed"
 msgstr "Noyoy nongēn"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "So kamyō so bulsal"
+
 msgid "Notes"
 msgstr "Nusu hohole"
 
@@ -694,6 +712,10 @@ msgid "Privacy"
 msgstr "Mino mahgēk"
 
 msgid "Privacy Settings"
+msgstr "Ige soloteg tiple et"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Ige soloteg tiple et"
 
 #. Appears when you mouse over your name in the top navigation
@@ -761,6 +783,11 @@ msgstr "Nakaka non yoge en"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Vatah qēt"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Vatah qēt"
 
 #. Link that appears under a post in another language; click it to translate
@@ -878,6 +905,11 @@ msgstr "Lemtap nēwē!"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Makteg nēk ēnōk?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Makteg nēk ēnōk?"
 
 #. Main prompt when you enter in a new status update

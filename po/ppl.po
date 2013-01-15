@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:23-0600\n"
 "PO-Revision-Date: 2012-02-20 17:58:12-06:00\n"
 "Last-Translator: Alan R. King\n"
 "Language-Team: Nawat\n"
@@ -540,6 +540,19 @@ msgstr "Timetzpalewikan"
 msgid "Home"
 msgstr "Achtu Iswat"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Tay tina?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr ""
@@ -627,6 +640,11 @@ msgstr "Yankwik Amat"
 msgid "News Feed"
 msgstr "Yajyankwik"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Ká kineki muchiwa mukunpa"
+
 msgid "Notes"
 msgstr "Tajtajkwilul"
 
@@ -681,6 +699,10 @@ msgid "Privacy"
 msgstr "Ijichtaka"
 
 msgid "Privacy Settings"
+msgstr "Muijichtaka"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Muijichtaka"
 
 #. Appears when you mouse over your name in the top navigation
@@ -749,6 +771,11 @@ msgstr "Tay Tajtaketztiwit"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Shikita Chiupiuk"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Shikita Chiupiuk"
 
 #. Link that appears under a post in another language; click it to translate
@@ -866,6 +893,11 @@ msgstr "Yek shiajsi"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Tay tina?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Tay tina?"
 
 #. Main prompt when you enter in a new status update

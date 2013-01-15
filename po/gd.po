@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-09-13 18:10-0000\n"
 "Last-Translator: Michael Bauer <fios@akerbeltz.org>\n"
 "Language-Team: Akerbeltz\n"
@@ -580,6 +580,19 @@ msgstr "Cobhair"
 msgid "Home"
 msgstr "Dhachaigh"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Dè tha dol?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "ÙIDH AGAD ANN"
@@ -663,6 +676,11 @@ msgstr "Teachdaireachd ùr"
 msgid "News Feed"
 msgstr "Inbhir nan naidheachd"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Iarrtasan càirdeis"
+
 msgid "Notes"
 msgstr "Nòtaichean"
 
@@ -717,6 +735,10 @@ msgid "Privacy"
 msgstr "Prìobhaideachd"
 
 msgid "Privacy Settings"
+msgstr "Roghainnean prìobhaideachd"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Roghainnean prìobhaideachd"
 
 #. Appears when you mouse over your name in the top navigation
@@ -784,6 +806,11 @@ msgstr "Faic an càirdeas"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Faic barrachd"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Faic barrachd"
 
 #. Link that appears under a post in another language; click it to translate
@@ -900,6 +927,11 @@ msgstr "Fàilte ort"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Dè tha dol?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Dè tha dol?"
 
 #. Main prompt when you enter in a new status update

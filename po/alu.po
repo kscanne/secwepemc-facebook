@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:28-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:21-0600\n"
 "PO-Revision-Date: 2012-09-23 05:37:40-0500\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: 'Are'are\n"
@@ -501,6 +501,19 @@ msgstr "Haiponi"
 msgid "Home"
 msgstr "Tara'aeha"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "'Aita raona manatamu na"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "Raeto'oha 'o"
@@ -584,6 +597,11 @@ msgstr "Wara hauru"
 msgid "News Feed"
 msgstr "Wara ka hura"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Maihoe ha'ani'o"
+
 msgid "Notes"
 msgstr "Wara"
 
@@ -638,6 +656,9 @@ msgid "Privacy"
 msgstr ""
 
 msgid "Privacy Settings"
+msgstr ""
+
+msgid "Privacy Shortcuts"
 msgstr ""
 
 #. Appears when you mouse over your name in the top navigation
@@ -705,6 +726,11 @@ msgstr "Resia Maihoeha"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Resia teharu 'are ru'u"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Resia teharu 'are ru'u"
 
 #. Link that appears under a post in another language; click it to translate
@@ -819,6 +845,11 @@ msgstr ""
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "'Aita raona manatamu na"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "'Aita raona manatamu na"
 
 #. Main prompt when you enter in a new status update

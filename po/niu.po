@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:30-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: \n"
 "Language-Team: Niuean\n"
@@ -501,6 +501,19 @@ msgstr "Lagomatai"
 msgid "Home"
 msgstr "Kaina"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Fēfē haau a manatu"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "TAU UHOMANAKO"
@@ -584,6 +597,11 @@ msgstr "Tohi Foou"
 msgid "News Feed"
 msgstr "Fagai Tala"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Uiina ke Kapitiga"
+
 msgid "Notes"
 msgstr "Pepa Tohi"
 
@@ -638,6 +656,10 @@ msgid "Privacy"
 msgstr "Tau Hataki"
 
 msgid "Privacy Settings"
+msgstr "Fakatokaaga he Tau Hataki"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Fakatokaaga he Tau Hataki"
 
 #. Appears when you mouse over your name in the top navigation
@@ -705,6 +727,11 @@ msgstr "Kitia e Fekapitigaaki"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Kitia Falu A Mena Foki"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Kitia Falu A Mena Foki"
 
 #. Link that appears under a post in another language; click it to translate
@@ -819,6 +846,11 @@ msgstr "Fakaalofa Atu"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Fēfē haau a manatu"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Fēfē haau a manatu"
 
 #. Main prompt when you enter in a new status update

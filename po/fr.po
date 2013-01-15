@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-23 10:53:31-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: French\n"
@@ -509,6 +509,19 @@ msgstr "Aide"
 msgid "Home"
 msgstr "Accueil"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Exprimez-vous"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "Intérêts"
@@ -593,6 +606,11 @@ msgstr "Nouveau message"
 msgid "News Feed"
 msgstr "Fil d’actualité"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Demandes d’ajout à la liste d’amis"
+
 msgid "Notes"
 msgstr "Articles"
 
@@ -649,6 +667,10 @@ msgid "Privacy"
 msgstr "Confidentialité"
 
 msgid "Privacy Settings"
+msgstr "Paramètres de confidentialité"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Paramètres de confidentialité"
 
 #. Appears when you mouse over your name in the top navigation
@@ -718,6 +740,11 @@ msgstr "Voir les liens d’amitié"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Afficher la suite"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Afficher la suite"
 
 #. Link that appears under a post in another language; click it to translate
@@ -833,6 +860,11 @@ msgstr "Bienvenue"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Exprimez-vous"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Exprimez-vous"
 
 #. Main prompt when you enter in a new status update

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 11:58:29-0600\n"
+"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
 "PO-Revision-Date: 2012-02-29 08:07:23-06:00\n"
 "Last-Translator: Edward Owen Jones\n"
 "Language-Team: Cornish\n"
@@ -549,6 +549,19 @@ msgstr "Gweres"
 msgid "Home"
 msgstr "Tre"
 
+#. Main prompt when you enter in a new status update
+msgid "How are you doing, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+msgid "How are you feeling, %s?"
+msgstr ""
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "How's it going, %s?"
+msgstr "Pyth a dybydh?"
+
 #. In left-hand column on home page
 msgid "INTERESTS"
 msgstr "TRAOW KERYS"
@@ -632,6 +645,11 @@ msgstr "Messach nowyth"
 msgid "News Feed"
 msgstr "Fros nowodhow"
 
+#. In "Friend Requests" drop down
+#, fuzzy
+msgid "No new requests"
+msgstr "Govynnow koweth"
+
 msgid "Notes"
 msgstr "Notennow"
 
@@ -686,6 +704,10 @@ msgid "Privacy"
 msgstr "Privetter"
 
 msgid "Privacy Settings"
+msgstr "Sedhesow privetter"
+
+#, fuzzy
+msgid "Privacy Shortcuts"
 msgstr "Sedhesow privetter"
 
 #. Appears when you mouse over your name in the top navigation
@@ -753,6 +775,11 @@ msgstr "Gwel kowethegeth"
 
 #. See more of a post that was truncated because it was very long
 msgid "See More"
+msgstr "Gwel moy"
+
+#. Under "Privacy Shortcuts" menu
+#, fuzzy
+msgid "See More Settings"
 msgstr "Gwel moy"
 
 #. Link that appears under a post in another language; click it to translate
@@ -869,6 +896,11 @@ msgstr "Dynnargh"
 #. Main prompt when you enter in a new status update
 #, fuzzy
 msgid "What's going on, %s?"
+msgstr "Pyth a dybydh?"
+
+#. Main prompt when you enter in a new status update
+#, fuzzy
+msgid "What's happening, %s?"
 msgstr "Pyth a dybydh?"
 
 #. Main prompt when you enter in a new status update
