@@ -69,7 +69,7 @@ to English, etc.
 | sma | en | South Saami | Åarjelsaemien gïele | 1.0.0 | Not yet released | David Jonasson |
 | son | en | Songhay | Soŋay | 1.0.1 | Not yet released | Mohomodou Houssouba, Abdoul Cissé |
 | szl | en | Silesian | Ślůnsko godka | 1.0.0 | "Firefox":http://userscripts.org/scripts/show/138754 | Grzegorz Kulik |
-| yi | en | Yiddish | ייִדיש | 1.0.0 | Not yet released | Jordan Kutzik |
+| yi | en | Yiddish | ייִדיש | 1.0.0 | For testing only | Jordan Kutzik |
 
 
 To use these scripts in other browsers, you'll first need to install
