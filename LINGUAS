@@ -9,7 +9,7 @@ ce-x-en	en	Chechen	Нохчийн	1.0.0	Not yet released	Bulat Betalgiry, Islam 
 ce	ru	Chechen	Нохчийн	1.0.0	Not yet released	Bulat Betalgiry, Islam Elsanov, Sarah Slye
 ceb	en	Cebuano	Binisaya	1.0.0	Not yet released	Joshua Verano
 csb	en	Kashubian	Kaszëbsczi	1.0.0	http://userscripts.org/scripts/show/139959	Mateusz Meyer
-dsb	en	Lower Sorbian	Dolnoserbski	1.0.6	http://www.sorbzilla.de/facebook/facebook-dsb.user.js	Michał Wjelk
+dsb	de	Lower Sorbian	Dolnoserbski	1.0.6	http://www.sorbzilla.de/facebook/facebook-dsb_de.user.js	Michał Wjelk
 eml	it	Emiliano-Romagnolo	Emiliàn e Rumagnòl	1.0.1	http://userscripts.org/scripts/show/129394	Federico L. G. Faroldi
 en-GB	en	British English	British English	1.0.0	Alternate source language	Kevin Scannell, Steve Harris
 es	en	Spanish	Español	1.0.0	Alternate source language	Kevin Scannell
@@ -24,7 +24,7 @@ gup	en	Kunwinjku	Kunwinjku	1.0.1	https://chrome.google.com/webstore/detail/oahnk
 gup-x-gud	en	Gundjeihmi	Gundjeihmi	1.0.1	https://chrome.google.com/webstore/detail/mdloehadmkkehlnpogfnhfiommlingnp, http://userscripts.org/scripts/show/129296	Violet Lawson
 gv	en-GB	Manx Gaelic	Gaelg	1.0.2	https://chrome.google.com/webstore/detail/deblagdmoaibgilppbegnfcpdmdlejkb, http://userscripts.org/scripts/show/127270	Chris Sheard
 hil	en	Hiligaynon	Hiligaynon	1.0.5	http://userscripts.org/scripts/show/127142	Francis Dimzon, Eliodora Dimzon, Edgar Siscar, Ofelia Libo-on-Salaya, Blomar Rain Catipunan, Essan Labos, Emmanuel Lerona, Ruben Magan Gamala
-hsb	en	Upper Sorbian	Hornjoserbsce	1.0.6	http://www.sorbzilla.de/facebook/facebook-hsb.user.js	Michał Wjelk
+hsb	de	Upper Sorbian	Hornjoserbsce	1.0.6	http://www.sorbzilla.de/facebook/facebook-hsb_de.user.js	Michał Wjelk
 ht	fr	Haitian Creole	Kreyòl Ayisyen	1.0.2	http://userscripts.org/scripts/show/130010	Jean Came Poulard
 ht-x-en	en	Haitian Creole	Kreyòl Ayisyen	1.0.2	http://userscripts.org/scripts/show/126548	Jean Came Poulard
 ilo	en	Ilocano	Ilocano	1.0.1	https://chrome.google.com/webstore/detail/lgpfghenkmcdpflcgkdabfpclgpnjmaa, http://userscripts.org/scripts/show/140649	Eugene Carmelo C. Pedro
