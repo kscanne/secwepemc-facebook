@@ -17,7 +17,7 @@ facebook-ga.user.js: po/*.po template.user.js po2gm.pl generate-gm.sh LINGUAS te
 	bash generate-gm.sh
 
 INSTALL.textile: LINGUAS INSTALL-template
-	cat LINGUAS | egrep -v 'Alternate source' | sed 's/\t/ | /g' | sed 's/^/| /; s/$$/ |/' | sed 's/\(https\?:\/\/userscripts.org[^ ,]*\)/"Firefox":&/g; s/\(https\?:\/\/chrome.google.com[^ ,]*\)/"Chrome":&/g' > table.txt
+	cat LINGUAS | egrep -v 'Alternate source' | sed 's/\t/ | /g' | sed 's/^/| /; s/$$/ |/' | sed 's/\(https\?:\/\/\(userscripts.org\|www.sorbzilla\)[^ ,]*\)/"Firefox":&/g; s/\(https\?:\/\/chrome.google.com[^ ,]*\)/"Chrome":&/g' > table.txt
 	sed '/^|_\./r table.txt' INSTALL-template > $@
 	rm -f table.txt
 
