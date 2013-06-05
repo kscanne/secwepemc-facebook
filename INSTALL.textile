@@ -61,6 +61,7 @@ to English, etc.
 | niu | en | Niue | Niue | 1.0.1 | "Chrome":https://chrome.google.com/webstore/detail/facebook-in-niue/jnlmmfcibgioagccfilfpddbemcbnecg, "Firefox":http://userscripts.org/scripts/show/150496 | Emani Fakaotimanava-Lui |
 | nv | en | Navajo | Diné bizaad | 1.0.0 | Not yet released | @NavajoNow |
 | ny | en | Chichewa | Chicheŵa | 1.0.2 | "Chrome":https://chrome.google.com/webstore/detail/kodmgiidkcddbenebgjhmgbfakdoflbb, "Firefox":http://userscripts.org/scripts/show/126642 | Edmond Kachale |
+| pez | en | Penan | Ha' Penan | 1.0.0 | Not yet released | Rachael Peterson |
 | ppl | es | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126587 | Alan King |
 | ppl-x-en | en | Nawat | Nawat | 1.0.1 | "Firefox":http://userscripts.org/scripts/show/126588 | Alan King |
 | prg | pl | Old Prussian | Prūsiskan | 1.5 | "Firefox":http://userscripts.org/scripts/show/152938 | Piteris Sasnins |
