@@ -81,11 +81,11 @@ msgstr[1] ""
 #. %a1 is a person, %a2 is something like "4 other people"
 #. This is to let you know about birthdays in right-hand column on home page
 msgid "%a1 and %a2"
-msgstr ""
+msgstr "%a1 bu %a2"
 
 #. Both %a1 and %a2 are names of people
 msgid "%a1 and %a2 are now friends."
-msgstr ""
+msgstr "%a1 bu %a2 yama mudyi."
 
 #. %a1 and %a3 are names of people; %a2 is something like "5 other friends"
 msgid "%a1 and %a2 are now friends with %a3."
@@ -93,7 +93,7 @@ msgstr ""
 
 #. %a1 and %a2 are people, and %a3 is "link", "photo", "status", etc.
 msgid "%a1 and %a2 commented on a %a3."
-msgstr ""
+msgstr "%a1 bu %a2 yalla-gu on a %a3."
 
 #. %a1 is a name, %a2 is a name or else something like "6 others"
 #. %a3 is the name of a page like "Rage Against the Machine"
@@ -131,27 +131,27 @@ msgstr ""
 
 #. %a is someone's name (female)
 msgid "%a changed her profile picture."
-msgstr ""
+msgstr "%a nguguwala ngulung banda-lang."
 
 #. %a is someone's name (male)
 msgid "%a changed his profile picture."
-msgstr ""
+msgstr "%a nguguwala ngulung banda-lang."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on a %a2."
-msgstr ""
+msgstr "%a1 yarragu %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on her own %a2."
-msgstr ""
+msgstr "%a1 yarra gwiiny own %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on his own %a2."
-msgstr ""
+msgstr "%a1 yarra gwiiny own %a2."
 
 #. %a1 is a person's name, %a2 is "link", "post", "status", or "photo"
 msgid "%a1 commented on your %a2."
-msgstr ""
+msgstr "%a1 yarra gwiiny your %a2."
 
 msgid "Activity Log"
 msgstr ""
@@ -251,27 +251,27 @@ msgstr ""
 
 #. %a1 is a person, %a2 is a place: "John Doe was tagged at Wilson Farm."
 msgid "%a1 was tagged at %a2."
-msgstr ""
+msgstr "%a1 yuwunbarra %a2."
 
 #. %a1 and %a2 are names of people, %a3 is "link", "photo", "post", or "status"
 msgid "%a1 was tagged in %a2's %a3."
-msgstr ""
+msgstr "%a1 yuwunbarra mugumnawa %a2 %a3."
 
 #. %a1 is a person, %a2 is "photo" or "life event" (others?)
 msgid "%a1 was tagged in a %a2."
-msgstr ""
+msgstr "%a1 yuwunbarra mugumnawa %a2."
 
 #. %a1 and %a2 are names of people
 msgid "%a1 was tagged in %a2's photos."
-msgstr ""
+msgstr "%a1 yuwunbarra mugumnawa %a2 dandah."
 
 #. %a is someone's name (female)
 msgid "%a updated her cover photo."
-msgstr ""
+msgstr "%a dhalanggirr gwiiny ngulung dhandarrah."
 
 #. %a is someone's name (male)
 msgid "%a updated his cover photo."
-msgstr ""
+msgstr "%a dhalanggirr gwiiny ngulung dhandarrah."
 
 #. Format. %B = name of the month ("February"), and %d = day of the month ("20")
 msgid "%B %d"
@@ -479,7 +479,7 @@ msgstr "Mudyi Yarrabang"
 
 #. People who have asked to be your friend on Facebook; top left of screen
 msgid "Friend Requests"
-msgstr ""
+msgstr "Ngi/nya ngadhi mudyi"
 
 #. A link that takes you to a list of all your Facebook friends
 msgid "Friends"
