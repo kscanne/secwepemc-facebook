@@ -55,6 +55,7 @@ var spanclasses = new Array();
 spanclasses.push('default_message');  // Like/Dislike
 spanclasses.push('saving_message');   // Like/Dislike
 spanclasses.push('uiStreamSource');   // %T near %a
+spanclasses.push('_71u _70n');   // "Recent Activity" on user profile page
 
 // Replace the search string with the translated string
 function r(dd, s, t) {
