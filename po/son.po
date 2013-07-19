@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 16:40:23-0600\n"
+"POT-Creation-Date: 2013-07-19 15:06:50-0500\n"
 "PO-Revision-Date: 2012-03-17 23:02+0200\n"
 "Last-Translator: Mohomodou Houssouba <mh@bollag-areal.ch>\n"
 "Language-Team: Songhay.org\n"
@@ -522,6 +522,10 @@ msgstr "Cerey"
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
 msgstr "CEREY"
+
+#. A couple places on user home page
+msgid "Groups"
+msgstr ""
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"

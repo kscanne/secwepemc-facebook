@@ -237,6 +237,8 @@ Friend Requests
 Friends
 #. Heading above your lists of friends ("Work", "Family", etc.)
 FRIENDS
+#. A couple places on user home page
+Groups
 #. Heading above the groups you're in, left-hand navigation on home page
 GROUPS
 #. Link at bottom of home page ("More"); also in dropdown menu next to "Home"

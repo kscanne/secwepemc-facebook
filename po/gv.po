@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
+"POT-Creation-Date: 2013-07-19 15:06:49-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=n%10==1 ? 0 : n%10==2 ? 1 : n%20==0 ? 2 : 3\n"
+"Plural-Forms: nplurals=4; plural=n%10==1 ? 0 : n%10==2 ? 1 : n%20==0 ? 2 : "
+"3\n"
 
 #. Lines like this one beginning with "#." are comments; no need to translate!
 #. The first six words to translate are used in a number of different messages,
@@ -515,6 +516,10 @@ msgstr "Caarjyn"
 #. Heading above your lists of friends ("Work", "Family", etc.)
 msgid "FRIENDS"
 msgstr "CAARJYN"
+
+#. A couple places on user home page
+msgid "Groups"
+msgstr ""
 
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
