@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gm-facebook\n"
 "Report-Msgid-Bugs-To: <kscanne@gmail.com>\n"
-"POT-Creation-Date: 2013-01-15 16:40:22-0600\n"
+"POT-Creation-Date: 2013-07-19 15:06:50-0500\n"
 "PO-Revision-Date: 2012-02-19 11:54:03-06:00\n"
 "Last-Translator: Kevin Scannell\n"
 "Language-Team: Eastern Penan\n"
@@ -118,7 +118,7 @@ msgstr "%a1 ngan %a2 tenada' lem gaben %a3."
 
 #. Link at bottom of home page (under "More") to info about Facebook
 msgid "About"
-msgstr "Pasan tong Facebook"
+msgstr "Pasan"
 
 msgid "about an hour ago"
 msgstr "Ngio jah jam lepah"
@@ -489,6 +489,10 @@ msgstr "Keruah"
 msgid "FRIENDS"
 msgstr "KERUAH"
 
+#. A couple places on user home page
+msgid "Groups"
+msgstr "Tipun Kelunan"
+
 #. Heading above the groups you're in, left-hand navigation on home page
 msgid "GROUPS"
 msgstr "TIPUN KELUNAN"
@@ -659,7 +663,7 @@ msgstr "Ngevélé ineu éh nelim"
 msgid "Privacy Shortcuts"
 msgstr "Jalan rigah melim"
 
-#. Appears when you mouse over your name in the top navigation 
+#. Appears when you mouse over your name in the top navigation
 msgid "Profile"
 msgstr "Profil"
 
@@ -748,7 +752,7 @@ msgstr "Jalan ngeliwah"
 
 #. Verb. A link that allows you to share (usually someone else's) post with your friends
 msgid "Share"
-msgstr "Pata'an"
+msgstr "Peta'an"
 
 #. A link that allows you to sort posts by "most recent" or "top stories"
 msgid "SORT"
