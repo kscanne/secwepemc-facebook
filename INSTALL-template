@@ -36,7 +36,4 @@ the links in the table above. I've only tested this with Firefox.
 
 How to Uninstall
 
-If you decide you'd like to uninstall the addon, it's very easy.
-In Chrome, you can disable or uninstall from the "Extensions manager":chrome://extensions.  In Firefox, you can manage Greasemonkey scripts by going to
-Tools -> Addons, and clicking "User Scripts" (with the monkey icon) 
-on the right-hand side of the page.
+If you decide you'd like to uninstall the addon, it's very easy.  In Chrome, you can disable or uninstall from the "Extensions manager" (chrome://extensions), or choose "Extensions" from the Preferences menu.  In Firefox, you can manage Greasemonkey scripts by going to Tools -> Addons, and clicking "User Scripts" (with the monkey icon) on the right-hand side of the page.
