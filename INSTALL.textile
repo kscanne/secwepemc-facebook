@@ -84,3 +84,10 @@ the links in the table above. I've only tested this with Firefox.
 * "Firefox":http://www.mozilla.com/en-US/firefox/firefox.html ("Addon":https://addons.mozilla.org/firefox/addon/748)
 * "Internet Explorer":http://windows.microsoft.com/en-us/internet-explorer/products/ie/home ("Addon":http://www.bhelpuri.net/Trixie/)
 * "Safari":http://www.apple.com/safari/ ("Addon":http://8-p.info/greasekit/)
+
+How to Uninstall
+
+If you decide you'd like to uninstall the addon, it's very easy.
+In Chrome, you can disable or uninstall from the "Extensions manager":chrome://extensions.  In Firefox, you can manage Greasemonkey scripts by going to
+Tools -> Addons, and clicking "User Scripts" (with the monkey icon) 
+on the right-hand side of the page.
