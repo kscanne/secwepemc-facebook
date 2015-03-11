@@ -67,6 +67,7 @@ to English, etc.
 | prg | pl | Old Prussian | Prūsiskan | 1.5 | "Firefox":http://userscripts.org/scripts/show/152938 | Piteris Sasnins |
 | quc | es | K'iche' | K'iche' | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/aakmiihmhfpodkdadollmmhgfjgjolgf, "Firefox":http://userscripts.org/scripts/show/142340 | Diego Alburez, David Elías Ixmatá, Elena Tambriz Tahay, Biviana Tum Macario, Luis Francisco Jamínez, Ricardo Guarchaj, Elizabeth Tambriz, Catarina Cajtunaj |
 | rop | en | Kriol | Kriol | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/fcddphnepicfeheldnbeccnhiohjefhp, "Firefox":http://userscripts.org/scripts/show/126589 | Greg Dickson |
+| sco | en | Scots | 1.0.0 | Not yet released | Cobradabest |
 | shs | en | Secwepemctsín | Secwepemctsín | 1.0.2 | "Firefox":http://userscripts.org/scripts/show/127738 | Neskie Manuel, Gabe Archie, Carl Archie |
 | sm | en | Samoan | Gagana Sāmoa | 1.0.3 | "Chrome":https://chrome.google.com/webstore/detail/moolaomdjoelmpjlijekjammeijelmae, "Firefox":http://userscripts.org/scripts/show/140636 | Chris Bickers |
 | sma | en | South Saami | Åarjelsaemien gïele | 1.0.0 | Not yet released | David Jonasson |
