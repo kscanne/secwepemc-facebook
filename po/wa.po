@@ -946,4 +946,3 @@ msgstr "semdi"
 #. Day of the Week
 msgid "Sunday"
 msgstr "dimegne"
-
